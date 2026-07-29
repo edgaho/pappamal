@@ -423,6 +423,32 @@ a:hover { color: var(--blue); }
   margin-top: 26px;
 }
 
+/* ---------------------------------------------------------- om navnet --- */
+
+.about {
+  max-width: 620px;
+  margin: 80px auto 0;
+}
+.about .rule { margin-bottom: 32px; }
+.about h2 {
+  font-family: var(--font-head);
+  font-size: 1.9rem;
+  font-weight: 600;
+  text-align: center;
+  margin: 0 0 .75em;
+}
+.about p {
+  font-size: 1.02rem;
+  line-height: 1.78;
+  color: var(--ink-soft);
+  margin: 0 0 1.15em;
+}
+.about p.closer {
+  color: var(--gold-deep);
+  font-style: italic;
+  margin-bottom: 0;
+}
+
 /* ---------------------------------------------------------- breadcrumb -- */
 
 .breadcrumb {

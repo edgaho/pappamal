@@ -6,15 +6,25 @@ Gudene i Edda krangler, lurer hverandre og angrer — og det er nettopp derfor d
 med. Loke gjorde minst like mye godt som vondt, og Tyr la hånden i ulvens munn fordi noen måtte.
 Her er de fortalt videre, med all begeistringen de fortjener.
 
-Laget for lesere på 4 og 7 år, og for en iPad ved sengekanten. Ingen reklame, ingen sporing, ingen
+Laget for høytlesning, og for en iPad ved sengekanten. Ingen reklame, ingen sporing, ingen
 innlogging. Bare tekst som er stor nok til å leses høyt. Bruk den gjerne hjemme hos deg også.
 
-## Navnet
+## Om navnet
 
-Eddaens diktnavn sier hvem ordene kommer fra: Vavtrudnesmål er jotnens, Alvismål er dvergens,
-Håvamål er Odins. Håvamål er samtidig det diktet som handler om hvordan man lever — hvordan man er
-mot venner, mot fremmede, mot seg selv. Det er den jobben eventyrene gjør når de leses høyt, og det
-er derfor navnet ble hetende noe på `-mål`.
+Eddaens dikt heter det de heter fordi navnet sier hvem ordene kommer fra. Vavtrudnesmål er jotnens,
+Alvismål er dvergens, Håvamål er Odins. Håvamål er samtidig diktet om hvordan man lever, og det er
+den delen vi har hatt mest bruk for.
+
+Gudene er ikke store forbilder. De gjør dumme ting, de angrer, og de kommer seg videre. Det gjør dem
+lette å ta fram når noe er vanskelig — det er kortere vei til «husker du at Tyr visste at det ville
+koste ham hånden, og gjorde det likevel?» enn til å forklare mot fra grunnen av.
+
+Vi har hatt tunge perioder, som alle har. Fortellingene har hjulpet oss gjennom flere av dem, ikke
+fordi de gir svar, men fordi de gir noe å snakke gjennom. Og fordi de er til å bli begeistret av:
+det er lov å synes at en dverg som blir til stein er det morsomste som finnes, samme hvilken uke det
+er.
+
+Derfor «-mål». Ordene kommer fra en pappa, ikke fra en gud — det er hele forklaringen.
 
 ## Se den lokalt
 
@@ -35,8 +45,8 @@ npx serve .
 
 Skrevet ned:
 
-- **Odin og jotnen som kunne alle svarene** — fritt etter Vavtrudnesmål, Den eldre Edda. 6–9 år.
-- **Tor og dvergen som visste alt** — fritt etter Alvismål, Den eldre Edda. 4–9 år.
+- **Odin og jotnen som kunne alle svarene** — fritt etter Vavtrudnesmål, Den eldre Edda.
+- **Tor og dvergen som visste alt** — fritt etter Alvismål, Den eldre Edda.
 
 Hver fortelling har en seksjon **«For nysgjerrige foreldre»** nederst: hva som er tro mot kilden,
 hva som er endret, hva som er diktet til, og hva som er tonet ned.
