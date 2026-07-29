@@ -1,11 +1,11 @@
-/* Holm & Eventyr — tiny bit of state: night mode + text size.
+/* Pappamål — tiny bit of state: night mode + text size.
    Both persist in localStorage so an iPad remembers how the kids like it. */
 
 (function () {
   'use strict';
 
-  var STORE_THEME = 'he:theme';
-  var STORE_SIZE = 'he:storysize';
+  var STORE_THEME = 'pm:theme';
+  var STORE_SIZE = 'pm:storysize';
   var MIN = 18, MAX = 30, STEP = 2, DEFAULT = 21;
 
   var root = document.documentElement;

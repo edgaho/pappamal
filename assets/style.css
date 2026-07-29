@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Holm & Eventyr — folklore-inspired reading experience
+   Pappamål — folklore-inspired reading experience
    Palette: warm parchment, carved wood, muted gold, forest, burgundy
    ========================================================================== */
 
@@ -140,10 +140,14 @@ a:hover { color: var(--blue); }
   color: var(--ink);
   text-decoration: none;
 }
-.wordmark .amp {
-  color: var(--gold-deep);
-  font-style: italic;
-  font-size: 1.15em;
+.wordmark::before {
+  content: '';
+  width: 6px; height: 6px;
+  transform: rotate(45deg);
+  background: var(--gold);
+  flex: 0 0 auto;
+  align-self: center;
+  transition: background .18s ease;
 }
 .wordmark:hover { color: var(--gold-deep); }
 
@@ -214,9 +218,14 @@ a:hover { color: var(--blue); }
   letter-spacing: -.01em;
   margin: 0 0 .25em;
 }
-.hero h1 .amp {
-  color: var(--gold-deep);
+.hero .subtitle {
+  font-family: var(--font-head);
+  font-size: clamp(1.3rem, 3.6vw, 1.8rem);
   font-style: italic;
+  font-weight: 400;
+  line-height: 1.4;
+  color: var(--gold-deep);
+  margin: 0 0 1.1em;
 }
 .hero .kicker {
   font-family: var(--font-ui);
