@@ -2,29 +2,34 @@
 
 > Å forstå verden med eventyr
 
-Gudene i Edda krangler, lurer hverandre og angrer — og det er nettopp derfor de er så gode å tenke
-med. Loke gjorde minst like mye godt som vondt, og Tyr la hånden i ulvens munn fordi noen måtte.
-Her er de fortalt videre, med all begeistringen de fortjener.
+Gudene krangler, lurer hverandre og angrer — og det er nettopp derfor de er så gode å tenke med.
+Loke gjorde minst like mye godt som vondt, og Prometevs ga menneskene ilden selv om han visste hva
+det ville koste ham. Her er de fortalt videre, med all begeistringen de fortjener.
 
 Laget for høytlesning, og for en iPad ved sengekanten. Ingen reklame, ingen sporing, ingen
 innlogging. Bare tekst som er stor nok til å leses høyt. Bruk den gjerne hjemme hos deg også.
 
+## Hvorfor det ligger her
+
+Disse fortellingene har vært noe av det fineste å dele hjemme. Ikke som leggetidspensum, men som noe
+å bli begeistret over sammen — og etter hvert som noe å ta fram når noe var vanskelig.
+
+For gudene er ikke store forbilder. De gjør dumme ting, de angrer, og de kommer seg videre. Og
+heltene er sjelden sterke: Psyke fikk en umulig haug korn å sortere og klarte det bare fordi maurene
+hjalp henne, lenge før Askepott fikk fuglene sine. Det er kortere vei til den slags enn til å
+forklare fra grunnen av at ingen må klare alt alene. Det er også lov å synes at en dverg som blir til
+stein er det morsomste som finnes, samme hvilken uke det er.
+
+Fortellingene er tusener av år gamle, og de tilhører ingen. Det er hele grunnen til at de ligger
+åpent her. Kanskje noen finner én å lese høyt i kveld, og kanskje det blir en samtale, en vits som
+går igjen, eller et ritual som blir deres eget. Det er verdt mer enn teksten.
+
 ## Om navnet
 
-Eddaens dikt heter det de heter fordi navnet sier hvem ordene kommer fra. Vavtrudnesmål er jotnens,
+Eddaens dikt heter det de heter fordi navnet sier hvem ordene kommer fra: Vavtrudnesmål er jotnens,
 Alvismål er dvergens, Håvamål er Odins. Håvamål er samtidig diktet om hvordan man lever, og det er
-den delen vi har hatt mest bruk for.
-
-Gudene er ikke store forbilder. De gjør dumme ting, de angrer, og de kommer seg videre. Det gjør dem
-lette å ta fram når noe er vanskelig — det er kortere vei til «husker du at Tyr visste at det ville
-koste ham hånden, og gjorde det likevel?» enn til å forklare mot fra grunnen av.
-
-Vi har hatt tunge perioder, som alle har. Fortellingene har hjulpet oss gjennom flere av dem, ikke
-fordi de gir svar, men fordi de gir noe å snakke gjennom. Og fordi de er til å bli begeistret av:
-det er lov å synes at en dverg som blir til stein er det morsomste som finnes, samme hvilken uke det
-er.
-
-Derfor «-mål». Ordene kommer fra en pappa, ikke fra en gud — det er hele forklaringen.
+den delen vi har hatt mest bruk for. Navnet er ikke mer enn det — ordene kommer fra en pappa, ikke
+fra en gud.
 
 ## Se den lokalt
 
