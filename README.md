@@ -57,6 +57,16 @@ Skrevet ned:
 Hver fortelling har en seksjon **«For nysgjerrige foreldre»** nederst: hva som er tro mot kilden,
 hva som er endret, hva som er diktet til, og hva som er tonet ned.
 
+## Skrive en ny fortelling
+
+Formen er dokumentert og målbar i [FORTELLERFORM.md](FORTELLERFORM.md): elleve slag, målte
+avsnittstall, kanoniske navn og en ferdig systemprompt til å lime inn i en agent. Mål resultatet
+med:
+
+```bash
+python3 verktoy/sjekk-form.py < fortelling.txt
+```
+
 ## Struktur
 
 ```
