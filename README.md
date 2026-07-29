@@ -1,20 +1,20 @@
 # Pappamål
 
-> Håvamål er Odins ord. Dette er mine.
+> Å forstå verden med eventyr
 
-Norrøne fortellinger vi navigerer etter: Loke som gjorde minst like mye godt som vondt, Tyr som la
-hånden i ulvens munn fordi noen måtte. Her står de skrevet ned slik jeg forteller dem på
-sengekanten — til Ean og Edda.
+Gudene i Edda krangler, lurer hverandre og angrer — og det er nettopp derfor de er så gode å tenke
+med. Loke gjorde minst like mye godt som vondt, og Tyr la hånden i ulvens munn fordi noen måtte.
+Her er de fortalt videre, med all begeistringen de fortjener.
 
-Laget for to lesere på 4 og 7 år, og for en iPad ved sengekanten. Ingen reklame, ingen sporing,
-ingen innlogging. Bare tekst som er stor nok til å leses høyt.
+Laget for lesere på 4 og 7 år, og for en iPad ved sengekanten. Ingen reklame, ingen sporing, ingen
+innlogging. Bare tekst som er stor nok til å leses høyt. Bruk den gjerne hjemme hos deg også.
 
 ## Navnet
 
-Eddaens diktnavn sier hvem ordene tilhører. Håvamål er «den høyes ord» — Odins. Vavtrudnesmål er
-jotnens. Alvismål er dvergens. Håvamål er også det diktet som handler om hvordan man skal leve:
-hvordan man er mot venner, mot fremmede, mot seg selv. Det er samme jobb disse fortellingene gjør
-hjemme hos oss. Derav navnet.
+Eddaens diktnavn sier hvem ordene kommer fra: Vavtrudnesmål er jotnens, Alvismål er dvergens,
+Håvamål er Odins. Håvamål er samtidig det diktet som handler om hvordan man lever — hvordan man er
+mot venner, mot fremmede, mot seg selv. Det er den jobben eventyrene gjør når de leses høyt, og det
+er derfor navnet ble hetende noe på `-mål`.
 
 ## Se den lokalt
 
