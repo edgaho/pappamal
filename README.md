@@ -20,9 +20,10 @@ hjalp henne, lenge før Askepott fikk fuglene sine. Det er kortere vei til den s
 forklare fra grunnen av at ingen må klare alt alene. Det er også lov å synes at en dverg som blir til
 stein er det morsomste som finnes, samme hvilken uke det er.
 
-Fortellingene er tusener av år gamle, og de tilhører ingen. Det er hele grunnen til at de ligger
-åpent her. Kanskje noen finner én å lese høyt i kveld, og kanskje det blir en samtale, en vits som
-går igjen, eller et ritual som blir deres eget. Det er verdt mer enn teksten.
+Fortellingene er gamle — noen tusener av år, andre knapt to hundre — og de tilhører ingen. Det er
+hele grunnen til at de ligger åpent her. Kanskje noen finner én å lese høyt i kveld, og kanskje det
+blir en samtale, en vits som går igjen, eller et ritual som blir deres eget. Det er verdt mer enn
+teksten.
 
 ## Om navnet
 
