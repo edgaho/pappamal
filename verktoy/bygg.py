@@ -243,26 +243,41 @@ HANDSKREVNE = [
          source_type='authentic_adaptation', shelf='norrone', generert=False),
 ]
 
-# Leserekkefølge. leirmannen før tåa: Tor får steinen i hodet i den første,
-# og Groa forsøker å synge den ut i den andre.
-REKKEFOLGE = ['odin-og-vavtrudne', 'tor-og-alvis', 'odin-og-den-magiske-dikterdrikken',
-              'tor-og-den-farlige-elva', 'skade-og-de-vakreste-fottene',
+# Leserekkefølge, satt etter hva som skjer først, ikke etter når det ble skrevet.
+# De to håndskrevne står først, fordi bygg.py bare kan rette neste-lenken deres.
+# Ellers: muren før alt annet (Åsgard får muren og Odin får hesten), dvergegavene
+# før Tor-fortellingene (Mjølner blir til der), Idun før Skade (Tjatse er faren
+# hennes), leirmannen før tåa (Tor får steinen i hodet, og Groa synger etterpå),
+# fjærdrakten før den farlige elva (Loke blir tatt der og lover Tor bort).
+REKKEFOLGE = ['odin-og-vavtrudne', 'tor-og-alvis',
+              'muren-rundt-asgard', 'odin-og-mimes-bronn',
+              'odin-og-den-magiske-dikterdrikken', 'loke-og-dvergegavene',
+              'tyr-og-fenrir', 'idun-og-eplene', 'skade-og-de-vakreste-fottene',
               'tor-og-leirmannen', 'tor-og-taa-som-ble-en-stjerne',
-              'loke-og-froyas-fjaerdrakt']
+              'loke-og-froyas-fjaerdrakt', 'tor-og-den-farlige-elva',
+              'tor-i-brudeklaer', 'tor-hos-utgard-loke', 'balder-og-misteltein']
 
 
 def last():
-    d = json.load(open(os.path.join(ROT, 'data/import-chatgpt.json'), encoding='utf-8'))
+    """Alle .json-filer i data/ er kilder. Rekkefølgen bestemmes av REKKEFOLGE."""
     alle = {x['slug']: x for x in HANDSKREVNE}
-    for s in d['stories']:
-        s = dict(s, generert=True, lesetid=lesetid(s['story_text']),
-                 kildelinje=('Fritt etter ' + s['source_material'] if s.get('source_material')
-                             else 'Ny historie med gamle figurer'))
-        # Fjærdrakten står på Hjemmelagede i eksporten, men har Frøy, Frøya og Loke,
-        # og noter som viser til kilder. Hylla lover "ingen kilde å vise til".
-        if s['slug'] == 'loke-og-froyas-fjaerdrakt':
-            s['shelf'] = 'norrone'
-        alle[s['slug']] = s
+    katalog = os.path.join(ROT, 'data')
+    for navn in sorted(os.listdir(katalog)):
+        if not navn.endswith('.json'):
+            continue
+        d = json.load(open(os.path.join(katalog, navn), encoding='utf-8'))
+        for s in d['stories']:
+            s = dict(s, generert=True, lesetid=lesetid(s['story_text']),
+                     kildelinje=('Fritt etter ' + s['source_material'] if s.get('source_material')
+                                 else 'Ny historie med gamle figurer'))
+            # Fjærdrakten står på Hjemmelagede i eksporten, men har Frøy, Frøya og Loke,
+            # og noter som viser til kilder. Hylla lover "ingen kilde å vise til".
+            if s['slug'] == 'loke-og-froyas-fjaerdrakt':
+                s['shelf'] = 'norrone'
+            alle[s['slug']] = s
+    mangler = [k for k in alle if k not in REKKEFOLGE]
+    if mangler:
+        raise SystemExit('mangler i REKKEFOLGE: ' + ', '.join(sorted(mangler)))
     return [alle[k] for k in REKKEFOLGE if k in alle]
 
 
