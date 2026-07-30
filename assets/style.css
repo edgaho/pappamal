@@ -510,20 +510,33 @@ a:hover { color: var(--blue); }
   font-size: var(--story-size);
   line-height: 1.8;
   margin: 44px 0 0;
+  /* Avsnittene er én tanke lange — median 31 tegn. En spalte på 62 tegn lar
+     halve linja stå tom og gjør teksten ragget. Spalta følger avsnittet. */
+  max-width: 44ch;
 }
 .story p {
-  margin: 0 0 1.15em;
+  margin: 0 0 1.05em;
   hyphens: none;
 }
-.story p:first-of-type::first-letter {
-  float: left;
+
+/* Åpningen. Ingen initial: den er laget for lange åpningsavsnitt, og
+   disse er 28–56 tegn — da blir bokstaven tre linjer høy ved siden av én
+   linje tekst. Førsteavsnittet løftes i overskriftsskriften i stedet. */
+.story p:first-of-type {
   font-family: var(--font-head);
-  font-size: 4.1em;
-  line-height: .82;
-  font-weight: 600;
-  color: var(--gold-deep);
-  padding: .06em .1em 0 0;
-  margin-right: .02em;
+  font-style: italic;
+  font-size: 1.42em;
+  line-height: 1.45;
+  color: var(--ink);
+  margin-bottom: 1.1em;
+}
+.story p:first-of-type::after {
+  content: '';
+  display: block;
+  width: 44px;
+  height: 1px;
+  margin: .7em 0 0;
+  background: linear-gradient(to right, var(--gold), transparent);
 }
 .story .end {
   text-align: center;
@@ -710,9 +723,17 @@ a:hover { color: var(--blue); }
   .wordmark { font-size: 1.25rem; }
 }
 
-/* iPad-ish: the primary reading device — give the story room to breathe */
+/* iPad og PC. Avsnittene er én tanke lange, så på en stor skjerm blir korte
+   linjer med stor luft mellom til en liste i stedet for en fortelling.
+   Større type og tettere avsnitt gjør teksten til en blokk igjen.
+   Relativt til --story-size, så A−/A+ fortsatt virker. */
 @media (min-width: 768px) {
-  .story { font-size: calc(var(--story-size) + 1px); }
+  .story { font-size: calc(var(--story-size) + 2px); }
+}
+@media (min-width: 1000px) {
+  .story { font-size: calc(var(--story-size) + 5px); }
+  .story p { margin-bottom: .62em; }
+  .story p:first-of-type { margin-bottom: .8em; }
 }
 
 @media (prefers-reduced-motion: reduce) {
