@@ -11,8 +11,9 @@ innlogging. Bare tekst som er stor nok til å leses høyt. Bruk den gjerne hjemm
 
 ## Hvorfor det ligger her
 
-Disse fortellingene har vært noe av det fineste å dele hjemme. Ikke som leggetidspensum, men som noe
-å bli begeistret over sammen — og etter hvert som noe å ta fram når noe var vanskelig.
+På sengekanten hos noen små viking-folk har disse fortellingene vært noe av det fineste å dele. Ikke
+som leggetidspensum, men som noe å bli begeistret over sammen — og etter hvert som noe å ta fram når
+noe var vanskelig.
 
 For gudene er ikke store forbilder. De gjør dumme ting, de angrer, og de kommer seg videre. Og
 heltene er sjelden sterke: Psyke fikk en umulig haug korn å sortere og klarte det bare fordi maurene
