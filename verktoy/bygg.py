@@ -329,7 +329,7 @@ def main():
         if n:
             bit.append(f'{n} skrevet ned')
         if soon:
-            bit.append(f'{soon} bare fortalt')
+            bit.append(f'{soon} fortalt')
         h = re.sub(rf'(href="kategorier/{hylle}\.html".*?<span class="count">)[^<]*(</span>)',
                    lambda m, t=' · '.join(bit) or 'Ingen ennå': m.group(1) + t + m.group(2),
                    h, flags=re.S)
