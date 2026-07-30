@@ -35,14 +35,33 @@
         ],
         "om_innholdet": "Originalmyten inneholder drap, bedrag, rus og seksualitet. Denne versjonen beholder tyveriet og bedraget, men fjerner de mest voksne og voldelige delene.",
         "videre_lesning": [
-          { "tekst": "Skáldskaparmál – bakgrunn", "url": "https://en.wikipedia.org/wiki/Sk%C3%A1ldskaparm%C3%A1l" },
-          { "tekst": "Mead of poetry", "url": "https://en.wikipedia.org/wiki/Mead_of_poetry" }
+          {
+            "tekst": "Skáldskaparmál – bakgrunn",
+            "url": "https://en.wikipedia.org/wiki/Sk%C3%A1ldskaparm%C3%A1l"
+          },
+          {
+            "tekst": "Mead of poetry",
+            "url": "https://en.wikipedia.org/wiki/Mead_of_poetry"
+          }
         ]
       },
       "reading_time_minutes": 7,
-      "characters": ["Odin", "Bauge", "Suttung", "Gunnlød"],
-      "themes": ["fortellinger", "kunnskap", "list", "deling"],
-      "content_warnings": ["bedrag", "mild fare"],
+      "characters": [
+        "Odin",
+        "Bauge",
+        "Suttung",
+        "Gunnlød"
+      ],
+      "themes": [
+        "fortellinger",
+        "kunnskap",
+        "list",
+        "deling"
+      ],
+      "content_warnings": [
+        "bedrag",
+        "mild fare"
+      ],
       "moral": "Ord og fortellinger får verdi når de deles.",
       "adaptation_notes": "Vold, seksualitet og grove detaljer fra originalmyten er fjernet. Handlingen og avslutningen er utvidet med et barnevennlig tema om fortellinger.",
       "status": "draft",
@@ -78,14 +97,36 @@
         ],
         "om_innholdet": "Dette er en lett og komisk fortelling med tyveri og mild fare, men uten vold. Den skal presenteres tydelig som en ny historie, ikke som en gammel myte.",
         "videre_lesning": [
-          { "tekst": "Gullinbursti", "url": "https://en.wikipedia.org/wiki/Gullinbursti" },
-          { "tekst": "Freyja", "url": "https://en.wikipedia.org/wiki/Freyja" }
+          {
+            "tekst": "Gullinbursti",
+            "url": "https://en.wikipedia.org/wiki/Gullinbursti"
+          },
+          {
+            "tekst": "Freyja",
+            "url": "https://en.wikipedia.org/wiki/Freyja"
+          }
         ]
       },
       "reading_time_minutes": 8,
-      "characters": ["Frøy", "Gyllenbuste", "Loke", "Frøya", "Tor", "Heimdall", "Geirrød"],
-      "themes": ["list", "vennskap", "ansvar", "humor"],
-      "content_warnings": ["tyveri", "mild fare"],
+      "characters": [
+        "Frøy",
+        "Gyllenbuste",
+        "Loke",
+        "Frøya",
+        "Tor",
+        "Heimdall",
+        "Geirrød"
+      ],
+      "themes": [
+        "list",
+        "vennskap",
+        "ansvar",
+        "humor"
+      ],
+      "content_warnings": [
+        "tyveri",
+        "mild fare"
+      ],
       "moral": "Det er mulig å løse vanskelige problemer med list, men løfter bør tas på alvor.",
       "adaptation_notes": "Ingen gammel handling er adaptert. Historien er selvstendig og nyskrevet.",
       "status": "draft",
@@ -126,14 +167,36 @@
         ],
         "om_innholdet": "Historien inneholder flere forsøk på å skade Tor, en farlig elv og kamp med glødende jern. Det er ingen tydelig beskrivelse av blod eller død, men handlingen kan oppleves intens.",
         "videre_lesning": [
-          { "tekst": "Þórsdrápa", "url": "https://en.wikipedia.org/wiki/%C3%9E%C3%B3rsdr%C3%A1pa" },
-          { "tekst": "Geirröðr", "url": "https://en.wikipedia.org/wiki/Geirr%C3%B6%C3%B0r" }
+          {
+            "tekst": "Þórsdrápa",
+            "url": "https://en.wikipedia.org/wiki/%C3%9E%C3%B3rsdr%C3%A1pa"
+          },
+          {
+            "tekst": "Geirröðr",
+            "url": "https://en.wikipedia.org/wiki/Geirr%C3%B6%C3%B0r"
+          }
         ]
       },
       "reading_time_minutes": 8,
-      "characters": ["Tor", "Loke", "Grid", "Geirrød", "Gjalp", "Greip"],
-      "themes": ["mot", "tillit", "hjelp", "styrke"],
-      "content_warnings": ["fare", "kamp", "forsøk på å skade"],
+      "characters": [
+        "Tor",
+        "Loke",
+        "Grid",
+        "Geirrød",
+        "Gjalp",
+        "Greip"
+      ],
+      "themes": [
+        "mot",
+        "tillit",
+        "hjelp",
+        "styrke"
+      ],
+      "content_warnings": [
+        "fare",
+        "kamp",
+        "forsøk på å skade"
+      ],
       "moral": "Selv den sterkeste trenger hjelp iblant.",
       "adaptation_notes": "Kildens vold og vanskelige poesi er forenklet. Avslutningen legger større vekt på hjelp og tillit.",
       "status": "draft",
@@ -160,12 +223,13 @@
           "Hun ønsker Balder, men får bare velge ved å se gudenes føtter.",
           "Hun velger Njord fordi føttene hans er rene og vakre.",
           "Skade mistrives med måkene ved havet, mens Njord mistrives med ulvene i fjellet.",
-          "De forsøker å bo ni netter på hvert sted."
+          "De forsøker å dele tiden mellom fjellet og havet."
         ],
         "endret": [
           "Forliket inneholder flere krav i originalen, blant annet at gudene skal få Skade til å le. Det er utelatt.",
           "Ekteskapet og bruddet er gjort roligere og mer gjensidig.",
-          "Kildene er ikke helt enige om det videre forholdet mellom Skade og Njord."
+          "Kildene er ikke helt enige om det videre forholdet mellom Skade og Njord.",
+          "Antall netter er endret. Gylvaginning sier ni netter i Trymheim på fjellet og deretter tre i Noatun ved havet — ikke ni og ni, og fjellet kommer først."
         ],
         "diktet_til": [
           "Forhenget og den detaljerte rekken av føtter.",
@@ -174,14 +238,34 @@
         ],
         "om_innholdet": "Historien begynner med dødsfall og krav om oppreisning, men selve dødsfallet beskrives ikke. Ekteskapet inngås som del av et forlik og ikke som et moderne, fritt valg. Dette kan være et naturlig samtaletema.",
         "videre_lesning": [
-          { "tekst": "Skaði", "url": "https://en.wikipedia.org/wiki/Ska%C3%B0i" },
-          { "tekst": "Njörðr", "url": "https://en.wikipedia.org/wiki/Nj%C3%B6r%C3%B0r" }
+          {
+            "tekst": "Skaði",
+            "url": "https://en.wikipedia.org/wiki/Ska%C3%B0i"
+          },
+          {
+            "tekst": "Njörðr",
+            "url": "https://en.wikipedia.org/wiki/Nj%C3%B6r%C3%B0r"
+          }
         ]
       },
       "reading_time_minutes": 8,
-      "characters": ["Skade", "Njord", "Odin", "Balder", "Tjatse"],
-      "themes": ["forskjeller", "hjem", "valg", "kompromiss"],
-      "content_warnings": ["dødsfall omtales", "arrangert ekteskap"],
+      "characters": [
+        "Skade",
+        "Njord",
+        "Odin",
+        "Balder",
+        "Tjatse"
+      ],
+      "themes": [
+        "forskjeller",
+        "hjem",
+        "valg",
+        "kompromiss"
+      ],
+      "content_warnings": [
+        "dødsfall omtales",
+        "arrangert ekteskap"
+      ],
       "moral": "To gode mennesker kan passe dårlig sammen uten at noen av dem har gjort noe galt.",
       "adaptation_notes": "Historien er gitt en tydelig, moderne avslutning om forskjeller og bosted. Flere deler av forliket er utelatt.",
       "status": "draft",
@@ -222,14 +306,32 @@
         ],
         "om_innholdet": "En tå fryser og faller av, og en stein sitter fast i Tors hode. Det beskrives uten blod og med humor, men kroppsskaden er tydelig.",
         "videre_lesning": [
-          { "tekst": "Aurvandill", "url": "https://en.wikipedia.org/wiki/Aurvandill" },
-          { "tekst": "Gróa", "url": "https://en.wikipedia.org/wiki/Gr%C3%B3a" }
+          {
+            "tekst": "Aurvandill",
+            "url": "https://en.wikipedia.org/wiki/Aurvandill"
+          },
+          {
+            "tekst": "Gróa",
+            "url": "https://en.wikipedia.org/wiki/Gr%C3%B3a"
+          }
         ]
       },
       "reading_time_minutes": 8,
-      "characters": ["Tor", "Aurvandil", "Groa"],
-      "themes": ["tålmodighet", "hjelp", "gode nyheter", "stjerner"],
-      "content_warnings": ["frostskade", "kroppsskade"],
+      "characters": [
+        "Tor",
+        "Aurvandil",
+        "Groa"
+      ],
+      "themes": [
+        "tålmodighet",
+        "hjelp",
+        "gode nyheter",
+        "stjerner"
+      ],
+      "content_warnings": [
+        "frostskade",
+        "kroppsskade"
+      ],
       "moral": "La andre fullføre en vanskelig oppgave før du avbryter dem.",
       "adaptation_notes": "En svært kort myteepisode er utvidet til en sammenhengende historie. Kroppsskaden er gjort komisk og ikke blodig.",
       "status": "draft",
@@ -276,14 +378,37 @@
         ],
         "om_innholdet": "Historien inneholder beruselse, trusler og en kamp der Rungne blir truffet i hodet. Dødsfallet sies ikke rett ut, men er tydelig i originalkilden.",
         "videre_lesning": [
-          { "tekst": "Hrungnir", "url": "https://en.wikipedia.org/wiki/Hrungnir" },
-          { "tekst": "Mökkurkálfi", "url": "https://en.wikipedia.org/wiki/M%C3%B6kkurk%C3%A1lfi" }
+          {
+            "tekst": "Hrungnir",
+            "url": "https://en.wikipedia.org/wiki/Hrungnir"
+          },
+          {
+            "tekst": "Mökkurkálfi",
+            "url": "https://en.wikipedia.org/wiki/M%C3%B6kkurk%C3%A1lfi"
+          }
         ]
       },
       "reading_time_minutes": 10,
-      "characters": ["Tor", "Odin", "Rungne", "Tjalve", "Mokkurkalve", "Magne"],
-      "themes": ["mot", "stolthet", "identitet", "styrke"],
-      "content_warnings": ["rus", "trusler", "kamp", "dødsfall antydes"],
+      "characters": [
+        "Tor",
+        "Odin",
+        "Rungne",
+        "Tjalve",
+        "Mokkurkalve",
+        "Magne"
+      ],
+      "themes": [
+        "mot",
+        "stolthet",
+        "identitet",
+        "styrke"
+      ],
+      "content_warnings": [
+        "rus",
+        "trusler",
+        "kamp",
+        "dødsfall antydes"
+      ],
       "moral": "Størrelse bestemmer ikke mot, og man trenger ikke bli det andre har bestemt at man skal være.",
       "adaptation_notes": "Mokkurkalve er gjort til en egen sympatisk figur. Kildens kamp og dødsfall er dempet, mens Tjalves og Magnes roller er beholdt.",
       "status": "draft",
