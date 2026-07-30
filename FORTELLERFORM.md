@@ -15,20 +15,44 @@ tallene er det som får to ulike modeller til å konvergere. «Skriv korte avsni
 
 ---
 
-## 1. Den målte formen
+## 1. Stemme og størrelse er to forskjellige ting
 
-| Egenskap | Odin og Vavtrudne | Tor og Alvis | Regel |
+Dette er det viktigste skillet i hele dokumentet, og det var feil i første utgave.
+
+**Stemmen er forhold.** Replikkandel, avsnittsrytme, setningslengde. En lang fortelling og en
+kort fortelling skal høres like ut. Disse kravene er harde og gjelder uansett lengde.
+
+**Størrelsen er fri.** En fortelling med fire figurer som hver skal ha en tråd, trenger mer plass
+enn en med to. Å kutte den til et fast ordtall gjør den fattig, ikke stram. Lengden oppgis som en
+klasse, ikke som en feil.
+
+### Stemmen — harde krav
+
+| Egenskap | Odin og Vavtrudne | Tor og Alvis | Krav |
 | --- | --- | --- | --- |
-| Avsnitt | 79 | 56 | 50–85 |
-| Ord totalt | 566 | 477 | 450–650 |
-| Ord per avsnitt, median | 6 | 6 | **6** |
+| Ord per avsnitt, median | 6 | 6 | **5–7** |
 | Avsnitt på 8 ord eller mindre | 72 % | 73 % | **minst 70 %** |
-| Avsnitt over 25 ord | 1 | 1 | **høyst 1** |
-| Lengste avsnitt | 28 ord | 33 ord | under 35 ord |
 | Avsnitt med bare én setning | 82 % | 76 % | **minst 75 %** |
 | Avsnitt som er replikk | 43 % | 51 % | **40–55 %** |
-| Utropstegn | 0 | 3 | høyst 3 |
-| Lesetid | 6 min | 5 min | `round(ord / 95)` |
+| Lengste avsnitt | 28 ord | 33 ord | **under 35 ord** |
+| Avsnitt over 25 ord, per 100 avsnitt | 1,3 | 1,8 | **høyst 2** |
+| Utropstegn per 100 avsnitt | 0 | 5,4 | **høyst 6** |
+
+Alle sju er kalibrert slik at begge de eksisterende fortellingene passerer. Endrer du en terskel,
+kjør dem gjennom på nytt — de er fasiten, ikke tallene.
+
+### Størrelsen — fri
+
+| Klasse | Ord | Passer til |
+| --- | --- | --- |
+| kort | under 550 | én konflikt, to figurer |
+| middels | 550–750 | standard: en motstander, tre runder, en vending |
+| lang | 750–1000 | flere figurer med egen tråd, eller to sammenvevde hendelser |
+
+Over 1000 ord er som regel to fortellinger som burde vært delt. Under 350 rekker sjelden gjennom
+de elleve slagene.
+
+Lesetid er alltid `round(ord / 95)`.
 
 Ett avsnitt er én linje. Én tanke, ett bilde eller én replikk. Ikke to.
 
@@ -223,14 +247,20 @@ fortellinger, og avvik gjør at to agenter høres ulike ut.
 SPRÅK
 Norsk bokmål. Ingen engelske ord, ingen anglisismer.
 
-FORM (dette er tall, ikke antydninger)
-- 450–650 ord, 50–85 avsnitt.
+STEMME — harde krav, uansett hvor lang fortellingen er
 - Ett avsnitt er én linje: én tanke, ett bilde eller én replikk.
-- Median 6 ord per avsnitt. Minst 70 % av avsnittene har 8 ord eller mindre.
-- Høyst ett avsnitt over 25 ord. Ingen over 35.
+- Median 5–7 ord per avsnitt. Minst 70 % av avsnittene har 8 ord eller mindre.
 - Minst 75 % av avsnittene har bare én setning.
-- 40–55 % av avsnittene er replikker.
-- Høyst 3 utropstegn i hele fortellingen.
+- 40–55 % av avsnittene er replikker. Dette er kravet som ryker oftest.
+- Ingen avsnitt over 35 ord. Høyst 2 avsnitt over 25 ord per 100 avsnitt.
+- Høyst 6 utropstegn per 100 avsnitt.
+
+STØRRELSE — velg fritt, oppgi hvilken du siktet på
+- kort: under 550 ord. Én konflikt, to figurer.
+- middels: 550–750 ord. Standard.
+- lang: 750–1000 ord. Flere figurer med egen tråd.
+Ikke kutt en historie for å treffe et ordtall. En figur som fortjener en tråd, skal ha den.
+Trenger fortellingen mer plass, ta den — men stemmekravene gjelder like fullt.
 
 TEGNSETTING
 - Replikk: tankestrek og mellomrom. «– Hvem er du?» Aldri anførselstegn.
@@ -285,14 +315,16 @@ videre_lesning — og skal være ærlig om hva som er endret og hva som er dikte
 status er alltid "draft".
 
 FØR DU SVARER — tell etter
-1. Median ord per avsnitt er 6 eller nær 6.
+1. Median ord per avsnitt er mellom 5 og 7.
 2. Minst 70 % av avsnittene har 8 ord eller mindre.
-3. Høyst ett avsnitt over 25 ord.
-4. 40–55 % av avsnittene er replikker.
-5. Alle elleve slag er der, i rekkefølge, med tre runder i slag 5.
-6. Moralen står to ganger, ikke én.
-7. Ingen aldersangivelse, ingen barnenavn, ingen emoji, ingen engelske ord.
-8. Del A og story_text er identiske.
+3. Minst 75 % av avsnittene har bare én setning.
+4. 40–55 % av avsnittene er replikker. Tell dem. Dette er kravet som ryker oftest:
+   når du er under, er det fordi fortelleren refererer noe en figur kunne sagt.
+5. Ingen avsnitt over 35 ord.
+6. Alle elleve slag er der, i rekkefølge, med tre runder i slag 5.
+7. Moralen står to ganger, ikke én.
+8. Ingen aldersangivelse, ingen barnenavn, ingen emoji, ingen engelske ord.
+9. Del A og story_text er identiske.
 Retter du noe, tell på nytt.
 ```
 
