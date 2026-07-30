@@ -59,4 +59,70 @@
     applySize(size);
     try { localStorage.setItem(STORE_SIZE, String(size)); } catch (e) {}
   });
+
+  /* ---- lest ---------------------------------------------------------- */
+
+  var STORE_LEST = 'pm:lest';
+
+  function kanLagre() {
+    try {
+      localStorage.setItem('pm:probe', '1');
+      localStorage.removeItem('pm:probe');
+      return true;
+    } catch (e) { return false; }
+  }
+
+  function lesteNa() {
+    try { return JSON.parse(localStorage.getItem(STORE_LEST)) || {}; }
+    catch (e) { return {}; }
+  }
+
+  function lagreLeste(lest) {
+    try { localStorage.setItem(STORE_LEST, JSON.stringify(lest)); } catch (e) {}
+  }
+
+  function tegnKnapp(btn, lest) {
+    var er = !!lest[btn.dataset.lest];
+    btn.setAttribute('aria-pressed', er ? 'true' : 'false');
+    btn.querySelector('.lest-tekst').textContent = er ? 'Lest' : 'Marker som lest';
+  }
+
+  function merkKort(lest) {
+    var kort = document.querySelectorAll('.story-card[data-slug]');
+    for (var i = 0; i < kort.length; i++) {
+      var er = !!lest[kort[i].dataset.slug];
+      kort[i].classList.toggle('er-lest', er);
+      var merke = kort[i].querySelector('.lest-merke-tekst');
+      if (er && !merke) {
+        merke = document.createElement('span');
+        merke.className = 'visually-hidden lest-merke-tekst';
+        merke.textContent = ' — lest';
+        kort[i].querySelector('h3').appendChild(merke);
+      } else if (!er && merke) {
+        merke.parentNode.removeChild(merke);
+      }
+    }
+  }
+
+  var knapper = document.querySelectorAll('[data-lest]');
+
+  if (!kanLagre()) {
+    /* En knapp som ikke husker er verre enn ingen knapp. */
+    for (var k = 0; k < knapper.length; k++) knapper[k].hidden = true;
+  } else {
+    var lest = lesteNa();
+    for (var j = 0; j < knapper.length; j++) tegnKnapp(knapper[j], lest);
+    merkKort(lest);
+
+    document.addEventListener('click', function (ev) {
+      var btn = ev.target.closest('[data-lest]');
+      if (!btn) return;
+      var slug = btn.dataset.lest;
+      var na = lesteNa();
+      if (na[slug]) { delete na[slug]; } else { na[slug] = new Date().toISOString(); }
+      lagreLeste(na);
+      tegnKnapp(btn, na);
+      merkKort(na);
+    });
+  }
 })();

@@ -534,6 +534,59 @@ a:hover { color: var(--blue); }
   text-indent: .5em;
 }
 
+/* ------------------------------------------------------------- lest ----- */
+
+.lest-btn {
+  appearance: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  width: 100%;
+  max-width: 340px;
+  min-height: 54px;
+  margin: 44px auto 0;
+  padding: 14px 24px;
+  background: var(--card);
+  border: 1px solid var(--card-edge);
+  border-radius: 999px;
+  color: var(--ink-soft);
+  font-family: var(--font-ui);
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow: var(--shadow-soft);
+  transition: border-color .2s ease, color .2s ease, transform .2s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+.lest-btn:hover { border-color: var(--gold); color: var(--ink); }
+.lest-btn:active { transform: scale(.985); }
+
+.lest-mark {
+  width: 13px; height: 13px;
+  flex: 0 0 auto;
+  transform: rotate(45deg);
+  border: 2px solid var(--gold);
+  background: transparent;
+  transition: background .2s ease;
+}
+
+.lest-btn[aria-pressed='true'] {
+  border-color: var(--gold);
+  color: var(--gold-deep);
+}
+.lest-btn[aria-pressed='true'] .lest-mark { background: var(--gold); }
+
+/* merket på fortellingskortene — settes av app.js, ikke av generatoren */
+.story-card.er-lest::after {
+  content: '';
+  position: absolute;
+  top: 22px; right: 24px;
+  width: 9px; height: 9px;
+  transform: rotate(45deg);
+  background: var(--gold);
+}
+
 /* --------------------------------------------------- parent notes -------- */
 
 .parent-notes {
