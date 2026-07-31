@@ -1,0 +1,576 @@
+{
+  "schema_version": "1.0",
+  "export_type": "stories",
+  "stories": [
+    {
+      "slug": "yme-og-de-tre-brodrene",
+      "title": "Yme og de tre brødrene",
+      "subtitle": null,
+      "teaser": "Før noe fantes, var det bare et svelg mellom is og ild.",
+      "summary": "Av rimet blir Yme til, av en ku kommer Bure, og av Yme blir hele verden laget.",
+      "story_text": "Før noe fantes, var det bare et svelg.\n\nDet het Ginnungagap.\n\nNord for det lå Nivlheim, som var is.\n\nSør for det lå Muspelheim, som var ild.\n\nMidt imellom var det ingenting.\n\nIsen fra nord skjøv seg sakte utover.\n\nVarmen fra sør nådde den til slutt.\n\nDa begynte isen å dryppe.\n\nAv dråpene ble det en skikkelse.\n\nDen var større enn alt annet som fantes.\n\nDen het Yme.\n\nYme sov, og mens han sov, vokste det folk ut av ham.\n\nUnder den venstre armen hans kom det to.\n\nUt av det ene beinet kom det ett til.\n\nDet var jotnene, og de kom først av alle.\n\nAv isen kom det også en ku.\n\nKua het Audhumla.\n\nFra henne rant det fire elver med melk.\n\nYme drakk av dem, og det var alt han trengte.\n\nMen kua trengte noe selv.\n\nHun begynte å slikke på en stein i isen.\n\nDet var salt i den steinen.\n\nOg i saltet lå det noe.\n\nDen første dagen kom det hår fram.\n\nDen andre dagen kom det et hode.\n\nDen tredje dagen sto det en hel mann der.\n\nHan het Bure.\n\nBure fikk en sønn som het Bor.\n\nBor fikk tre sønner.\n\nDen eldste het Odin.\n\nDe to andre het Vile og Ve.\n\nDe tre brødrene så seg om i svelget.\n\n– Her er det ingenting, sa Odin.\n\n– Nei.\n\n– Bare is og ild og han som sover.\n\n– Hva vil du gjøre?\n\nOdin svarte ikke med én gang.\n\n– Jeg vil lage noe som blir stående.\n\n– Av hva da?\n\n– Av ham.\n\nDe tre brødrene gjorde det de hadde bestemt seg for.\n\nYme våknet ikke igjen.\n\n– Nå, sa Odin. – Nå begynner vi.\n\nSå bar de ham ut i midten av svelget.\n\n– Av kroppen lager vi jorda.\n\n– Av blodet lager vi havet rundt den.\n\n– Av beina lager vi fjellene.\n\n– Av tennene blir det stein og grus.\n\n– Og hodeskallen setter vi over det hele.\n\n– Skyene kaster vi opp av hjernen, sa Vile.\n\n– Og vi trenger lys, sa Ve.\n\nDe tok gnister fra Muspelheim og satte dem fast i himmelen.\n\n– Noen store til å lyse om dagen.\n\n– Og noen små til natten.\n\nTil slutt gikk de rundt kanten av jorda.\n\nDer satte de opp et gjerde av øyenbrynene hans.\n\n– Her skal noen få bo, sa Odin.\n\n– Hva skal det hete? spurte Ve.\n\n– Midgard, sa Odin.\n\nEn dag gikk de tre brødrene langs stranden.\n\nDer lå det to trestykker som havet hadde skylt opp.\n\n– Hva er det?\n\n– Bare rekved.\n\nDet ene var av ask.\n\nDet andre var av alm.\n\n– Løft dem opp, sa Odin.\n\n– Disse kan bli noe.\n\n– Jeg gir dem pust, sa Odin.\n\n– Jeg gir dem forstand, sa Vile.\n\n– Og jeg gir dem ansikt og stemme, sa Ve.\n\nSå satte de dem ned i gresset innenfor gjerdet.\n\n– Han skal hete Ask.\n\n– Og hun skal hete Embla.\n\nOm kvelden satt de tre brødrene på kanten av jorda og så innover.\n\nNede i gresset gikk det to som ikke fantes om morgenen.\n\n– Vi har laget alt sammen av ham, sa Ve.\n\n– Ja.\n\n– Er det riktig gjort?\n\nOdin ble sittende lenge.\n\n– Det handler ikke om hva vi laget det av.\n\n– Hva handler det om da?\n\n– Om hva vi setter oss til å passe på nå.\n\nDe tre brødrene gikk ikke hjem den kvelden.\n\nDe ble sittende der til det ble lyst, og siden har noen alltid sittet og sett.",
+      "language_code": "nb-NO",
+      "shelf": "norrone",
+      "tradition": "norse",
+      "source_type": "authentic_adaptation",
+      "source_material": "Gylvaginning, Den yngre Edda",
+      "source_notes": "Det viktigste er ikke hva verden ble laget av, men hvem som setter seg til å passe på den.",
+      "parent_notes": {
+        "kilden": "Snorre forteller skapelsen i de første kapitlene av Gylvaginning. Det samme står kortere i Voluspå og Vavtrudnesmål, og det er derfor Odin spør jotnen Vavtrudne om nettopp dette i den første fortellingen på denne hylla.",
+        "tro_mot_originalen": [
+          "Ginnungagap ligger mellom Nivlheim i nord og Muspelheim i sør.",
+          "Yme blir til av rim som smelter.",
+          "Jotnene vokser ut av Yme mens han sover, under armen og av beina hans.",
+          "Kua Audhumla har fire elver med melk, og slikker Bure fram av en saltstein på tre dager: hår, hode, hel mann.",
+          "Bors sønner Odin, Vile og Ve lager jorda av kroppen, havet av blodet, fjellene av beina, himmelen av hodeskallen og skyene av hjernen.",
+          "Gjerdet rundt Midgard er laget av øyenbrynene hans.",
+          "Ask og Embla er to trestykker på stranden som får pust, forstand og stemme."
+        ],
+        "endret": [
+          "Drapet på Yme. Snorre er tydelig på hva som skjedde og hvor mye blod det ble. Her står det bare at han ikke våknet igjen.",
+          "Snorre ramser opp hva hver enkelt av de tre brødrene ga menneskene, litt ulikt fra kilde til kilde.",
+          "Voluspå kaller de tre Odin, Høne og Lodur, ikke Vile og Ve. Her er Snorres navn brukt."
+        ],
+        "diktet_til": [
+          "Alle replikkene mellom de tre brødrene.",
+          "Samtalen på kanten av jorda til slutt, og dermed moralen."
+        ],
+        "om_innholdet": "En skapning blir drept for at verden skal bli til. Det står i tre setninger og beskrives ikke. Fortellingen er den eldste på hele siden i den forstand at alt annet skjer etter den, og den er lagt først i leserekkefølgen.",
+        "videre_lesning": [
+          {
+            "tekst": "Ymir",
+            "url": "https://en.wikipedia.org/wiki/Ymir"
+          },
+          {
+            "tekst": "Gylvaginning på norrønt",
+            "url": "https://heimskringla.no/wiki/Gylfaginning"
+          },
+          {
+            "tekst": "Gylfaginning i Brodeurs oversettelse",
+            "url": "https://mythopedia.com/library/prose-edda-brodeur-1916/gylfaginning/"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "Odin",
+        "Vile",
+        "Ve",
+        "Yme",
+        "Audhumla",
+        "Bure",
+        "Ask",
+        "Embla"
+      ],
+      "themes": [
+        "begynnelse",
+        "ansvar",
+        "å lage noe"
+      ],
+      "content_warnings": [
+        "Yme blir drept, ikke beskrevet"
+      ],
+      "moral": "Det viktigste er ikke hva verden ble laget av, men hvem som setter seg til å passe på den.",
+      "adaptation_notes": "Det viktigste er ikke hva verden ble laget av, men hvem som setter seg til å passe på den.",
+      "status": "draft",
+      "sort_order": 1,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "nornene-ved-brunnen",
+      "title": "De tre ved brønnen",
+      "subtitle": null,
+      "teaser": "Tre kvinner sitter ved en brønn under verdenstreet og spinner en tråd for hver som blir født.",
+      "summary": "Odin vil vite hvor lang tråden hans er, og får vite at det er feil spørsmål.",
+      "story_text": "Midt i verden står et tre som heter Yggdrasil.\n\nDet er så høyt at ingen ser toppen.\n\nDet har tre røtter som går hver sin vei.\n\nVed den ene ligger det en brønn.\n\nDen heter Urdarbrønnen.\n\nDer sitter det tre kvinner.\n\nDe er ikke gudinner.\n\nDe er ikke jotner heller.\n\nMen ingen i verden er eldre enn dem.\n\nDen første heter Urd.\n\nHun ser bakover.\n\nDen andre heter Verdande.\n\nHun ser på det som skjer nå.\n\nDen tredje heter Skuld.\n\nHun ser den andre veien.\n\nDe sitter med hver sin tråd i hendene.\n\nEn dag kom Odin ned til brønnen.\n\nHan satte seg på steinen og så på dem.\n\n– Hva gjør dere?\n\n– Vi spinner, sa Urd.\n\n– Hva spinner dere?\n\n– En tråd for hver som blir født.\n\nOdin så på tråden i hendene hennes.\n\n– Kan jeg få se på min?\n\n– Nei.\n\n– Hvorfor ikke?\n\n– Fordi ingen får se sin egen.\n\nOdin ble sittende en stund.\n\n– Kan dere gjøre den lengre?\n\n– Nei.\n\n– Kan dere gjøre den kortere?\n\n– Nei.\n\n– Hva kan dere da?\n\nDa la Verdande fra seg det hun holdt på med.\n\n– Vi legger den ikke, sa hun. – Vi spinner den mens du går.\n\n– Så jeg lager den selv?\n\n– Du lager den. Vi holder den.\n\nOdin så bort på Skuld, som ikke hadde sagt noe.\n\n– Og du?\n\n– Jeg ser bare hvor den er på vei.\n\n– Kan du si det?\n\n– Jeg kan.\n\n– Vil du?\n\n– Nei, sa Skuld.\n\nOdin reiste seg og gikk oppover langs rota.\n\nDa han var borte, tok de tre kvinnene hver sin bøtte.\n\nDe øste vann opp av Urdarbrønnen.\n\nSå helte de det over rota på treet.\n\nDe gjorde det den dagen.\n\nDe gjorde det dagen etter.\n\nDe gjør det hver eneste dag.\n\nFor treet står ikke av seg selv.\n\nBarken ville tørket ut, og rota ville råtnet.\n\nSå lenge de øser, står det.\n\nOm kvelden kom Odin tilbake ned til brønnen.\n\nHan hadde tenkt hele dagen.\n\n– Jeg spurte om feil ting i morges.\n\n– Ja, sa Urd.\n\n– Jeg spurte hvor lang tråden min er.\n\n– Det gjør alle.\n\n– Hva burde jeg spurt om?\n\nUrd holdt tråden opp mot lyset fra vannet.\n\n– Det handler ikke om hvor lang den er.\n\n– Hva handler det om da?\n\n– Om hva du spinner inn i den mens du går.\n\nOdin sa ingenting mer den kvelden.\n\nDe tre kvinnene satt videre ved brønnen, slik de alltid har gjort.\n\nOg treet står ennå, fordi noen bærer vann til det hver morgen.",
+      "language_code": "nb-NO",
+      "shelf": "norrone",
+      "tradition": "norse",
+      "source_type": "expanded_adaptation",
+      "source_material": "Voluspå og Gylvaginning",
+      "source_notes": "Det handler ikke om hvor lang tråden er, men om hva du spinner inn i den mens du går.",
+      "parent_notes": {
+        "kilden": "Voluspå nevner de tre møyene ved Urdarbrønnen i én strofe, og Snorre utdyper det i Gylvaginning. Navnene betyr omtrent «det som ble», «det som blir» og «det som skal komme».",
+        "tro_mot_originalen": [
+          "Yggdrasil har tre røtter, og under den ene ligger Urdarbrønnen.",
+          "Der sitter tre kvinner som heter Urd, Verdande og Skuld.",
+          "De rår over livene til dem som blir født.",
+          "De øser vann fra brønnen over rota hver dag, slik at treet ikke råtner."
+        ],
+        "endret": [
+          "Kildene sier ingenting om at Odin oppsøker dem eller spør om sin egen tråd. Hele samtalen er bygget rundt de fire tingene over.",
+          "Bildet av en tråd som spinnes er ikke norrønt. Det kommer fra gresk, der de tre heter moirene. Norrøne kilder sier bare at nornene «skaper» eller «skjærer» skjebnen."
+        ],
+        "diktet_til": [
+          "Hele samtalen mellom Odin og de tre.",
+          "Moralen."
+        ],
+        "om_innholdet": "Ingen kommer til skade. Dette er den korteste fortellingen på hylla og den roligste. Den passer godt når noen lurer på om alt er bestemt på forhånd — svaret her er nei, og det står tydelig.",
+        "videre_lesning": [
+          {
+            "tekst": "Norner",
+            "url": "https://en.wikipedia.org/wiki/Norns"
+          },
+          {
+            "tekst": "Voluspå på norrønt",
+            "url": "https://heimskringla.no/wiki/V%C3%B6lusp%C3%A1"
+          },
+          {
+            "tekst": "Gylfaginning i Brodeurs oversettelse",
+            "url": "https://mythopedia.com/library/prose-edda-brodeur-1916/gylfaginning/"
+          }
+        ]
+      },
+      "reading_time_minutes": 5,
+      "characters": [
+        "Urd",
+        "Verdande",
+        "Skuld",
+        "Odin"
+      ],
+      "themes": [
+        "tid",
+        "valg",
+        "skjebne"
+      ],
+      "content_warnings": [],
+      "moral": "Det handler ikke om hvor lang tråden er, men om hva du spinner inn i den mens du går.",
+      "adaptation_notes": "Det handler ikke om hvor lang tråden er, men om hva du spinner inn i den mens du går.",
+      "status": "draft",
+      "sort_order": 2,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "ratatosk",
+      "title": "Ratatosk, som løper opp og ned",
+      "subtitle": null,
+      "teaser": "Et ekorn løper mellom ørnen i toppen og dragen ved rota, og bærer med seg noe hver vei.",
+      "summary": "Ekornet Ratatosk holder liv i en krangel mellom to som aldri har møtt hverandre.",
+      "story_text": "Øverst i treet Yggdrasil sitter det en ørn.\n\nDen ser utover hele verden derfra.\n\nNederst under den ene rota ligger det en drage.\n\nDen heter Nidhogg og gnager på rota.\n\nDe to har aldri sett hverandre.\n\nDet er langt mellom toppen og bunnen.\n\nMen mellom dem løper det et ekorn.\n\nDet heter Ratatosk.\n\nDet er ikke stort.\n\nDet er ikke sterkt.\n\nMen det er det raskeste i hele treet.\n\nEn morgen satt ørnen og så utover.\n\nDa kom Ratatosk opp gjennom greinene.\n\n– God morgen.\n\n– God morgen.\n\n– Vet du hva han sa om deg i dag?\n\n– Hvem da?\n\n– Han nede ved rota.\n\nØrnen snudde hodet.\n\n– Hva sa han?\n\n– At du sitter der oppe fordi du ikke tør komme ned.\n\nØrnen sa ingenting på lenge.\n\n– Sa han det?\n\n– Omtrent.\n\nRatatosk snudde og løp nedover stammen.\n\nDet tok ham ikke lang tid.\n\nNede ved rota lå Nidhogg i mørket.\n\n– Du, sa Ratatosk.\n\n– Hva er det?\n\n– Han oppe i toppen har sagt noe.\n\n– Om meg?\n\n– Om deg.\n\n– Hva sa han?\n\n– At du ligger der nede fordi ingen vil ha deg lenger opp.\n\nDragen rørte på seg i jorda.\n\n– Sa han virkelig det?\n\n– Med de ordene.\n\nSå løp Ratatosk oppover igjen.\n\nSlik gikk det hver dag i mange hundre år.\n\nØrnen ble sintere for hvert år.\n\nDragen gnog hardere for hvert år.\n\nOg ekornet løp fortere enn noen gang.\n\nEn kveld satte Odin seg ned ved foten av treet.\n\nHan hadde sett på dette lenge.\n\nRatatosk kom forbi i full fart.\n\n– Stopp litt.\n\n– Jeg har det travelt.\n\n– Sett deg.\n\nEkornet satte seg motvillig ned.\n\n– Hva sier ørnen om dragen?\n\n– Stygge ting.\n\n– Og hva sier dragen om ørnen?\n\n– Enda styggere ting.\n\n– Har de sagt dem selv?\n\nRatatosk holdt seg i halen sin.\n\n– Ikke akkurat.\n\n– Hva sa de, da?\n\n– Det ene sa at det var langt ned.\n\n– Og det andre?\n\n– At det var langt opp.\n\nOdin så opp gjennom greinene.\n\n– Så det er du som har sagt resten.\n\nRatatosk svarte ikke.\n\n– Hvorfor gjør du det?\n\n– Fordi de hører etter når jeg kommer.\n\nOdin ble sittende og se på det vesle dyret.\n\n– Det handler ikke om hva de to sier.\n\n– Hva handler det om da?\n\n– Om hvem som bærer det mellom dem.\n\nRatatosk satt stille lenger enn det pleide.\n\nSå løp det oppover stammen igjen, for det hadde en beskjed å levere.",
+      "language_code": "nb-NO",
+      "shelf": "norrone",
+      "tradition": "norse",
+      "source_type": "expanded_adaptation",
+      "source_material": "Grimnesmål og Gylvaginning",
+      "source_notes": "Det handler ikke om hva de to sier, men om hvem som bærer det mellom dem.",
+      "parent_notes": {
+        "kilden": "Grimnesmål sier det i to linjer: ekornet Ratatosk løper opp og ned langs Yggdrasil og bærer ord mellom ørnen i toppen og Nidhogg ved rota. Snorre gjentar det i Gylvaginning. Det er alt kildene sier.",
+        "tro_mot_originalen": [
+          "En ørn sitter øverst i Yggdrasil.",
+          "Dragen Nidhogg ligger under den ene rota og gnager på den.",
+          "Ekornet Ratatosk løper mellom dem og bærer ord.",
+          "Ordene han bærer, er ondsinnede — kilden sier «öfundarorð», misunnelsesord."
+        ],
+        "endret": [
+          "Kildene sier ikke hva ekornet sier, bare at det bærer ord. Alt innholdet i samtalene er lagt til.",
+          "At Odin snakker med Ratatosk, finnes ikke i noen kilde."
+        ],
+        "diktet_til": [
+          "Alle replikkene.",
+          "At ørnen og dragen egentlig bare sa at det var langt.",
+          "Moralen."
+        ],
+        "om_innholdet": "Ingen kommer til skade, men noen blir uvenner uten grunn. Dette er den korteste fortellingen på siden, og den mest direkte brukbare: den handler om hva som skjer når noen bærer ord mellom to som ikke snakker sammen.",
+        "videre_lesning": [
+          {
+            "tekst": "Ratatoskr",
+            "url": "https://en.wikipedia.org/wiki/Ratatoskr"
+          },
+          {
+            "tekst": "Grimnesmål på norrønt",
+            "url": "https://heimskringla.no/wiki/Gr%C3%ADmnism%C3%A1l"
+          },
+          {
+            "tekst": "Gylfaginning i Brodeurs oversettelse",
+            "url": "https://mythopedia.com/library/prose-edda-brodeur-1916/gylfaginning/"
+          }
+        ]
+      },
+      "reading_time_minutes": 4,
+      "characters": [
+        "Ratatosk",
+        "ørnen",
+        "Nidhogg",
+        "Odin"
+      ],
+      "themes": [
+        "sladder",
+        "ord",
+        "ansvar"
+      ],
+      "content_warnings": [],
+      "moral": "Det handler ikke om hva de to sier, men om hvem som bærer det mellom dem.",
+      "adaptation_notes": "Det handler ikke om hva de to sier, men om hvem som bærer det mellom dem.",
+      "status": "draft",
+      "sort_order": 3,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "froy-og-gerd",
+      "title": "Frøy og det han ga fra seg",
+      "subtitle": null,
+      "teaser": "Frøy setter seg i en stol han ikke har lov til å sitte i, og ser noen han ikke kan glemme.",
+      "summary": "Skirne drar til Jotunheim med gaver Gerd ikke vil ha, og får svar først når han sier hva turen kostet.",
+      "story_text": "Odin hadde en stol som het Lidskjalv.\n\nFra den kunne man se hele verden.\n\nIngen andre hadde lov til å sette seg i den.\n\nEn dag satte Frøy seg der likevel.\n\nHan så nordover og han så sørover.\n\nSå så han bort mot Jotunheim.\n\nDer gikk det en kvinne over et tun.\n\nHun løftet armene for å lukke en dør.\n\nDa lyste både luft og hav av henne.\n\nFrøy ble sittende til hun var borte.\n\nSå gikk han ned og satte seg i salen sin.\n\nHan sa ingenting den kvelden.\n\nHan sa ingenting dagen etter heller.\n\nHan spiste ikke og drakk ikke.\n\nTil slutt kom faren hans, Njord, inn til ham.\n\n– Du må si hva det er.\n\n– Nei.\n\nNjord hentet Skirne, som var Frøys egen mann.\n\n– Gå inn til ham.\n\n– Han svarer ikke.\n\n– Han svarer deg, sa Njord.\n\nSkirne satte seg ned ved siden av Frøy.\n\n– Vi har vokst opp sammen.\n\n– Ja.\n\n– Så si det.\n\nFrøy så i gulvet.\n\n– Jeg satte meg i Lidskjalv.\n\n– Det har du ikke lov til.\n\n– Nei.\n\n– Hva så du?\n\n– En kvinne på et tun i Jotunheim.\n\n– Hva heter hun?\n\n– Gerd.\n\nSkirne ble sittende og se på ham lenge.\n\n– Da drar jeg og snakker med henne.\n\nVeien østover var lang.\n\n– Det er langt, sa Frøy.\n\n– Ja.\n\n– Og det er mørkt hele veien.\n\n– Da trenger jeg hesten din, sa Skirne. – Og sverdet ditt.\n\nFrøy satt lenge før han svarte.\n\nSverdet hans var det beste som fantes.\n\nDet slåss av seg selv om den som eide det ville.\n\nHan kom aldri til å få det igjen.\n\n– Ta det, sa Frøy.\n\nSkirne red gjennom mørket i to netter.\n\nUtenfor tunet til Gerd lå det hunder.\n\nDe reiste seg da han kom.\n\nHan kom seg forbi dem og banket på.\n\n– Hvem er du?\n\n– Jeg kommer fra Frøy.\n\n– Jeg kjenner ingen Frøy.\n\n– Han har sett deg.\n\nGerd ble stående i døra.\n\n– Og hva vil han?\n\n– Han vil at du skal komme til ham.\n\nDa lo hun litt.\n\n– Har du noe med deg?\n\nSkirne tok fram en pose.\n\n– Elleve epler av gull.\n\nGerd så ikke i posen.\n\n– Behold dem.\n\n– Du har ikke sett dem engang.\n\n– Jeg vil ikke kjøpes, sa Gerd.\n\nSkirne tok fram ringen Draupne.\n\n– Denne drypper åtte like ringer hver niende natt.\n\nGerd rørte den ikke.\n\n– Vet du hva den er verdt?\n\n– Jeg vet hva den er verdt, sa Gerd. – Svaret er nei.\n\nSkirne sto en stund uten å si noe.\n\nSå satte han seg ned på trammen.\n\nDet var kaldt i tunet.\n\n– Da har jeg ingenting mer å tilby.\n\n– Nei.\n\n– Men jeg kan si deg hva turen kostet.\n\nGerd satte seg ned hun også.\n\nHun ble sittende og se på hendene sine.\n\n– Si det.\n\n– Han ga meg hesten sin for at jeg skulle komme fram.\n\n– Ja.\n\n– Og han ga meg sverdet sitt.\n\nGerd snudde seg mot ham.\n\n– Sverdet?\n\n– Det som slåss av seg selv.\n\nSkirne nikket sakte.\n\n– Får han det tilbake?\n\n– Nei, sa Skirne. – Aldri.\n\nDet ble stille på trammen.\n\nEn hund reiste seg og la seg ned igjen.\n\n– Han vet ikke om jeg sier ja.\n\n– Nei.\n\n– Han ga det fra seg likevel.\n\n– Ja.\n\nGerd så utover mot mørket der Skirne var kommet fra.\n\n– Si til ham at jeg kommer.\n\n– Når?\n\n– Om ni netter, sa hun. – I lunden som heter Barre.\n\nSkirne red hjem samme natt.\n\nHesten kjente veien selv.\n\nFrøy sto ute og ventet før han kom fram.\n\n– Hva sa hun?\n\n– Om ni netter.\n\n– Ni netter, sa Frøy. – Det er lang tid.\n\nHan satte seg ned på trappa.\n\nDer ble han sittende hele dagen.\n\nOm kvelden kom Njord ut og satte seg hos ham.\n\n– Du ga bort sverdet ditt.\n\n– Ja.\n\n– Det kommer du til å trenge en dag.\n\n– Ja.\n\nFrøy så bort på den tomme sliren.\n\n– Det handler ikke om gavene han hadde med seg.\n\n– Hva handler det om da?\n\n– Om hva jeg ga fra meg bare for å få spørre.\n\nNjord satt hos ham til det ble mørkt.\n\nNi netter er ikke lenge, men de var lange den gangen.",
+      "language_code": "nb-NO",
+      "shelf": "norrone",
+      "tradition": "norse",
+      "source_type": "expanded_adaptation",
+      "source_material": "Skirnesmål, Den eldre Edda",
+      "source_notes": "Det viktigste var ikke gavene han hadde med seg, men hva Frøy ga fra seg bare for å få spørre.",
+      "parent_notes": {
+        "kilden": "Skirnesmål er et av diktene i Den eldre Edda. Det forklarer også hvorfor Frøy står uten sverd i Ragnarok, som er den siste fortellingen på denne hylla.",
+        "tro_mot_originalen": [
+          "Frøy setter seg i Lidskjalv, som han ikke har lov til, og ser Gerd i Jotunheim.",
+          "Han slutter å spise og snakke, og Njord sender Skirne inn til ham.",
+          "Skirne får hesten og sverdet til Frøy for å kunne dra.",
+          "Sverdet slåss av seg selv, og Frøy får det aldri tilbake.",
+          "Skirne tilbyr elleve gulløst epler og ringen Draupne.",
+          "Gerd avviser begge gavene.",
+          "Hun sier til slutt ja til å møte ham i lunden Barre etter ni netter."
+        ],
+        "endret": [
+          "Slutten, og det er den store endringen. I diktet sier Gerd ja fordi Skirne truer henne med en lang og stygg forbannelse. Det er ikke gjenfortalt her. I stedet sier han hva reisen kostet Frøy, og hun svarer på det.",
+          "Hundene og ilden rundt tunet er kortet ned.",
+          "Frøys utålmodighet til slutt er en hel strofe i diktet. Her er den én linje."
+        ],
+        "diktet_til": [
+          "Hele samtalen på trammen.",
+          "Samtalen mellom Frøy og Njord til slutt, og dermed moralen."
+        ],
+        "om_innholdet": "I originalen blir Gerd truet til å si ja, og det er ubehagelig lesning. Den delen er byttet ut med vilje, og byttet står oppført over. Ellers handler fortellingen om at Frøy gir bort det beste han eier uten å vite om han får noe igjen — og at det får følger mange fortellinger senere.",
+        "videre_lesning": [
+          {
+            "tekst": "Skírnismál",
+            "url": "https://en.wikipedia.org/wiki/Sk%C3%ADrnism%C3%A1l"
+          },
+          {
+            "tekst": "Skirnesmål på norrønt",
+            "url": "https://heimskringla.no/wiki/Sk%C3%ADrnism%C3%A1l"
+          },
+          {
+            "tekst": "Freyr",
+            "url": "https://en.wikipedia.org/wiki/Freyr"
+          }
+        ]
+      },
+      "reading_time_minutes": 8,
+      "characters": [
+        "Frøy",
+        "Gerd",
+        "Skirne",
+        "Njord"
+      ],
+      "themes": [
+        "lengsel",
+        "pris",
+        "å bli spurt"
+      ],
+      "content_warnings": [],
+      "moral": "Det viktigste var ikke gavene han hadde med seg, men hva Frøy ga fra seg bare for å få spørre.",
+      "adaptation_notes": "Det viktigste var ikke gavene han hadde med seg, men hva Frøy ga fra seg bare for å få spørre.",
+      "status": "draft",
+      "sort_order": 4,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "tor-og-fisketuren",
+      "title": "Tor og det som tok på kroken",
+      "subtitle": null,
+      "teaser": "Ægir mangler en kjele til gjestebudet, og Tor må ro lenger ut enn noen har rodd.",
+      "summary": "Tor får Midgardsormen på kroken, og Hyme skjærer over lina før han rekker å gjøre noe.",
+      "story_text": "Ægir er den som rår over havet.\n\nEn kveld skulle han holde gjestebud for gudene.\n\nHan hadde alt han trengte, bortsett fra én ting.\n\n– Jeg har ingen kjele stor nok, sa han.\n\n– Hvor stor må den være?\n\n– Den må romme øl til alle sammen.\n\n– Hvem har en slik? spurte Tor.\n\n– Bare Hyme, sa Ægir. – Han bor øst for Elivågane.\n\nTor og Tyr dro av gårde neste morgen.\n\nDe kom fram om kvelden.\n\nHyme var en jotun med skjegg som frosne kvister.\n\nUte i skjulet hans sto det en kjele.\n\nDen var så stor at et hus hadde fått plass i den.\n\n– Den vil jeg låne, sa Tor.\n\n– Nei.\n\n– Hvorfor ikke?\n\n– Fordi du ikke er sterk nok til å bære den.\n\nTor sa ikke noe til det.\n\nOm morgenen skulle Hyme ut og fiske.\n\n– Blir du med?\n\n– Ja.\n\n– Da må du skaffe agn selv.\n\n– Hvor finner jeg agn?\n\n– Det får du finne ut av.\n\nTor gikk bort til en flokk okser i utmarka.\n\nHan tok den største av dem.\n\n– Dette holder, sa Tor.\n\nHan gikk ned til båten med hodet under armen.\n\n– Det var min okse, sa Hyme.\n\nDe rodde ut fra land.\n\nHyme rodde til de var over den vanlige fiskeplassen.\n\nDer dro han opp to hvaler etter hverandre.\n\n– Nå snur vi, sa han.\n\n– Nei.\n\n– Vi er langt nok ute.\n\nTor tok årene og rodde videre.\n\n– Snu, sa Hyme.\n\nHan rodde forbi alle grunnene.\n\n– Snu nå.\n\nHan rodde til land var borte bak dem.\n\nHan rodde til Hyme satt helt stille i båten.\n\n– Nå er vi langt nok, sa Tor.\n\nHan satte oksehodet på kroken.\n\nSå slapp han lina ned i det svarte vannet.\n\n– Her ute er det ingenting, sa Hyme.\n\nDet tok ikke lang tid.\n\nNoe tok tak nede i dypet.\n\nLina strammet seg så båten la seg over.\n\nTor satte føttene mot bunnen i båten.\n\nBunnen ga etter, og han sto på havbunnen.\n\nSå dro han.\n\nOpp av vannet kom det et hode.\n\nDet var Midgardsormen, som ligger rundt hele jorda.\n\nDen så på Tor og Tor så på den.\n\n– Der er du, sa Tor.\n\nTor tok hammeren med den ene hånden.\n\nDa så han bort på Hyme.\n\nHyme satt hvit i ansiktet med kniven i hånden.\n\n– Ikke gjør det, sa Tor.\n\nHyme skar over lina.\n\nOrmen gikk ned igjen i havet.\n\n– Hva gjorde du? sa Tor.\n\nHyme svarte ikke.\n\nDe rodde inn uten å si et ord.\n\nPå land satte Hyme fra seg hvalene.\n\n– Nå kan du bære kjelen hjem, sa han. – Hvis du greier det.\n\nTor gikk inn i skjulet.\n\n– Se her, sa han.\n\nHan tok tak i kanten med begge hender.\n\nSå løftet han den opp på hodet.\n\nHankene slo mot hælene hans hele veien ut.\n\nHan bar den hele veien til Ægir.\n\nOm kvelden ble det gjestebud, slik det var meningen.\n\n– Skål for Tor, ropte Ægir.\n\nTor satt lenger ute enn han pleide.\n\nTyr satte seg ned ved siden av ham.\n\n– Du fikk kjelen.\n\n– Ja.\n\n– Men du sitter her.\n\nTor så ned i krusen sin.\n\n– Jeg hadde den på kroken.\n\n– Ja.\n\n– Og så kom jeg hjem med en kjele.\n\nTyr ventet litt.\n\n– Er du sint på Hyme?\n\n– Nei.\n\n– Hvorfor ikke?\n\n– Det handler ikke om at han skar over lina.\n\n– Hva handler det om da?\n\n– Om at jeg ikke visste hva jeg skulle gjøre da hodet kom opp.\n\nTyr sa ikke mer om det.\n\nOrmen ligger fortsatt rundt hele jorda og biter seg selv i halen, og en gang skal de to møtes igjen.",
+      "language_code": "nb-NO",
+      "shelf": "norrone",
+      "tradition": "norse",
+      "source_type": "authentic_adaptation",
+      "source_material": "Hymeskvadet, Den eldre Edda",
+      "source_notes": "Det verste var ikke at Hyme skar over lina, men at Tor ikke visste hva han skulle gjøre da hodet kom opp.",
+      "parent_notes": {
+        "kilden": "Hymeskvadet er et dikt i Den eldre Edda. Snorre forteller det samme kortere i Gylvaginning, og der er det Tor som får slått til ormen før lina ryker. De to kildene er ikke enige.",
+        "tro_mot_originalen": [
+          "Ægir trenger en kjele stor nok til å brygge øl til alle gudene.",
+          "Kjelen finnes hos jotnen Hyme, øst for Elivågane.",
+          "Tor og Tyr drar sammen.",
+          "Tor tar hodet av den største oksen i flokken og bruker det som agn.",
+          "Hyme drar opp to hvaler på én gang.",
+          "Tor ror forbi den vanlige fiskeplassen, mot Hymes vilje.",
+          "Tor får Midgardsormen på kroken.",
+          "Hyme skjærer over lina, og ormen går ned igjen.",
+          "Tor bærer kjelen hjem på hodet."
+        ],
+        "endret": [
+          "I Hymeskvadet slår Tor jotnen etterpå, og det er en lang scene med et beger som skal knuses. Alt dette er utelatt.",
+          "Snorres versjon lar Tor treffe ormen med hammeren. Her får han ikke sjansen, slik det er i diktet.",
+          "Tyr er med hele veien i diktet og har mer å si. Her er han mest med i begynnelsen og slutten."
+        ],
+        "diktet_til": [
+          "De fleste replikkene.",
+          "Samtalen mellom Tor og Tyr under gjestebudet, og dermed moralen."
+        ],
+        "om_innholdet": "Ingen kommer til skade, men fortellingen ender uavgjort, og det er meningen. Tor møter det eneste han ikke kan vinne over ennå. De to skal møtes igjen i Ragnarok, som er den siste fortellingen på hylla.",
+        "videre_lesning": [
+          {
+            "tekst": "Hymiskviða",
+            "url": "https://en.wikipedia.org/wiki/Hymiskvi%C3%B0a"
+          },
+          {
+            "tekst": "Hymeskvadet på norrønt",
+            "url": "https://heimskringla.no/wiki/Hymiskvi%C3%B0a"
+          },
+          {
+            "tekst": "Gylfaginning i Brodeurs oversettelse",
+            "url": "https://mythopedia.com/library/prose-edda-brodeur-1916/gylfaginning/"
+          }
+        ]
+      },
+      "reading_time_minutes": 7,
+      "characters": [
+        "Tor",
+        "Tyr",
+        "Hyme",
+        "Ægir",
+        "Midgardsormen"
+      ],
+      "themes": [
+        "overmot",
+        "å bli avbrutt",
+        "uavgjort"
+      ],
+      "content_warnings": [],
+      "moral": "Det verste var ikke at Hyme skar over lina, men at Tor ikke visste hva han skulle gjøre da hodet kom opp.",
+      "adaptation_notes": "Det verste var ikke at Hyme skar over lina, men at Tor ikke visste hva han skulle gjøre da hodet kom opp.",
+      "status": "draft",
+      "sort_order": 5,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "loke-pa-gjestebudet",
+      "title": "Loke på gjestebudet",
+      "subtitle": null,
+      "teaser": "Loke er ikke bedt, går inn likevel, og sier bare sanne ting hele kvelden.",
+      "summary": "Loke ødelegger et gjestebud uten å lyve én eneste gang.",
+      "story_text": "Ægir holdt gjestebud i hallen sin ute ved havet.\n\nAlle gudene var der.\n\nØlet gikk rundt i den store kjelen Tor hadde båret hjem.\n\nIngen tenkte på noe vondt den kvelden.\n\nLoke sto ute i mørket.\n\n– De ler, sa han til seg selv.\n\n– Jeg har ikke fått bud, sa han.\n\nHan gikk inn likevel.\n\nDet ble stille da han kom fram i lyset.\n\n– Jeg har gått langt, sa han. – Jeg vil ha noe å drikke.\n\nIngen svarte ham.\n\n– Er det ingen som byr meg en plass?\n\nDa reiste Odin seg.\n\n– Sett deg.\n\n– Skal han sitte her? sa noen.\n\n– Han skal sitte, sa Odin.\n\n– Takk, sa Loke.\n\nHan satte seg og drakk.\n\nSå begynte han å snakke.\n\n– Nå skal dere høre, sa han.\n\n– Du sier du er modig.\n\n– Ja.\n\n– Hvor var du da broren din trengte deg?\n\nMannen svarte ikke.\n\nLoke snudde seg mot den neste.\n\n– Og du.\n\n– Hva med meg?\n\n– Du lovte noe i fjor.\n\n– Ja.\n\n– Har du holdt det?\n\nHan fikk ikke svar på det heller.\n\nDa snudde Loke seg mot Odin.\n\n– Og du sitter der.\n\n– Ja.\n\n– Du har gjort ting ingen av dem vet om.\n\nOdin så rett fram og sa ingenting.\n\n– Det er jo sant, sa Loke.\n\nOg det var det verste.\n\nHver eneste ting Loke sa, var sant.\n\nHan hadde valgt ut det folk hadde tilgitt hverandre for.\n\nNå lå de på bordet igjen, en etter en.\n\nSiv reiste seg med et krus.\n\nHun gikk bort til ham og satte det foran ham.\n\n– Drikk dette, sa hun. – Og ti stille.\n\n– Fra deg? sa Loke.\n\nHan tok kruset.\n\nHan drakk det tomt.\n\nSå satte han det fra seg og fortsatte.\n\nDa hørte de tordenvær utenfor.\n\nTor kom inn døra med hammeren i hånden.\n\n– Er han her? sa Tor.\n\nHan ble stående og se på Loke.\n\nLoke reiste seg fra benken.\n\n– Nå går jeg.\n\n– Ja.\n\n– Ingen sier meg imot heller.\n\n– Nei, sa Tor.\n\nLoke gikk mot døra og stanset i den.\n\nHan snudde seg og så inn i hallen.\n\n– Se på dem, sa han.\n\nAlle satt og så i bordet.\n\nIngen så på sidemannen sin lenger.\n\nDet var ikke lenger et gjestebud.\n\nSå gikk han ut i mørket.\n\n– Finn ham, sa Odin.\n\nDe fant ham til slutt oppe i fjellet.\n\nDe bandt ham i en hule under jorda.\n\nDer ble han liggende.\n\nKona hans het Sigyn.\n\nHun gikk ned til ham og ble sittende der.\n\nHun holdt en skål over ansiktet hans.\n\nNår skålen ble full, måtte hun gå ut og tømme den.\n\nDa rykket det i ham nede i mørket.\n\n– Jeg er her, sa hun hver gang hun kom tilbake.\n\nDet er hun som sitter der ennå.\n\nOm kvelden satt Odin og Frigg alene i Åsgard.\n\nHallen ute ved havet sto tom.\n\n– Han løy ikke én gang, sa Frigg.\n\n– Nei.\n\n– Alt sammen var sant.\n\n– Ja.\n\nOdin så bort på det tomme setet hans.\n\n– Det handler ikke om at han sa noe usant.\n\n– Hva handler det om da?\n\n– Om at han sa sanne ting for å ødelegge noe.\n\nFrigg svarte ikke på det.\n\nIngen av dem som satt i hallen den kvelden, snakket helt likt til hverandre igjen.",
+      "language_code": "nb-NO",
+      "shelf": "norrone",
+      "tradition": "norse",
+      "source_type": "expanded_adaptation",
+      "source_material": "Lokasenna, Den eldre Edda",
+      "source_notes": "Han sa ikke ett usant ord. Han sa sanne ting for å ødelegge noe.",
+      "parent_notes": {
+        "kilden": "Lokasenna er et av de merkeligste diktene i Den eldre Edda: nesten hele diktet er Loke som fornærmer én gud av gangen i Ægirs hall. Fortellingen om at han blir bundet står i Gylvaginning og i prosastykket etter diktet.",
+        "tro_mot_originalen": [
+          "Ægir holder gjestebud, og Loke er ikke ønsket.",
+          "Loke går inn likevel og krever plass og drikke.",
+          "Odin er den som til slutt sier at han skal få sitte.",
+          "Loke går rundt bordet og sier stygge ting til én etter én.",
+          "Siv er den som kommer med et krus til ham.",
+          "Tor kommer inn til slutt, og da går Loke.",
+          "Etterpå blir Loke bundet, og Sigyn sitter hos ham med en skål."
+        ],
+        "endret": [
+          "Det aller meste av innholdet. Fornærmelsene i diktet er grove og handler mye om utroskap og skam. Her er de gjort om til to korte utvekslinger uten innhold.",
+          "Diktet begynner med at Loke dreper en av Ægirs tjenere. Det er utelatt.",
+          "Bindingen. I kilden brukes tarmene til sønnen hans, og en slange drypper gift i ansiktet. Her står det bare at de bandt ham, og at Sigyn holder en skål."
+        ],
+        "diktet_til": [
+          "Alle replikkene, siden originalens ikke kunne brukes.",
+          "Samtalen mellom Odin og Frigg til slutt, og dermed moralen."
+        ],
+        "om_innholdet": "Dette er den vondeste fortellingen på hylla ved siden av Balder, men på en annen måte: ingen blir skadet, et selskap blir bare ødelagt. Straffen Loke får, er grusom i originalen og er holdt helt utenfor bildet. Fortellingen kommer etter Balder i leserekkefølgen, fordi det er da gudene slutter å bære over med ham.",
+        "videre_lesning": [
+          {
+            "tekst": "Lokasenna",
+            "url": "https://en.wikipedia.org/wiki/Lokasenna"
+          },
+          {
+            "tekst": "Lokasenna på norrønt",
+            "url": "https://heimskringla.no/wiki/Lokasenna"
+          },
+          {
+            "tekst": "Gylfaginning i Brodeurs oversettelse",
+            "url": "https://mythopedia.com/library/prose-edda-brodeur-1916/gylfaginning/"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "Loke",
+        "Odin",
+        "Tor",
+        "Siv",
+        "Ægir",
+        "Sigyn",
+        "Frigg"
+      ],
+      "themes": [
+        "ord",
+        "sannhet",
+        "å ødelegge"
+      ],
+      "content_warnings": [
+        "Loke blir bundet til slutt"
+      ],
+      "moral": "Han sa ikke ett usant ord. Han sa sanne ting for å ødelegge noe.",
+      "adaptation_notes": "Han sa ikke ett usant ord. Han sa sanne ting for å ødelegge noe.",
+      "status": "draft",
+      "sort_order": 6,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "sigurd-og-fafne",
+      "title": "Sigurd og ormen på heia",
+      "subtitle": null,
+      "teaser": "Smeden ber fostersønnen sin om å hente et gullkammer fra broren hans, som ikke er et menneske lenger.",
+      "summary": "Sigurd feller Fafne, brenner seg på hjertet, og forstår med ett hva fuglene sier.",
+      "story_text": "Sigurd vokste opp hos en smed som het Regin.\n\nRegin var ikke stor.\n\nRegin var ikke sterk.\n\nMen han kunne smi bedre enn noen annen.\n\nEn kveld satt de to ved essa.\n\n– Du er gammel nok nå, sa Regin.\n\n– Til hva da?\n\n– Til å høre noe.\n\nSigurd la fra seg det han holdt på med.\n\n– Jeg hadde en bror, sa Regin. – Han het Fafne.\n\n– Hvor er han?\n\n– Han ligger på en hei langt herfra.\n\n– Hva gjør han der?\n\n– Han ligger på et gullkammer.\n\nRegin så ned i ilden.\n\n– Han var et menneske en gang.\n\n– Og nå?\n\n– Nå er han en orm.\n\n– Hvordan skjedde det?\n\n– Han ville ikke dele, sa Regin. – Så ble han til det han ville.\n\nSigurd ble sittende og tenke.\n\n– Vil du at jeg skal dra dit?\n\n– Ja.\n\n– Hvorfor gjør du det ikke selv?\n\nRegin svarte ikke på det.\n\nSå smidde han et sverd til Sigurd.\n\nSigurd slo det mot ambolten, og det knakk.\n\nRegin smidde et nytt.\n\nDet knakk også.\n\nDa gikk Sigurd til moren sin.\n\n– Har du noe etter far?\n\nHun kom med to biter av et gammelt sverd.\n\nRegin sveiset dem sammen til ett.\n\nDenne gangen sto sverdet imot ambolten.\n\nDet fikk navnet Gram.\n\nDe red østover i mange dager.\n\nTil slutt kom de til en åpen hei.\n\nDer gikk det et spor gjennom lyngen.\n\nSporet var bredt som en vei.\n\n– Det er der han går ned til vannet, sa Regin.\n\n– Hver dag?\n\n– Hver eneste dag.\n\n– Da graver jeg en grav i sporet.\n\n– Ja.\n\n– Og så venter jeg i den.\n\nRegin ble stående et stykke unna hele tiden.\n\nSigurd gravde til han sto under bakken.\n\nSå la han lokk over og ble liggende.\n\nEtter en stund kjente han jorda riste.\n\nOrmen kom nedover sporet.\n\nDen var så tung at steinene sank.\n\nAlt ble mørkt over ham.\n\nSigurd gjorde det han var kommet for.\n\nSå ble det stille på heia.\n\nRegin kom bort da alt var over.\n\n– Du greide det.\n\n– Ja.\n\n– Da vil jeg be deg om én ting til.\n\n– Hva da?\n\n– Stek hjertet hans for meg.\n\nSigurd satte hjertet på et spidd over ilden.\n\nHan satt og snudde det til det var ferdig.\n\nSå tok han på det med fingeren for å kjenne om det var stekt.\n\nFingeren brant seg, og han stakk den i munnen.\n\nDa hørte han fuglene i treet over seg.\n\nHan hadde hørt dem hele dagen uten å forstå noe.\n\nNå forsto han hvert ord.\n\n– Ser dere ham som sitter der? sa den ene.\n\n– Han steker hjertet til en annen.\n\n– Vet han hva Regin tenker?\n\n– Nei.\n\n– Regin venter til han sovner.\n\nSigurd så bort på Regin, som satt et stykke unna og ventet.\n\nHan satt lenge uten å røre seg.\n\nSå reiste han seg.\n\nRegin fikk ikke gjort det han hadde tenkt.\n\nSigurd red vekk fra heia med gullet på hesten.\n\nHan red hele natten uten å stanse.\n\nOm morgenen satte han seg ned ved en bekk.\n\nFuglene satt fortsatt i trærne rundt ham.\n\n– Du hørte oss i tide, sa en av dem.\n\n– Ja.\n\n– Var det flaks?\n\nSigurd så på fingeren sin.\n\n– Det handler ikke om at jeg hørte dere.\n\n– Hva handler det om da?\n\n– Om at jeg brant meg på noe jeg gjorde for en annen.\n\nFuglen svarte ikke på det.\n\nGullet fulgte Sigurd resten av livet, og det gjorde ingen av dem som eide det noe godt.",
+      "language_code": "nb-NO",
+      "shelf": "norrone",
+      "tradition": "norse",
+      "source_type": "authentic_adaptation",
+      "source_material": "Fafnesmål, Den eldre Edda",
+      "source_notes": "Han hørte fuglene fordi han brant seg på noe han gjorde for en annen.",
+      "parent_notes": {
+        "kilden": "Fafnesmål står i Den eldre Edda, og hele historien fortelles lengre i Volsungesaga fra 1200-tallet. Det er den samme historien som ligger under Wagners operaer og under mye av det som senere er skrevet om drager og forbannet gull.",
+        "tro_mot_originalen": [
+          "Regin er smed og fosterfar til Sigurd, og Fafne er broren hans.",
+          "Fafne var et menneske og ble en orm fordi han ikke ville dele gullet.",
+          "De to første sverdene Regin smir, knekker mot ambolten.",
+          "Det tredje smis av bitene etter Sigurds fars sverd og heter Gram.",
+          "Sigurd graver seg ned i sporet ormen bruker til vannet.",
+          "Regin ber ham steke hjertet.",
+          "Sigurd brenner fingeren, stikker den i munnen, og forstår fuglespråk.",
+          "Fuglene advarer ham mot Regin."
+        ],
+        "endret": [
+          "Hva Sigurd gjør med Regin etterpå står tydelig i kilden. Her står det bare at Regin ikke fikk gjort det han hadde tenkt.",
+          "Selve drapet på ormen er én setning her. I kilden er det en lang samtale mellom Sigurd og Fafne mens ormen dør.",
+          "Odin dukker opp og gir råd underveis i kilden. Det er utelatt.",
+          "Alt som skjer etterpå — Brynhild, Gjukungene, forbannelsen — er ikke med."
+        ],
+        "diktet_til": [
+          "De fleste replikkene mellom Sigurd og Regin.",
+          "Samtalen med fuglen ved bekken til slutt, og dermed moralen."
+        ],
+        "om_innholdet": "Sigurd dreper Fafne, og det står i én setning uten bilde. Han oppdager at fosterfaren har tenkt å svike ham, og det er den delen som er verdt å snakke om: han fikk vite det ved et uhell, mens han gjorde noe for den andre. Dette er den eneste fortellingen på hylla uten guder i.",
+        "videre_lesning": [
+          {
+            "tekst": "Fáfnir",
+            "url": "https://en.wikipedia.org/wiki/F%C3%A1fnir"
+          },
+          {
+            "tekst": "Fafnesmål på norrønt",
+            "url": "https://heimskringla.no/wiki/F%C3%A1fnism%C3%A1l"
+          },
+          {
+            "tekst": "Volsungesaga",
+            "url": "https://en.wikipedia.org/wiki/V%C3%B6lsunga_saga"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "Sigurd",
+        "Regin",
+        "Fafne",
+        "fuglene"
+      ],
+      "themes": [
+        "grådighet",
+        "å høre etter",
+        "svik"
+      ],
+      "content_warnings": [
+        "drap på en drage, ikke beskrevet",
+        "svik"
+      ],
+      "moral": "Han hørte fuglene fordi han brant seg på noe han gjorde for en annen.",
+      "adaptation_notes": "Han hørte fuglene fordi han brant seg på noe han gjorde for en annen.",
+      "status": "draft",
+      "sort_order": 7,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "ragnarok",
+      "title": "Ragnarok og gresset etterpå",
+      "subtitle": null,
+      "teaser": "Vinteren tar ikke slutt, Heimdall blåser i hornet, og alle går ut selv om de vet hvordan det ender.",
+      "summary": "Verden går under, og så kommer den opp igjen grønn, og noen finner gullbrikkene i gresset.",
+      "story_text": "Det kom en vinter som ikke gikk over.\n\n– Snøen ligger ennå, sa de i mai.\n\n– Den ligger fortsatt, sa de i juli.\n\n– Nå kommer det en vinter til.\n\n– Og så en tredje.\n\n– Kommer det ingen sommer?\n\n– Ingen sommer imellom.\n\nFolk kalte den fimbulvinteren.\n\n– Hvor lenge varer den? spurte de.\n\nIngen svarte på det.\n\nOppe i Åsgard sto Heimdall på vakt, slik han alltid hadde gjort.\n\nHan kunne høre graset gro.\n\nEn morgen hørte han noe annet.\n\n– Hva hører du? spurte Odin.\n\n– Jeg vet ikke.\n\n– Har du hørt det før?\n\n– Nei.\n\nHeimdall løftet hornet sitt og blåste.\n\n– Nå, ropte han.\n\nLyden gikk gjennom alle ni verdener.\n\n– Det er hornet, sa de som hørte det.\n\n– Båndet røk, ropte noen.\n\nUte på øya reiste Fenrir seg.\n\nHan gikk vestover.\n\nNede i havet vred Midgardsormen seg løs.\n\n– Sjøen kommer, ropte de på stranda.\n\nBølgen nådde inn over hele landet.\n\nFra sør kom Surt med et sverd som lyste sterkere enn sola.\n\n– Broen, sa Heimdall.\n\nBivrost brakk under ham.\n\nGudene gikk ut på sletta Vigrid og stilte seg opp.\n\n– Vi vet hvordan dette går, sa Odin.\n\n– Ja, sa de andre.\n\nDe gikk ut likevel.\n\nOdin gikk mot ulven.\n\n– Far, ropte en av sønnene.\n\nHan kom ikke tilbake.\n\nTor gikk mot ormen.\n\nHan felte den, og han gikk ni skritt etterpå.\n\n– Ni skritt, sa noen.\n\nSå ble han liggende han også.\n\nLoke og Heimdall møttes ute på sletta.\n\nIngen av dem gikk derfra.\n\nFrøy hadde ikke sverdet sitt.\n\nHan hadde gitt det bort for lenge siden, og det manglet ham nå.\n\nTil slutt kastet Surt ild utover alt sammen.\n\n– Alt brenner, sa den siste som så det.\n\nTrærne brant.\n\nFjellene brant.\n\nSola ble svart.\n\nStjernene falt ned fra himmelen.\n\nOg jorda sank i havet.\n\n– Er det noen igjen? ropte noen.\n\nIngen svarte.\n\nIngen vet hvor lenge det var stille.\n\nMen så kom jorda opp igjen.\n\n– Se, sa noen.\n\nDen kom opp grønn.\n\nFossene falt der de hadde falt før.\n\nEn ørn fløy over fjellet og fisket.\n\nKornet vokste uten at noen hadde sådd.\n\nOg oppe på sletta Idavollen kom det noen gående.\n\nDet var sønnene til dem som hadde stått der.\n\n– Var det her? sa den ene.\n\nDe satte seg ned i gresset.\n\n– Her sto de, sa den ene.\n\n– Ja.\n\n– Her var hallen.\n\n– Her var muren.\n\nDa fant de noe i gresset.\n\nDet var gullbrikkene som gudene hadde spilt med.\n\nDe lå der de var blitt liggende.\n\n– Sett dem opp, sa den yngste.\n\nDe børstet jord av dem.\n\nDa kom det en til over sletta.\n\nDe så på ham lenge før noen sa noe.\n\n– Er det deg?\n\n– Ja, sa Balder.\n\nHan satte seg ned hos dem i gresset.\n\n– Hvor har du vært?\n\n– Borte, sa han.\n\nIngen spurte om mer.\n\nDe satt sammen og spilte til det ble mørkt.\n\n– Kommer det til å skje igjen? spurte den yngste.\n\nIngen av dem svarte med én gang.\n\n– Kanskje.\n\n– Skal vi gjøre noe annerledes, da?\n\nBalder tok opp en av brikkene og snudde den i hånden.\n\n– Det handler ikke om at alt gikk under.\n\n– Hva handler det om da?\n\n– Om at gresset kom tilbake, og at vi fant brikkene igjen.\n\nDe ble sittende på Idavollen til sola gikk ned.\n\nOg oppe i det nye lyset satt det en ørn og så utover, slik en ørn alltid har gjort.",
+      "language_code": "nb-NO",
+      "shelf": "norrone",
+      "tradition": "norse",
+      "source_type": "authentic_adaptation",
+      "source_material": "Voluspå, Den eldre Edda",
+      "source_notes": "Det viktigste er ikke at alt gikk under, men at gresset kom tilbake og at brikkene lå der ennå.",
+      "parent_notes": {
+        "kilden": "Voluspå er det første og største diktet i Den eldre Edda. En volve forteller Odin hva som har vært og hva som skal komme. De siste strofene, om jorda som stiger grønn opp igjen og om gullbrikkene i gresset, er noe av det mest kjente som er skrevet på norrønt.",
+        "tro_mot_originalen": [
+          "Fimbulvinteren er tre vintre etter hverandre uten sommer imellom.",
+          "Heimdall blåser i Gjallarhornet.",
+          "Fenrir slipper løs, og Midgardsormen kommer opp av havet.",
+          "Surt kommer fra sør med et sverd som lyser sterkere enn sola, og Bivrost brister.",
+          "Odin faller for ulven.",
+          "Tor feller ormen og går ni skritt før han faller.",
+          "Loke og Heimdall feller hverandre.",
+          "Frøy står uten sverdet sitt.",
+          "Sola blir svart og jorda synker i havet.",
+          "Jorda stiger opp igjen grønn, og en ørn fisker over fjellet.",
+          "Æsenes sønner møtes på Idavollen og finner gullbrikkene i gresset.",
+          "Balder kommer tilbake."
+        ],
+        "endret": [
+          "Rekkefølgen er strammet inn. Voluspå hopper fram og tilbake i tid.",
+          "Mange navn er tatt bort: Garm, Nagelfar, Vidar, Vale, Mode og Magne.",
+          "Det er ikke sagt i kilden at Frøy savner sverdet i nettopp det øyeblikket, men Skirnesmål og Snorre sier begge at han står uten det.",
+          "Samtalen mellom sønnene på Idavollen finnes ikke. Kilden sier bare at de møttes og fant brikkene."
+        ],
+        "diktet_til": [
+          "Alle replikkene.",
+          "Det siste spørsmålet om det kommer til å skje igjen, og dermed moralen."
+        ],
+        "om_innholdet": "Alle dør, og det står tydelig. Ingen av dødsfallene er beskrevet. Men fortellingen slutter ikke der, og det er hele poenget: mer enn halvparten av teksten kommer etter at verden har gått under. Balder, som mistes i en tidligere fortelling på denne hylla, kommer tilbake her. Dette er lagt sist i leserekkefølgen med vilje.",
+        "videre_lesning": [
+          {
+            "tekst": "Ragnarok",
+            "url": "https://en.wikipedia.org/wiki/Ragnar%C3%B6k"
+          },
+          {
+            "tekst": "Voluspå på norrønt",
+            "url": "https://heimskringla.no/wiki/V%C3%B6lusp%C3%A1"
+          },
+          {
+            "tekst": "Gylfaginning i Brodeurs oversettelse",
+            "url": "https://mythopedia.com/library/prose-edda-brodeur-1916/gylfaginning/"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "Heimdall",
+        "Odin",
+        "Tor",
+        "Loke",
+        "Fenrir",
+        "Midgardsormen",
+        "Surt",
+        "Frøy",
+        "Balder"
+      ],
+      "themes": [
+        "slutt",
+        "å begynne på nytt",
+        "håp"
+      ],
+      "content_warnings": [
+        "gudene dør",
+        "verden går under"
+      ],
+      "moral": "Det viktigste er ikke at alt gikk under, men at gresset kom tilbake og at brikkene lå der ennå.",
+      "adaptation_notes": "Det viktigste er ikke at alt gikk under, men at gresset kom tilbake og at brikkene lå der ennå.",
+      "status": "draft",
+      "sort_order": 8,
+      "created_by": "story-agent"
+    }
+  ]
+}

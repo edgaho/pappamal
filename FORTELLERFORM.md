@@ -143,15 +143,18 @@ Modellene skriver dette ulikt hvis de får velge. De får ikke velge.
 Njord · Skade · Tyr · Idun · Heimdall · Høne · Mime · Hel · æsene · jotner · dverger · alver ·
 Yme (ikke Ymir) · Vavtrudne (ikke Vafþrúðnir) · Alvis · Geirrød · Grid · Gjalp · Greip · Rungne ·
 Groa · Aurvandil · Tjatse · Trym · Skrymer · Utgard-Loke · Loge · Huge · Elle · Tjalve · Roskva ·
-Bauge · Suttung · Gunnlød · Mokkurkalve · Magne · Brokk · Sindre · Ivalde · Gagnråd
+Bauge · Suttung · Gunnlød · Mokkurkalve · Magne · Brokk · Sindre · Ivalde · Gagnråd ·
+Yme · Audhumla · Bure · Bor · Vile · Ve · Ask · Embla · Urd · Verdande · Skuld · Ratatosk ·
+Nidhogg · Gerd · Skirne · Hyme · Ægir · Sigyn · Surt · Sigurd · Regin · Fafne
 
 **Norrønt, ting og steder** — Mjølner · Gungne · Draupne · Skidbladne · Gleipne · Læding · Drome ·
 Gyllenbuste · Sleipne · Svadilfare · Skinfakse · Rimfakse · Ræsvelg · Fenrir · Yggdrasil ·
-Åsgard · Jotunheim · Valhall
+Åsgard · Jotunheim · Valhall · Ginnungagap · Nivlheim · Muspelheim · Midgard · Lidskjalv ·
+Urdarbrønnen · Gjallarhornet · Bivrost · Vigrid · Idavollen · Gram · Barre · Elivågane
 
 **Kilder** — Den eldre Edda · Den yngre Edda · Vavtrudnesmål · Alvismål · Håvamål · Voluspå ·
 Hymeskvadet · Grimnesmål · Trymskvadet · Skaldskaparmål · Gylvaginning · Haustlong ·
-Baldrs draumar
+Baldrs draumar · Skirnesmål · Lokasenna · Fafnesmål · Volsungesaga
 
 **Antikken** — Zevs · Poseidon · Hades · Demeter · Persefone · Hermes · Hekate · Helios ·
 Atene · Afrodite · Amor · Dionysos · Hefaistos · Prometevs · Epimetevs · Pandora · Psyke ·

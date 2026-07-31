@@ -244,18 +244,20 @@ HANDSKREVNE = [
 ]
 
 # Leserekkefølge, satt etter hva som skjer først, ikke etter når det ble skrevet.
-# De to håndskrevne står først, fordi bygg.py bare kan rette neste-lenken deres.
+# Norrønt går nå fra skapelsen til Ragnarok. De to håndskrevne står der de hører
+# hjemme — bygg.py retter både forrige og neste for dem.
 # Ellers: muren før alt annet (Åsgard får muren og Odin får hesten), dvergegavene
 # før Tor-fortellingene (Mjølner blir til der), Idun før Skade (Tjatse er faren
 # hennes), leirmannen før tåa (Tor får steinen i hodet, og Groa synger etterpå),
 # fjærdrakten før den farlige elva (Loke blir tatt der og lover Tor bort).
-REKKEFOLGE = ['odin-og-vavtrudne', 'tor-og-alvis',
-              'muren-rundt-asgard', 'odin-og-mimes-bronn',
-              'odin-og-den-magiske-dikterdrikken', 'loke-og-dvergegavene',
+REKKEFOLGE = ['yme-og-de-tre-brodrene', 'nornene-ved-brunnen', 'muren-rundt-asgard',
+              'odin-og-mimes-bronn', 'ratatosk', 'odin-og-vavtrudne',
+              'odin-og-den-magiske-dikterdrikken', 'loke-og-dvergegavene', 'tor-og-alvis',
               'tyr-og-fenrir', 'idun-og-eplene', 'skade-og-de-vakreste-fottene',
-              'tor-og-leirmannen', 'tor-og-taa-som-ble-en-stjerne',
-              'loke-og-froyas-fjaerdrakt', 'tor-og-den-farlige-elva',
-              'tor-i-brudeklaer', 'tor-hos-utgard-loke', 'balder-og-misteltein',
+              'froy-og-gerd', 'tor-og-leirmannen', 'tor-og-taa-som-ble-en-stjerne',
+              'loke-og-froyas-fjaerdrakt', 'tor-og-den-farlige-elva', 'tor-og-fisketuren',
+              'tor-i-brudeklaer', 'tor-hos-utgard-loke', 'sigurd-og-fafne',
+              'balder-og-misteltein', 'loke-pa-gjestebudet', 'ragnarok',
               # Antikken: ilden først, og krukken rett etter — den er Zevs' svar på den.
               'prometevs-og-ilden', 'pandora-og-krukken', 'persefone-og-kjernen',
               'arakne-og-veven', 'kong-midas', 'psyke-og-oppgavene',
@@ -305,18 +307,26 @@ def main():
                                 ihylle[i + 1] if i + 1 < len(ihylle) else None))
             skrevet.append(f)
 
-    # forrige/neste i de to håndskrevne — bare navigasjonen, aldri teksten
-    for i, s in enumerate([x for x in alle if x['shelf'] == 'norrone']):
+    # De håndskrevne: bare navigasjonen skrives om, aldri teksten. Både forrige og
+    # neste, slik at de kan stå hvor som helst i leserekkefølgen.
+    ihylle = [x for x in alle if x['shelf'] == 'norrone']
+    for i, s in enumerate(ihylle):
         if s.get('generert'):
             continue
-        ihylle = [x for x in alle if x['shelf'] == 'norrone']
-        nxt = ihylle[i + 1] if i + 1 < len(ihylle) else None
         f = os.path.join(ROT, 'fortellinger', s['slug'] + '.html')
         h = open(f, encoding='utf-8').read()
-        nyt = (f'<a class="next" href="{nxt["slug"]}.html" rel="next">\n'
-               f'          <span class="dir">Neste fortelling</span>\n'
-               f'          <span class="name">{e(nxt["title"])}</span>\n        </a>')
-        h = re.sub(r'<(a|span) class="next[^"]*"[^>]*>.*?</\1>', nyt, h, flags=re.S)
+        for klasse, retning, annen in (
+                ('prev', 'Forrige fortelling', ihylle[i - 1] if i else None),
+                ('next', 'Neste fortelling', ihylle[i + 1] if i + 1 < len(ihylle) else None)):
+            if annen:
+                ny = (f'<a class="{klasse}" href="{annen["slug"]}.html" rel="{klasse}">\n'
+                      f'          <span class="dir">{retning}</span>\n'
+                      f'          <span class="name">{e(annen["title"])}</span>\n        </a>')
+            else:
+                ny = (f'<span class="{klasse} disabled" aria-hidden="true">\n'
+                      f'          <span class="dir">{retning}</span>\n'
+                      f'          <span class="name">Ingen flere her</span>\n        </span>')
+            h = re.sub(rf'<(a|span) class="{klasse}[^"]*"[^>]*>.*?</\1>', lambda m: ny, h, flags=re.S)
         open(f, 'w', encoding='utf-8').write(h)
         skrevet.append(f + ' (bare navigasjon)')
 
