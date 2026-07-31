@@ -139,13 +139,19 @@ Norsk bokmål. Ingen engelske ord. Ingen anglisismer i setningsbygningen.
 
 Modellene skriver dette ulikt hvis de får velge. De får ikke velge.
 
-**Norrønt** — Odin · Tor · Loke · Frigg · Balder · Siv · Frøya · Njord · Skade · Tyr · Mjølner ·
-Yggdrasil · Åsgard · Jotunheim · æsene · jotner · dverger · alver · Yme (ikke Ymir) ·
-Vavtrudne (ikke Vafþrúðnir) · Alvis · Skinfakse · Rimfakse · Ræsvelg · Gyllenbuste · Geirrød ·
-Grid · Gjalp · Greip · Rungne · Groa · Aurvandil · Fenrir · Gagnråd
+**Norrønt, guder og folk** — Odin · Tor · Loke · Frigg · Balder · Hod · Siv · Frøy · Frøya ·
+Njord · Skade · Tyr · Idun · Heimdall · Høne · Mime · Hel · æsene · jotner · dverger · alver ·
+Yme (ikke Ymir) · Vavtrudne (ikke Vafþrúðnir) · Alvis · Geirrød · Grid · Gjalp · Greip · Rungne ·
+Groa · Aurvandil · Tjatse · Trym · Skrymer · Utgard-Loke · Loge · Huge · Elle · Tjalve · Roskva ·
+Bauge · Suttung · Gunnlød · Mokkurkalve · Magne · Brokk · Sindre · Ivalde · Gagnråd
+
+**Norrønt, ting og steder** — Mjølner · Gungne · Draupne · Skidbladne · Gleipne · Læding · Drome ·
+Gyllenbuste · Sleipne · Svadilfare · Skinfakse · Rimfakse · Ræsvelg · Fenrir · Yggdrasil ·
+Åsgard · Jotunheim · Valhall
 
 **Kilder** — Den eldre Edda · Den yngre Edda · Vavtrudnesmål · Alvismål · Håvamål · Voluspå ·
-Hymeskvadet · Grimnesmål · Skaldskaparmål · Gylvaginning
+Hymeskvadet · Grimnesmål · Trymskvadet · Skaldskaparmål · Gylvaginning · Haustlong ·
+Baldrs draumar
 
 **Antikken** — Odyssevs · Prometevs · Psyke · Amor · Ikaros · Persefone · kyklopen
 
@@ -292,10 +298,13 @@ STEMME
 - Konkrete ord: skjegg, stein, fakkel, dugg, bissel. Abstrakte ord bare i slag 11.
 
 NAVN — bruk disse formene, ikke velg selv
-Odin, Tor, Loke, Frigg, Balder, Siv, Frøya, Njord, Skade, Tyr, Mjølner, Yggdrasil, Åsgard,
-Jotunheim, æsene, jotner, dverger, alver, Yme (ikke Ymir), Vavtrudne (ikke Vafþrúðnir), Alvis,
-Skinfakse, Rimfakse, Ræsvelg, Gyllenbuste, Geirrød, Grid, Gjalp, Greip, Rungne, Groa, Aurvandil,
-Fenrir. Antikken: Odyssevs, Prometevs, Psyke, Amor, Ikaros, Persefone. Folkeeventyr: Askeladden,
+Odin, Tor, Loke, Frigg, Balder, Hod, Siv, Frøy, Frøya, Njord, Skade, Tyr, Idun, Heimdall, Høne,
+Mime, Hel, æsene, jotner, dverger, alver, Yme (ikke Ymir), Vavtrudne (ikke Vafþrúðnir), Alvis,
+Geirrød, Grid, Gjalp, Greip, Rungne, Groa, Aurvandil, Tjatse, Trym, Skrymer, Utgard-Loke, Loge,
+Huge, Elle, Tjalve, Roskva, Bauge, Suttung, Gunnlød, Mokkurkalve, Magne, Brokk, Sindre, Ivalde.
+Ting og steder: Mjølner, Gungne, Draupne, Skidbladne, Gleipne, Læding, Drome, Gyllenbuste,
+Sleipne, Svadilfare, Skinfakse, Rimfakse, Ræsvelg, Fenrir, Yggdrasil, Åsgard, Jotunheim, Valhall.
+Antikken: Odyssevs, Prometevs, Psyke, Amor, Ikaros, Persefone. Folkeeventyr: Askeladden,
 Bukkene Bruse, Askepott. Originalformen bare i kildehenvisningen, aldri i fortellingen.
 
 FORBUDT
