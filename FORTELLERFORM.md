@@ -158,7 +158,8 @@ Atene · Afrodite · Amor · Dionysos · Hefaistos · Prometevs · Epimetevs · 
 Odyssevs · Polyfemos · Dedalus · Ikaros · Midas · Arakne · Silenos · kyklopen ·
 Olymp · Styx · Sardes · Kolofon
 
-**Folkeeventyr** — Askeladden · Bukkene Bruse · Askepott
+**Folkeeventyr** — Askeladden · Bukken Bruse · Askepott · manndattera · kjerringdattera ·
+nordavinden · Steineteren · seters · risgjerde · skreppe · kjerne (om smør)
 
 Originalformen kan stå i parentes én gang, i kildeblokken — aldri i fortellingen:
 `Vavtrudnesmål (Vafþrúðnismál)`.
@@ -310,7 +311,7 @@ Sleipne, Svadilfare, Skinfakse, Rimfakse, Ræsvelg, Fenrir, Yggdrasil, Åsgard, 
 Antikken: Zevs, Poseidon, Hades, Demeter, Persefone, Hermes, Hekate, Helios, Atene, Afrodite,
 Amor, Dionysos, Hefaistos, Prometevs, Epimetevs, Pandora, Psyke, Odyssevs, Polyfemos, Dedalus,
 Ikaros, Midas, Arakne, Silenos, kyklopen, Olymp, Styx. Folkeeventyr: Askeladden,
-Bukkene Bruse, Askepott. Originalformen bare i kildehenvisningen, aldri i fortellingen.
+Bukken Bruse, Askepott, manndattera, kjerringdattera, nordavinden. Originalformen bare i kildehenvisningen, aldri i fortellingen.
 
 FORBUDT
 Aldersangivelser. Navn på virkelige barn. Emoji. Engelske ord. Å forklare vitsen.

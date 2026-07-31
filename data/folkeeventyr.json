@@ -1,0 +1,561 @@
+{
+  "schema_version": "1.0",
+  "export_type": "stories",
+  "stories": [
+    {
+      "slug": "bukkene-bruse",
+      "title": "De tre bukkene Bruse",
+      "subtitle": null,
+      "teaser": "Tre bukker skal til seters, og under broen sitter det noen som venter.",
+      "summary": "De to minste bukkene sender trollet videre til den neste, og den største gjør resten.",
+      "story_text": "Det var en gang tre bukker som skulle gå til seters og gjøre seg fete.\n\nAlle tre het Bukken Bruse.\n\nVeien gikk oppover og oppover.\n\nPå veien var det en bro over en foss.\n\nBroen var smal.\n\nVannet gikk hvitt under den.\n\nUnder broen bodde det et troll.\n\nTrollet hadde øyne så store som tinntallerkener.\n\nNesa var lang som et riveskaft.\n\nDet satt der nede og ventet.\n\nDet hadde ventet lenge.\n\nFørst kom den minste bukken Bruse.\n\nHan var ikke stor.\n\nBeina hans var tynne.\n\nTripp, trapp, tripp, trapp, sa det i broen.\n\n– Hvem er det som tripper på mi bru?\n\n– Å, det er den minste bukken Bruse.\n\n– Jeg skal opp til seters og gjøre meg fet.\n\n– Nå kommer jeg og tar deg.\n\n– Å nei, ta ikke meg.\n\n– Hvorfor ikke?\n\n– Jeg er så liten jeg.\n\n– Er du det?\n\n– Vent bare litt, så kommer den andre bukken Bruse.\n\n– Er han større?\n\n– Han er mye større.\n\n– Å, så gå da.\n\nSå gikk den minste bukken over.\n\nTrollet satte seg ned igjen.\n\nLitt etter kom den andre bukken Bruse.\n\nHan var større enn den første.\n\nMen ikke stor nok.\n\nTripp, trapp, tripp, trapp, sa det i broen.\n\n– Hvem er det som tripper på mi bru?\n\n– Å, det er den andre bukken Bruse.\n\n– Jeg skal opp til seters og gjøre meg fet.\n\n– Nå kommer jeg og tar deg.\n\n– Å nei, ta ikke meg.\n\n– Hvorfor ikke det?\n\n– Vent bare litt, så kommer den store bukken Bruse.\n\n– Er han større enn deg også?\n\n– Han er mye, mye større.\n\n– Å, så gå da.\n\nSå gikk den andre bukken over.\n\nDa var det ikke mer å høre på en stund.\n\nSå kom den store bukken Bruse.\n\nHan var svær.\n\nHornene hans var svarte.\n\nTramp, tramp, tramp, sa det i broen.\n\nBroen både knaket og braket under ham.\n\n– Hvem er det som tramper på mi bru?\n\n– Det er den store bukken Bruse!\n\nTrollet reiste seg opp under broen.\n\n– Nå kommer jeg og tar deg.\n\nDen store bukken Bruse stanset ikke.\n\n– Kom du bare.\n\n– Jeg har to spjut.\n\n– Med dem skal jeg stinge dine øyne ut.\n\n– Jeg har to store kampestene.\n\n– Med dem skal jeg knuse både marg og bein.\n\nSå gjorde han akkurat det han hadde sagt.\n\nTrollet hørte ingen mer fra den dagen.\n\nSå gikk den store bukken opp til seters.\n\nGresset der oppe sto grønt og høyt.\n\nDer ble alle tre så fete at de nesten ikke orket å gå hjem.\n\nOg er ikke fettet gått av dem, så er de fete ennå.\n\nOm kvelden lå de tre bukkene i gresset og så nedover mot broen.\n\n– Det var du som greide det, sa den minste.\n\n– Nei.\n\n– Jo, det var jo du som tok ham.\n\nDen store bukken Bruse tygget en stund.\n\n– Det handler ikke om hvem som tok ham.\n\n– Hva handler det om da?\n\n– At de to første kom seg over først.\n\nDen minste bukken sa ikke noe på lenge.\n\nNede ved fossen sto broen tom, og det var ingen som visste hvor lenge den ville stå tom.",
+      "language_code": "nb-NO",
+      "shelf": "folkeeventyr",
+      "tradition": "norwegian",
+      "source_type": "authentic_adaptation",
+      "source_material": "Norske Folkeeventyr, Asbjørnsen og Moe",
+      "source_notes": "De to første kom seg over først. Det er også noe.",
+      "parent_notes": {
+        "kilden": "Asbjørnsen og Moe samlet Norske Folkeeventyr mellom 1841 og 1852. De skrev ikke eventyrene selv — de reiste rundt og skrev ned det folk fortalte, og fant en norsk skriftform å gjøre det i. Teksten deres er derfor både kilde og kunstverk på én gang. Dette eventyret ble skrevet ned etter Anders Lysgaard fra Biri i 1842.",
+        "tro_mot_originalen": [
+          "Alle tre bukkene heter Bukken Bruse.",
+          "Trollet har øyne så store som tinntallerkener og nese så lang som et riveskaft.",
+          "Replikkene ved broen står omtrent ordrett som hos Asbjørnsen og Moe.",
+          "Verset til den store bukken om spjut og kampestener er hentet rett fra kilden.",
+          "Slutten «og er ikke fettet gått av dem, så er de fete ennå» er originalens."
+        ],
+        "endret": [
+          "Selve oppgjøret med trollet. Hos Asbjørnsen og Moe står det hva den store bukken gjorde. Her står det bare at han gjorde det han hadde sagt.",
+          "Eventyret slutter med «snipp, snapp, snute» i kilden. Det er tatt bort, fordi formen her krever en siste linje som åpner."
+        ],
+        "diktet_til": [
+          "Samtalen mellom de tre bukkene om kvelden, og dermed moralen.",
+          "Beskrivelsen av broen og fossen."
+        ],
+        "om_innholdet": "Den store bukken sier høyt hva han skal gjøre med trollet, og det er et grovt vers. Det står ordrett fordi det er den delen alle kan utenat. Selve handlingen er utenfor bildet.",
+        "videre_lesning": [
+          {
+            "tekst": "De tre bukkene Bruse",
+            "url": "https://snl.no/De_tre_bukkene_bruse"
+          },
+          {
+            "tekst": "Originalteksten hos Asbjørnsen og Moe",
+            "url": "https://runeberg.org/folkeven/021.html"
+          },
+          {
+            "tekst": "Norske Folkeeventyr hos Bokselskap",
+            "url": "https://www.bokselskap.no/boker/folkeeventyr/"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "den minste bukken",
+        "den andre bukken",
+        "den store bukken",
+        "trollet"
+      ],
+      "themes": [
+        "å komme seg forbi",
+        "størrelse",
+        "tur"
+      ],
+      "content_warnings": [
+        "trollet får en brå slutt, ikke beskrevet"
+      ],
+      "moral": "De to første kom seg over først. Det er også noe.",
+      "adaptation_notes": "",
+      "status": "draft",
+      "sort_order": 1,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "mannen-som-stelte-hjemme",
+      "title": "Mannen som skulle stelle hjemme",
+      "subtitle": null,
+      "teaser": "Mannen mener kona har det lettest, og så bytter de arbeid for én dag.",
+      "summary": "Alt går galt på én dag hjemme, og kua ender opp på taket.",
+      "story_text": "Det var en gang en mann som var sur hver kveld han kom hjem.\n\nHan var ikke lat.\n\nHan var ikke dum heller.\n\nMen han trodde at kona hadde det lettere enn ham.\n\nEn kveld kom han inn og satte seg tungt ned.\n\n– Du aner ikke hva jeg har gjort i dag.\n\n– Nei, sa kona.\n\n– Jeg har slått gras siden det ble lyst.\n\n– Ja.\n\n– Og du har gått her hjemme.\n\nKona la fra seg det hun holdt på med.\n\n– Da bytter vi i morgen.\n\n– Bytter?\n\n– Jeg går ut og slår.\n\n– Og jeg?\n\n– Du steller hjemme, sa kona.\n\n– Greit, sa mannen.\n\n– Ja vel, sa kona.\n\nOm morgenen tok kona ljåen og gikk.\n\nMannen ble stående alene i stua.\n\nFørst skulle han kjerne smør.\n\nDet gikk fint en stund.\n\n– Dette er da ikke vanskelig, sa han.\n\nSå ble han tørst.\n\n– Jeg tar en kopp øl, sa han.\n\nHan gikk ned i kjelleren for å tappe.\n\nMens han sto med tappen i hånden, hørte han noe over seg.\n\nGrisen var kommet inn i stua.\n\nMannen slapp alt han hadde og sprang opp.\n\n– Ut med deg, ropte han.\n\nGrisen hadde allerede veltet kjernen.\n\nFløten rant utover hele gulvet.\n\n– Nei, sa han.\n\nDa han kom ned i kjelleren igjen, var øltønna tom.\n\n– Nå, sa han.\n\n– Nå er ølet borte også.\n\nSå gikk han ut for å hente kua.\n\n– Har du ikke fått mat? spurte han kua.\n\n– Jeg rekker ikke å følge deg på beite.\n\n– Men taket er fullt av gras.\n\nTaket på huset var av torv, og der sto det fint gras.\n\nHan la en planke fra bakken opp på taket.\n\nSå fikk han kua opp.\n\n– Stå i ro nå.\n\nKua sto på taket og beitet.\n\n– Der ser du, sa han opp til kua.\n\nMen han var redd hun skulle falle ned.\n\nSå bandt han et tau rundt halsen på henne.\n\nTauet slapp han ned gjennom pipa.\n\nNede i stua bandt han den andre enden rundt sitt eget lår.\n\n– Nå kommer hun ikke ned, sa han.\n\nSå satte han over grautgryta.\n\n– Nå skal det gå fort, sa han.\n\nDa falt kua ned fra taket.\n\nTauet strammet seg.\n\nMannen ble dratt opp gjennom pipa.\n\nDer ble han hengende.\n\nKua hang på utsiden og han hang på innsiden.\n\n– Hjelp, ropte han opp i pipa.\n\nIngen svarte ham.\n\nIngen av dem kom noen vei.\n\nOm ettermiddagen kom kona hjem fra slåtten.\n\n– Er du ferdig? ropte han ned.\n\n– Hele jordet, sa hun.\n\nUte hang kua langs veggen.\n\n– Hva er dette? sa hun.\n\nHun tok ljåen og skar over tauet.\n\nDa datt mannen ned i stua.\n\nHan landet med hodet i grautgryta.\n\nKona kom inn og ble stående i døra.\n\n– Hvordan har dagen vært?\n\nMannen svarte ikke med én gang.\n\nHan satt i gryta til over ørene.\n\n– Grei, sa han.\n\n– Var det tungt?\n\n– Nei.\n\n– Fikk du kjernet?\n\n– Nei.\n\n– Har vi øl?\n\n– Nei.\n\nKona hjalp ham opp og tørket ham i ansiktet.\n\nDe satte seg ned ved bordet.\n\n– Skal vi bytte i morgen også? spurte hun.\n\n– Nei.\n\n– Hvorfor ikke det?\n\nMannen så seg rundt i stua.\n\n– Det handler ikke om at jeg ikke fikk det til.\n\n– Hva handler det om da?\n\n– At jeg trodde det var lett før jeg prøvde.\n\nKona satte fram det som var igjen av grauten.\n\nKua sto ute på tunet og så inn gjennom vinduet, og ingen av dem sa noe om den.",
+      "language_code": "nb-NO",
+      "shelf": "folkeeventyr",
+      "tradition": "norwegian",
+      "source_type": "authentic_adaptation",
+      "source_material": "Norske Folkeeventyr, Asbjørnsen og Moe",
+      "source_notes": "Han trodde det var lett før han prøvde.",
+      "parent_notes": {
+        "kilden": "Asbjørnsen og Moe samlet Norske Folkeeventyr mellom 1841 og 1852. De skrev ikke eventyrene selv — de reiste rundt og skrev ned det folk fortalte, og fant en norsk skriftform å gjøre det i. Teksten deres er derfor både kilde og kunstverk på én gang. Dette er et av de morsomste i samlingen, og finnes i mange land i litt ulike former.",
+        "tro_mot_originalen": [
+          "Mannen mener kona har det lettest, og de bytter arbeid.",
+          "Han skal kjerne smør, men går ned i kjelleren etter øl.",
+          "Grisen kommer inn og velter kjernen mens han er borte.",
+          "Han glemmer tappen, og øltønna renner tom.",
+          "Han setter kua opp på torvtaket for at den skal beite.",
+          "Han binder tauet fra kuas hals gjennom pipa og rundt sitt eget lår.",
+          "Kua faller ned, og han blir dratt opp i pipa.",
+          "Kona skjærer over tauet med ljåen, og han lander i grautgryta."
+        ],
+        "endret": [
+          "I kilden er det verre for kua enn det står her.",
+          "Rekkefølgen er strammet inn til tre uhell, slik formen krever."
+        ],
+        "diktet_til": [
+          "Alle replikkene.",
+          "Samtalen ved bordet til slutt, og dermed moralen."
+        ],
+        "om_innholdet": "Ingen kommer til skade, bortsett fra stoltheten. Dette er eventyret å lese når noen i huset har sagt at noe andre gjør, er lett.",
+        "videre_lesning": [
+          {
+            "tekst": "Mannen som skulle stelle hjemme",
+            "url": "https://snl.no/Mannen_som_skulle_stelle_hjemme"
+          },
+          {
+            "tekst": "Originalteksten hos Asbjørnsen og Moe",
+            "url": "https://runeberg.org/folkeven/010.html"
+          },
+          {
+            "tekst": "Norske Folkeeventyr hos Bokselskap",
+            "url": "https://www.bokselskap.no/boker/folkeeventyr/"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "mannen",
+        "kona",
+        "kua",
+        "grisen"
+      ],
+      "themes": [
+        "ydmykhet",
+        "arbeid",
+        "å tro man vet bedre"
+      ],
+      "content_warnings": [],
+      "moral": "Han trodde det var lett før han prøvde.",
+      "adaptation_notes": "",
+      "status": "draft",
+      "sort_order": 2,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "gutten-og-nordavinden",
+      "title": "Gutten som gikk til nordavinden",
+      "subtitle": null,
+      "teaser": "Nordavinden tar melet tre ganger, og gutten går for å kreve det tilbake.",
+      "summary": "Gutten får tre gaver av nordavinden, mistet to av dem til en vert, og henter alt igjen med den tredje.",
+      "story_text": "Det var en gang en fattig kone som hadde en sønn.\n\nEn dag sendte hun ham på stabburet etter mel.\n\nDa gutten kom ut på trammen, kom nordavinden.\n\nDen tok melet ut av skjeppa og blåste det til værs.\n\nGutten gikk inn og hentet mer.\n\nDa han kom ut igjen, kom nordavinden en gang til.\n\nHan gikk inn og hentet det siste de hadde.\n\nTredje gangen tok nordavinden alt sammen.\n\nDa satte gutten seg ned på trappa.\n\n– Nå har vi ingenting, sa moren.\n\n– Nei.\n\n– Hva skal vi gjøre?\n\nGutten reiste seg og børstet av seg.\n\n– Jeg går til nordavinden og krever det igjen.\n\nHan gikk lenge og langt.\n\nTil slutt kom han fram.\n\n– God dag, sa gutten. – Og takk for sist.\n\n– God dag, sa nordavinden. – Hva vil du?\n\n– Jeg vil ha igjen melet du tok.\n\n– Melet har jeg ikke.\n\n– Da vil jeg ha noe som er like mye verdt.\n\nNordavinden ble stående og se på ham.\n\nSå gikk den inn og hentet en duk.\n\n– Si «duk, dekk deg», så får du all den maten du vil ha.\n\nGutten takket og gikk.\n\nHan rakk ikke helt hjem den dagen.\n\nHan tok inn på et vertshus for natten.\n\nDer la han duken på bordet.\n\n– Duk, dekk deg.\n\nBordet fylte seg med mat fra ende til annen.\n\nVerten sto i døra og så på det.\n\nOm natten byttet han duken med en som lignet.\n\nHjemme la gutten duken på bordet.\n\n– Duk, dekk deg, sa han.\n\nIngenting skjedde.\n\nMoren så på ham.\n\n– Da går jeg tilbake, sa gutten.\n\nNordavinden hørte på ham.\n\n– Jeg har ikke mer mel.\n\n– Nei.\n\n– Men jeg har en bukk.\n\nBukken sto ute på tunet og tygget.\n\n– Si «bukk, bukk, lag penger».\n\nGutten sa det, og bukken laget gullpenger i gresset.\n\nPå veien hjem tok han inn på det samme vertshuset.\n\nOm natten byttet verten bukken med en annen bukk.\n\nHjemme sa gutten det han skulle si.\n\nBukken bare tygget.\n\nDa gikk gutten til nordavinden for tredje gang.\n\n– Er du her igjen?\n\n– Ja.\n\n– Har du mistet bukken også?\n\n– Noen har tatt den.\n\nNordavinden ble stille en stund.\n\n– Nå har jeg bare en kjepp igjen.\n\n– Hva gjør den?\n\n– Si «kjepp, kjepp, slå på», så slår den til du sier stopp.\n\nGutten tok kjeppen og gikk til vertshuset.\n\nHan skjønte nå hvor duken og bukken var blitt av.\n\nHan la seg til å sove med kjeppen ved siden av senga.\n\nHan lot som om han snorket.\n\nMidt på natten kom verten inn med en kjepp som lignet.\n\nDa satte gutten seg opp i senga.\n\n– Kjepp, kjepp, slå på.\n\nKjeppen slo, og verten hoppet over bord og benker.\n\n– Stopp, ropte verten.\n\n– Ikke ennå.\n\n– Du får duken igjen.\n\n– Og?\n\n– Og bukken.\n\n– Kjepp, kjepp, stopp, sa gutten.\n\nGutten gikk hjem med duken og bukken og kjeppen.\n\nMoren sto i døra da han kom.\n\n– Fikk du melet?\n\n– Nei.\n\n– Hva fikk du da?\n\nGutten la de tre tingene på bordet.\n\n– Det handler ikke om melet.\n\n– Hva handler det om da?\n\n– Om at jeg gikk og krevde det.\n\nMoren la duken over bordet uten å si noe.\n\nNordavinden blåser fortsatt, og den tar fortsatt det den vil, av alle som ikke går etter den.",
+      "language_code": "nb-NO",
+      "shelf": "folkeeventyr",
+      "tradition": "norwegian",
+      "source_type": "authentic_adaptation",
+      "source_material": "Norske Folkeeventyr, Asbjørnsen og Moe",
+      "source_notes": "Det viktigste var ikke melet, men at han gikk og krevde det.",
+      "parent_notes": {
+        "kilden": "Asbjørnsen og Moe samlet Norske Folkeeventyr mellom 1841 og 1852. De skrev ikke eventyrene selv — de reiste rundt og skrev ned det folk fortalte, og fant en norsk skriftform å gjøre det i. Teksten deres er derfor både kilde og kunstverk på én gang. Eventyret er kjent over hele Europa, men den norske versjonen har nordavinden selv som motpart.",
+        "tro_mot_originalen": [
+          "Nordavinden blåser bort melet tre ganger.",
+          "Gutten går av gårde for å kreve det igjen, helt alene.",
+          "Han får duken som dekker seg selv, bukken som lager penger og kjeppen som slår.",
+          "Verten bytter til seg de to første mens gutten sover.",
+          "Gutten later som han sover den tredje natten.",
+          "Han får både duken og bukken tilbake når kjeppen får gjøre jobben sin."
+        ],
+        "endret": [
+          "Kjeppen holder på lenger i kilden. Her stopper gutten den så snart verten gir seg.",
+          "Slutten i kilden sier at gutten dermed fikk «god rett for melet». Det er gjort om til en samtale med moren."
+        ],
+        "diktet_til": [
+          "Samtalen mellom gutten og moren i begynnelsen og slutten.",
+          "Moralen."
+        ],
+        "om_innholdet": "Gutten slår ikke verten selv — det er kjeppen som gjør det, og det er over på fire linjer. Poenget i eventyret er at et fattig barn går rett til noe så stort som vinden og krever sitt.",
+        "videre_lesning": [
+          {
+            "tekst": "Gutten som gikk til nordavinden",
+            "url": "https://snl.no/Gutten_som_gikk_til_nordavinden_og_krevde_igjen_melet"
+          },
+          {
+            "tekst": "Originalteksten hos Asbjørnsen og Moe",
+            "url": "https://runeberg.org/folkeven/023.html"
+          },
+          {
+            "tekst": "Norske Folkeeventyr hos Bokselskap",
+            "url": "https://www.bokselskap.no/boker/folkeeventyr/"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "gutten",
+        "moren",
+        "nordavinden",
+        "verten"
+      ],
+      "themes": [
+        "å kreve sitt",
+        "utholdenhet",
+        "urett"
+      ],
+      "content_warnings": [],
+      "moral": "Det viktigste var ikke melet, men at han gikk og krevde det.",
+      "adaptation_notes": "",
+      "status": "draft",
+      "sort_order": 3,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "askeladden-og-trollet",
+      "title": "Askeladden som kappåt med trollet",
+      "subtitle": null,
+      "teaser": "To brødre løper hjem fra trollet i skogen. Askeladden har en ost i skreppa.",
+      "summary": "Askeladden får trollet til å tro at han klemmer vann av stein, og vinner kappspisingen med skreppa under trøya.",
+      "story_text": "Det var en gang en fattig mann som hadde tre sønner.\n\nHan var gammel og orket ikke mer.\n\nGården hadde en skog, og i skogen sto det tømmer.\n\n– Dere må hogge, sa faren. – Ellers greier vi ikke gjelden.\n\nDen eldste sønnen gikk først.\n\nHan hogg i noen timer.\n\nDa kom det et troll bort til ham mellom trærne.\n\nTrollet var større enn de største grantrærne.\n\n– Hogger du i min skog?\n\n– Ja.\n\n– Da dreper jeg deg.\n\nGutten slapp øksa og løp hjem.\n\nFaren ble sittende ved bordet.\n\n– Er du redd for et troll?\n\n– Du har ikke sett ham.\n\nNeste dag gikk den nest eldste sønnen.\n\nHan hogg litt lenger enn broren.\n\nSå kom trollet.\n\n– Hogger du i min skog?\n\n– Ja.\n\n– Da dreper jeg deg.\n\nDen gutten løp også hjem.\n\nDa reiste Askeladden seg fra peisen.\n\n– Da går jeg.\n\nBrødrene lo av ham.\n\n– Du?\n\n– Du som bare sitter og roter i asken.\n\n– Ja, sa Askeladden. – Jeg.\n\nMoren hadde ikke brød i huset.\n\nHun ga ham en fersk ost i skreppa i stedet.\n\nAskeladden gikk til skogen og begynte å hogge.\n\nIkke lenge etter sto trollet der.\n\n– Hogger du i min skog?\n\nAskeladden svarte ikke med én gang.\n\nHan tok osten opp av skreppa.\n\n– Ser du denne hvite steinen?\n\n– Ja.\n\n– Ti stille, ellers klemmer jeg deg som jeg klemmer vannet av den.\n\nSå klemte han til.\n\nVannet sprutet mellom fingrene hans.\n\nTrollet stod og så på hånden hans.\n\n– Hør her, sa det. – Ikke klem.\n\n– Nei?\n\n– Jeg kan hjelpe deg å hogge i stedet.\n\nSå hogg de sammen hele dagen.\n\nTrollet felte trær som en mann feller kvister.\n\nOm kvelden ba det Askeladden med hjem til berget.\n\n– Vi må ha mat, sa trollet.\n\nTrollet satte over en gryte med grøt.\n\n– Nå kappspiser vi.\n\n– Ja vel.\n\n– Den som spiser mest, har vunnet.\n\nDa Askeladden ikke ble sett på, bandt han skreppa foran seg.\n\nFor hver skje han spiste, øste han to i skreppa.\n\nTrollet spiste og spiste.\n\nEtter en stund måtte det puste.\n\n– Er du ikke mett?\n\n– Nei, sa Askeladden.\n\n– Jeg er så full at jeg ikke orker mer.\n\n– Da gjør du som jeg.\n\n– Hva gjør du?\n\nAskeladden tok kniven og skar hull i skreppa.\n\nGrøten rant ut over gulvet.\n\n– Nå har jeg god plass igjen, sa han.\n\nTrollet så på hullet.\n\n– Gjør det vondt?\n\n– Ikke det minste.\n\nTrollet gjorde det samme.\n\nDet gikk ikke like bra for trollet.\n\nAskeladden ble sittende alene i berget.\n\nInne i fjellet sto det kister med sølv og gull.\n\nHan bar hjem det han greide å bære.\n\nHjemme la han det på bordet foran faren.\n\nGjelden var borte samme uke.\n\nOm kvelden satt brødrene og så på pengene.\n\n– Du var ikke sterkere enn oss, sa den eldste.\n\n– Nei.\n\n– Hvorfor gikk det bra for deg, da?\n\nAskeladden så bort på den tomme skreppa.\n\n– Det handler ikke om å være sterkere enn trollet.\n\n– Hva handler det om da?\n\n– Å la ham tro at jeg var det.\n\nBrødrene sa ikke mer den kvelden.\n\nOsten lå fortsatt i skreppa, og ingen av dem tenkte på å se etter.",
+      "language_code": "nb-NO",
+      "shelf": "folkeeventyr",
+      "tradition": "norwegian",
+      "source_type": "authentic_adaptation",
+      "source_material": "Norske Folkeeventyr, Asbjørnsen og Moe",
+      "source_notes": "Han var ikke sterkere enn trollet. Han fikk trollet til å tro det.",
+      "parent_notes": {
+        "kilden": "Asbjørnsen og Moe samlet Norske Folkeeventyr mellom 1841 og 1852. De skrev ikke eventyrene selv — de reiste rundt og skrev ned det folk fortalte, og fant en norsk skriftform å gjøre det i. Teksten deres er derfor både kilde og kunstverk på én gang. Askeladden er den yngste broren som alle ler av, og som vinner fordi han ser hva de andre går forbi.",
+        "tro_mot_originalen": [
+          "Faren er fattig og har gjeld, og guttene skal hogge tømmer.",
+          "Trollet sier til begge de eldste at det skal drepe dem, og de løper hjem.",
+          "Moren har ikke brød og gir Askeladden en fersk ost i stedet.",
+          "Han klemmer osten og sier det er en hvit stein.",
+          "Trollet blir redd og hjelper ham å hogge i stedet.",
+          "Askeladden binder skreppa foran seg og øser grøt i den mens de kappspiser.",
+          "Han skjærer hull i skreppa og sier han har fått bedre plass.",
+          "Trollet gjør det samme.",
+          "Askeladden tar sølvet og gullet i berget med seg hjem."
+        ],
+        "endret": [
+          "Hva som skjer med trollet står tydelig i kilden. Her står det bare at det ikke gikk like bra for ham."
+        ],
+        "diktet_til": [
+          "De fleste replikkene.",
+          "Samtalen mellom brødrene til slutt, og dermed moralen."
+        ],
+        "om_innholdet": "Trollet dør fordi det hermer etter Askeladden. Det står i én linje og beskrives ikke. Askeladden vinner ved å lure, ikke ved å slåss, og det er verdt å si høyt at det er nettopp det han gjør.",
+        "videre_lesning": [
+          {
+            "tekst": "Askeladden",
+            "url": "https://snl.no/Askeladden"
+          },
+          {
+            "tekst": "Originalteksten hos Asbjørnsen og Moe",
+            "url": "https://runeberg.org/folkeven/049.html"
+          },
+          {
+            "tekst": "Norske Folkeeventyr hos Bokselskap",
+            "url": "https://www.bokselskap.no/boker/folkeeventyr/"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "Askeladden",
+        "faren",
+        "moren",
+        "de to brødrene",
+        "trollet"
+      ],
+      "themes": [
+        "list",
+        "å bli undervurdert",
+        "mot"
+      ],
+      "content_warnings": [
+        "trollet får en brå slutt, ikke beskrevet"
+      ],
+      "moral": "Han var ikke sterkere enn trollet. Han fikk trollet til å tro det.",
+      "adaptation_notes": "",
+      "status": "draft",
+      "sort_order": 4,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "kvernen-pa-havsens-bunn",
+      "title": "Kvernen som maler på havsens bunn",
+      "subtitle": null,
+      "teaser": "En fattig mann bytter til seg ei kvern som maler alt man ber om, og som ikke stopper av seg selv.",
+      "summary": "Kverna gjør den fattige broren rik, og går til slutt ned med et skip fullt av salt.",
+      "story_text": "Det var en gang to brødre.\n\nDen ene var rik.\n\nDen andre hadde ingenting.\n\nJulaften hadde den fattige broren ikke mat i huset.\n\nHan gikk bort til den rike og banket på.\n\n– Jeg har ingenting til jul.\n\n– Nei vel.\n\n– Kan jeg få litt?\n\nDen rike broren gikk inn og kom ut med en flesk.\n\n– Her.\n\n– Takk.\n\n– Men så går du dit jeg sier.\n\n– Hvor da?\n\n– Rett til helvete.\n\nDen fattige broren tok flesket under armen.\n\n– Jeg har lovet det, sa han. – Da går jeg.\n\nHan gikk hele dagen og hele kvelden.\n\nDa det ble mørkt, kom han til en gammel mann som hogg ved.\n\n– Hvor skal du med det flesket?\n\n– Til helvete.\n\n– Da er du på rett vei.\n\nDen gamle mannen la fra seg øksa.\n\n– Hør på meg først.\n\n– Ja.\n\n– De der nede er glad i flesk.\n\n– Skal jeg selge det?\n\n– Ikke for penger, sa den gamle. – Bak døra står det ei handkvern.\n\n– Hva gjør den?\n\n– Ta den, og ingenting annet.\n\nSå viste han ham hvordan man stiller den.\n\nDen fattige broren gikk videre og kom fram.\n\nDer nede kom de i flokk rundt flesket.\n\nDe bød penger.\n\nDe bød gull.\n\nDe bød mer gull.\n\n– Nei, sa han.\n\n– Hva vil du ha da?\n\n– Kverna bak døra.\n\nDet ble stille i rommet.\n\nTil slutt fikk han kverna, og han gikk hjem med den.\n\nHjemme satte han den på bordet.\n\n– Kvern, kvern, mal lys og duk og mat.\n\nKverna begynte å male.\n\nDet kom lys.\n\nDet kom duk.\n\nDet kom mat til hele huset.\n\n– Kvern, kvern, stå, sa han.\n\nDa stanset den.\n\nDe holdt jul i tre dager, og naboene kom for å se.\n\nDen rike broren kom også.\n\nHan sto lenge i døra.\n\n– Hvor har du det fra?\n\n– Bak døra, sa broren.\n\n– Selg den til meg.\n\nTil slutt solgte han den for mange hundre daler.\n\nMen han sa ikke hvordan man stiller den.\n\nDen rike broren bar kverna hjem samme kveld.\n\nDagen etter satte han den ut på jordet.\n\n– Kvern, kvern, mal sild og graut.\n\nDet kom sild og graut.\n\nDet kom mer sild og graut.\n\nDet fløt utover hele tunet.\n\n– Stå, ropte han.\n\nKverna malte videre.\n\nHan måtte vasse hjem til broren og gi den tilbake.\n\nEtter en tid kom det en skipper forbi.\n\nHan hadde hørt om kverna.\n\n– Kan den male salt?\n\n– Den maler alt.\n\n– Da vil jeg kjøpe den.\n\nDe ble enige om en stor sum.\n\nSkipperen bar kverna om bord med én gang.\n\nHan ville ikke vente på å bli vist noe.\n\nUte på sjøen satte han den midt på dekket.\n\n– Kvern, kvern, mal salt.\n\nKverna malte salt.\n\nDen malte til dekket var hvitt.\n\nDen malte til lasterommet var fullt.\n\n– Nå er det nok, sa skipperen.\n\nKverna malte videre.\n\nHan slo på den og ropte til den.\n\nDen malte videre.\n\nTil slutt gikk skipet ned med kverna om bord.\n\nDer nede står den ennå.\n\nOm kvelden satt de to brødrene ute hos den fattige.\n\n– Du kunne solgt den for mer, sa den rike.\n\n– Ja.\n\n– Hvorfor sa du ikke hvordan man stiller den?\n\nBroren så bort på ham.\n\n– Du spurte ikke.\n\n– Nei.\n\n– Det handler ikke om hva kverna kan male.\n\n– Hva handler det om da?\n\n– Om å vite hvordan man får den til å stanse.\n\nDen rike broren ble sittende lenge etterpå.\n\nUte i havet maler kverna fortsatt salt, og det er derfor sjøen smaker som den gjør.",
+      "language_code": "nb-NO",
+      "shelf": "folkeeventyr",
+      "tradition": "norwegian",
+      "source_type": "authentic_adaptation",
+      "source_material": "Norske Folkeeventyr, Asbjørnsen og Moe",
+      "source_notes": "Det viktigste er ikke hva kverna kan male, men å vite hvordan man får den til å stanse.",
+      "parent_notes": {
+        "kilden": "Asbjørnsen og Moe samlet Norske Folkeeventyr mellom 1841 og 1852. De skrev ikke eventyrene selv — de reiste rundt og skrev ned det folk fortalte, og fant en norsk skriftform å gjøre det i. Teksten deres er derfor både kilde og kunstverk på én gang. Dette eventyret forklarer hvorfor havet er salt, og finnes i hele Norden.",
+        "tro_mot_originalen": [
+          "Den rike broren gir bort et flesk og ber ham gå til helvete med det.",
+          "En gammel mann i skogen sier at han ikke skal ta annet enn handkverna bak døra.",
+          "Kverna maler alt man ber om, og den fattige broren blir rik.",
+          "Den rike broren kjøper kverna, men får ikke vite hvordan man stiller den.",
+          "Han drukner tunet i sild og graut og må gi den tilbake.",
+          "En skipper kjøper den og lar den male salt.",
+          "Skipet går ned, og kverna maler ennå."
+        ],
+        "endret": [
+          "Julen og gjestebudet er kortet kraftig ned.",
+          "Det er uklart i kilden hvor mye den fattige broren egentlig sier til skipperen. Her sier han ingenting, og det er hans valg."
+        ],
+        "diktet_til": [
+          "Samtalen mellom brødrene til slutt, og dermed moralen.",
+          "At den rike broren spør hvorfor han ikke fikk vite det."
+        ],
+        "om_innholdet": "Ingen kommer til skade før skipet går ned, og det står i én setning. Eventyret er et godt utgangspunkt for å snakke om at det å skaffe seg noe og det å kunne stanse det, er to forskjellige ting.",
+        "videre_lesning": [
+          {
+            "tekst": "Kvernen som står og maler på havsens bunn",
+            "url": "https://snl.no/Kvernen_som_st%C3%A5r_og_maler_p%C3%A5_havsens_bunn"
+          },
+          {
+            "tekst": "Originalteksten hos Asbjørnsen og Moe",
+            "url": "https://runeberg.org/folkeven/056.html"
+          },
+          {
+            "tekst": "Norske Folkeeventyr hos Bokselskap",
+            "url": "https://www.bokselskap.no/boker/folkeeventyr/"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "den fattige broren",
+        "den rike broren",
+        "den gamle mannen",
+        "skipperen"
+      ],
+      "themes": [
+        "grådighet",
+        "å kunne stanse",
+        "hjelp"
+      ],
+      "content_warnings": [
+        "et skip går ned"
+      ],
+      "moral": "Det viktigste er ikke hva kverna kan male, men å vite hvordan man får den til å stanse.",
+      "adaptation_notes": "",
+      "status": "draft",
+      "sort_order": 5,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "manndattera-og-kjerringdattera",
+      "title": "Manndattera og kjerringdattera",
+      "subtitle": null,
+      "teaser": "Snella faller i brønnen, og nede i brønnen er det ikke vann.",
+      "summary": "To søstre går den samme veien og møter det samme, og bare den ene stanser underveis.",
+      "story_text": "Det var en gang en mann som ble gift på nytt.\n\nHan hadde en datter fra før.\n\nDen nye kona hadde også en datter.\n\nKona var god mot si egen.\n\nMot den andre var hun hard.\n\nManndattera fikk det tyngste arbeidet.\n\nEn morgen sto hun ved brønnen og spant.\n\nDa glapp snella.\n\nDen falt rett uti.\n\nKona kom ut på trammen.\n\n– Der ryker snella.\n\n– Den falt.\n\n– Da får du hente den.\n\n– Der nede?\n\n– Der nede.\n\nSå klatret hun uti.\n\n– Her er det ikke vann, sa hun til seg selv.\n\nDet var en grønn eng med sol over.\n\nHun gikk et stykke.\n\nSå kom hun til et risgjerde.\n\nGjerdet hang skjevt.\n\nDet var nær ved å falle.\n\n– Vær forsiktig når du går over meg, sa gjerdet.\n\n– Jeg skal gå der det er sterkest.\n\n– Takk, sa gjerdet.\n\nHun knakk ikke en eneste kvist.\n\nLitt lenger borte sto det ei ku.\n\nKua hadde jur som var stinnt av melk.\n\n– Melk meg, sa kua. – Jeg orker ikke gå slik.\n\n– Ja da.\n\nHun melket kua tom.\n\n– Ta deg en slurk, sa kua.\n\nSå gikk hun videre.\n\nDa kom hun til et epletre.\n\nTreet hang så fullt at greinene lå i gresset.\n\n– Plukk av meg, sa treet. – Jeg holder på å brekke.\n\n– Skal jeg ta alt?\n\n– Ta alt.\n\nHun plukket treet tomt.\n\nEplene la hun i en haug ved rota.\n\n– Takk, sa treet.\n\nTil slutt kom hun til et hus.\n\nDer bodde det ei gammel kjerring.\n\n– Kan jeg få tjeneste her?\n\n– Du kan koste og du kan vaske.\n\n– Ja.\n\n– Men du skal ikke se opp i pipa.\n\n– Da blir jeg, sa hun.\n\nManndattera kostet og vasket i ett år.\n\nHun så aldri opp i pipa.\n\nDa året var omme, sa kjerringa at hun kunne gå.\n\n– Du får velge en kiste med deg.\n\nDet sto tre kister på gulvet.\n\nÉn var rød og fin.\n\nÉn var blå med beslag på.\n\nÉn var svart og gammel.\n\n– Den svarte, sa hun.\n\n– Er du sikker? sa kjerringa.\n\n– Ja.\n\nSå gikk hun hjemover den veien hun kom.\n\n– Gå du, sa treet.\n\n– Gå du, sa kua.\n\n– Gå du, sa gjerdet.\n\nHjemme satte hun kista på bordet og åpnet den.\n\nDen var full av gull.\n\n– Hvor har du det fra? sa kona.\n\n– Nedenfra.\n\nDagen etter sendte hun sin egen datter til brønnen.\n\n– Nå går jeg ned, sa kjerringdattera.\n\nHun slapp snella med vilje.\n\nSå klatret hun uti.\n\nHun kom til det samme gjerdet.\n\n– Vær forsiktig når du går over meg.\n\n– Vær forsiktig når du går over meg.\n\n– Jeg bryr meg ikke om en bunt med ris.\n\nHun tråkket midt på og gikk videre.\n\nKua sto der med det samme juret.\n\n– Melk meg.\n\n– Jeg skal ikke gjøre grovarbeid her nede.\n\nEpletreet ba om det samme.\n\n– Plukk av meg.\n\n– Plukk selv.\n\nHun kom fram til huset og fikk tjeneste.\n\n– Ikke se opp i pipa, sa kjerringa.\n\nHun kostet lite og vasket mindre.\n\nOg hun så opp i pipa den første dagen.\n\nDa året var omme, fikk hun velge kiste.\n\n– Den røde, sa hun.\n\n– Er du sikker?\n\n– Ja.\n\nPå veien hjem sto treet i veien for henne.\n\nKua sto i veien for henne.\n\nGjerdet holdt henne igjen.\n\n– Slipp meg, ropte hun.\n\nHjemme satte hun kista på bordet.\n\n– Åpne den, sa kona.\n\nDet som kom ut, ville ingen ha.\n\nOm kvelden satt de to søstrene ute på trammen.\n\n– Du fikk gull og jeg fikk det der, sa kjerringdattera.\n\n– Ja.\n\n– Vi gikk jo den samme veien.\n\nManndattera satt en stund før hun svarte.\n\n– Det handler ikke om hvilken kiste vi valgte.\n\n– Hva handler det om da?\n\n– Om alt vi gikk forbi på veien dit.\n\nKjerringdattera svarte ikke på det.\n\nNede i brønnen står gjerdet fortsatt skjevt, og det står der og venter på den neste.",
+      "language_code": "nb-NO",
+      "shelf": "folkeeventyr",
+      "tradition": "norwegian",
+      "source_type": "authentic_adaptation",
+      "source_material": "Norske Folkeeventyr, Asbjørnsen og Moe",
+      "source_notes": "Det var ikke kista som avgjorde det. Det var alt de gikk forbi på veien dit.",
+      "parent_notes": {
+        "kilden": "Asbjørnsen og Moe samlet Norske Folkeeventyr mellom 1841 og 1852. De skrev ikke eventyrene selv — de reiste rundt og skrev ned det folk fortalte, og fant en norsk skriftform å gjøre det i. Teksten deres er derfor både kilde og kunstverk på én gang. Asbjørnsen skrev dette ned på Romerike, og det ble trykt i 1843. Det er et av de mest fortalte eventyrene i Norge.",
+        "tro_mot_originalen": [
+          "Manndattera får det tyngste arbeidet og blir sendt ned i brønnen.",
+          "Nede i brønnen er det en eng, ikke vann.",
+          "Hun møter et risgjerde, ei ku og et epletre som alle ber om hjelp.",
+          "Hun hjelper hver av dem og går videre.",
+          "Hun tjener hos ei gammel kjerring og får ikke se opp i pipa.",
+          "Hun velger den styggeste kista og får gull.",
+          "Kjerringdattera går samme vei, nekter å hjelpe noen, velger den fineste kista og får noe helt annet."
+        ],
+        "endret": [
+          "I kilden er det fire som ber om hjelp: gjerdet, kua, ei geit og epletreet. Her er det tre, fordi formen har tre runder.",
+          "Manndattera får oppgaver hos kjerringa som hun løser med hjelp fra småfugler. Det er utelatt.",
+          "Hva som kom ut av den fine kista står tydelig i kilden. Her står det bare at ingen ville ha det."
+        ],
+        "diktet_til": [
+          "De fleste replikkene.",
+          "Samtalen mellom de to søstrene til slutt, og dermed moralen."
+        ],
+        "om_innholdet": "Den ene søsteren får en straff til slutt. Den er ikke beskrevet. Eventyret er hardt mot den late, slik gamle eventyr ofte er, og det kan være verdt å si at det er eventyret som dømmer, ikke vi.",
+        "videre_lesning": [
+          {
+            "tekst": "Manndattera og kjerringdattera",
+            "url": "https://snl.no/Manndattera_og_kjerringdattera"
+          },
+          {
+            "tekst": "Originalteksten hos Asbjørnsen og Moe",
+            "url": "https://runeberg.org/folkeven/055.html"
+          },
+          {
+            "tekst": "Norske Folkeeventyr hos Bokselskap",
+            "url": "https://www.bokselskap.no/boker/folkeeventyr/"
+          }
+        ]
+      },
+      "reading_time_minutes": 7,
+      "characters": [
+        "manndattera",
+        "kjerringdattera",
+        "kona",
+        "kjerringa i brønnen"
+      ],
+      "themes": [
+        "å hjelpe",
+        "oppmerksomhet",
+        "hva man velger"
+      ],
+      "content_warnings": [
+        "stemor som er hard mot stedatteren"
+      ],
+      "moral": "Det var ikke kista som avgjorde det. Det var alt de gikk forbi på veien dit.",
+      "adaptation_notes": "",
+      "status": "draft",
+      "sort_order": 6,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "askeladden-og-hjelperne",
+      "title": "Askeladden og de gode hjelperne",
+      "subtitle": null,
+      "teaser": "Askeladden deler skorpene sine med en gammel mann, og tar med seg alle han møter på veien.",
+      "summary": "Tre menn ingen andre ville ha, løser hver sin umulige oppgave hos kongen.",
+      "story_text": "Kongen hadde ei datter og en beskjed til hele landet.\n\nDen som bygde et skip som gikk like godt på sjø som på land, skulle få henne.\n\nTre brødre ville prøve.\n\nDe to eldste tok med seg god mat.\n\nSå gikk de til skogen.\n\nDer møtte de en gammel mann.\n\n– Gi meg litt av nista di, sa han.\n\n– Gå din vei.\n\nSå hogg de i tre dager.\n\nDet ble ingenting av noe skip.\n\nDa ville Askeladden gå.\n\n– Du, sa brødrene.\n\n– Du får jo ikke hogge engang.\n\nHan fikk bare noen skorper med seg.\n\nI skogen satt den gamle mannen på samme sted.\n\n– Har du noe å spise?\n\n– Jeg har skorper, sa Askeladden. – Du kan få halvparten.\n\nDen gamle tok imot.\n\nHan satt og tygde lenge.\n\n– Hva er det du vil bygge?\n\n– Et skip som går på sjø og på land.\n\n– Legg deg til å sove.\n\nDa han våknet, sto skipet ferdig.\n\nDet sto mellom trærne.\n\n– Nå seiler du, sa den gamle. – Og du tar med alle du møter.\n\n– Alle?\n\n– Alle.\n\nAskeladden satte kursen mot kongsgården.\n\nVed veikanten satt det en mann og spiste stein.\n\n– Hva gjør du?\n\n– Jeg spiser, sa mannen. – Jeg blir aldri mett.\n\nFolk gikk forbi ham og lo.\n\n– Bli med, sa Askeladden.\n\nLenger fram lå en mann ved en bekk.\n\nHan lå på magen.\n\nHan drakk uten å løfte hodet.\n\n– Blir du aldri tørst nok?\n\n– Jeg blir aldri utørst, sa mannen.\n\n– Bli med.\n\nTil slutt kom de til en mann.\n\nHan sto på ett bein.\n\nPå det andre hang det tunge lodd.\n\n– Hvorfor står du sånn?\n\n– Fordi jeg løper for fort ellers.\n\n– Bli med, sa Askeladden.\n\nDe kom til kongsgården samme kveld.\n\nKongen kom ut på trappa og så på skipet.\n\n– Skipet er godt nok, sa han.\n\n– Da tar jeg datteren din.\n\n– Ikke ennå.\n\n– Hva mer skal jeg gjøre?\n\nKongen pekte bort på et bygg med lås for.\n\n– Der inne står det tre hundre tønner kjøtt.\n\n– Ja.\n\n– Det skal være tomt i morgen tidlig.\n\nSteineteren gikk inn i buret.\n\nSå lukket han døra.\n\nOm morgenen sto det tomt.\n\nKongen gikk rundt og så etter i alle kroker.\n\n– Da er det kjelleren, sa han.\n\n– Hva står der?\n\n– Tre hundre tønner øl og like mange med vin.\n\nHan som aldri ble utørst, gikk ned alene.\n\nOm morgenen lå alle tønnene på siden.\n\nKongen ble stående og telle dem to ganger.\n\n– Én ting til.\n\n– Ja.\n\n– Jeg vil ha vann fra verdens ende.\n\n– Når da?\n\n– Om ti minutter, sa kongen.\n\nDa tok springeren loddene av beinet.\n\nHan var borte før noen så hvor han gikk.\n\nÅtte minutter senere sto han i tunet.\n\nBøtta hadde han i hånden.\n\nVannet skvulpet over kanten.\n\nKongen sa ingenting på lenge.\n\nSå ga han bort datteren sin og halve riket.\n\nOm kvelden satt de tre brødrene ute.\n\n– Du gjorde jo ingenting selv, sa den eldste.\n\n– Nei.\n\n– Du bare gikk der.\n\n– Ja.\n\n– Hvorfor vant du, da?\n\nAskeladden så bort på de tre i tunet.\n\n– Det handler ikke om hva jeg greide.\n\n– Hva handler det om da?\n\n– At jeg tok med meg dem alle andre gikk forbi.\n\nBrødrene så ned i tunet de også.\n\nSteineteren gnog på en stein, akkurat som før.",
+      "language_code": "nb-NO",
+      "shelf": "folkeeventyr",
+      "tradition": "norwegian",
+      "source_type": "authentic_adaptation",
+      "source_material": "Norske Folkeeventyr, Asbjørnsen og Moe",
+      "source_notes": "Han greide ingenting selv. Han tok med seg dem alle andre gikk forbi.",
+      "parent_notes": {
+        "kilden": "Asbjørnsen og Moe samlet Norske Folkeeventyr mellom 1841 og 1852. De skrev ikke eventyrene selv — de reiste rundt og skrev ned det folk fortalte, og fant en norsk skriftform å gjøre det i. Teksten deres er derfor både kilde og kunstverk på én gang. Dette er et av de lengste Askeladden-eventyrene, og det som tydeligst handler om hva han gjør med folk andre går forbi.",
+        "tro_mot_originalen": [
+          "Kongen lover bort datteren til den som bygger et skip som går på sjø og på land.",
+          "De to eldste brødrene nekter å dele maten sin med den gamle mannen.",
+          "Askeladden deler skorpene sine, og skipet står ferdig når han våkner.",
+          "Den gamle sier at han skal ta med seg alle han møter.",
+          "Han plukker opp menn med underlige evner på veien.",
+          "Kongen setter oppgaver som hver hjelper løser.",
+          "Askeladden får kongsdatteren og halve riket."
+        ],
+        "endret": [
+          "I kilden er det seks hjelpere og fire oppgaver. Her er det tre og tre, fordi formen har tre runder. De som er tatt bort, er Øremannen, Skytteren og Frostmannen.",
+          "Kildens hjelpere har navn og lengre presentasjoner. Her er de bare det de gjør."
+        ],
+        "diktet_til": [
+          "De fleste replikkene.",
+          "Samtalen mellom brødrene til slutt, og dermed moralen.",
+          "Den siste linjen om Steineteren."
+        ],
+        "om_innholdet": "Ingen kommer til skade. Dette er det lyseste eventyret på hylla, og det eneste der hovedpersonen vinner uten å lure noen.",
+        "videre_lesning": [
+          {
+            "tekst": "Askeladden og de gode hjelperne",
+            "url": "https://snl.no/Askeladden_og_de_gode_hjelperne"
+          },
+          {
+            "tekst": "Originalteksten hos Asbjørnsen og Moe",
+            "url": "https://runeberg.org/folkeven/099.html"
+          },
+          {
+            "tekst": "Norske Folkeeventyr hos Bokselskap",
+            "url": "https://www.bokselskap.no/boker/folkeeventyr/"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "Askeladden",
+        "den gamle mannen",
+        "kongen",
+        "Steineteren",
+        "han som aldri ble utørst",
+        "springeren"
+      ],
+      "themes": [
+        "å dele",
+        "å se folk",
+        "hjelp"
+      ],
+      "content_warnings": [],
+      "moral": "Han greide ingenting selv. Han tok med seg dem alle andre gikk forbi.",
+      "adaptation_notes": "",
+      "status": "draft",
+      "sort_order": 7,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "ostenfor-sol-og-vestenfor-mane",
+      "title": "Østenfor sol og vestenfor måne",
+      "subtitle": null,
+      "teaser": "Hun tenner et lys for å se hvem som ligger ved siden av henne, og mister ham i det samme.",
+      "summary": "Hun går til verdens ende og kjøper seg tre netter for å få si én setning til ham.",
+      "story_text": "Det var en gang en fattig mann med mange barn.\n\nDen yngste datteren var den peneste.\n\nEn torsdagskveld banket det på ruta.\n\nUtenfor sto det en stor hvitbjørn.\n\n– God kveld, sa bjørnen.\n\n– God kveld.\n\n– Vil du gi meg den yngste datteren din?\n\nMannen ble stående i døra.\n\n– Hvorfor henne?\n\n– Fordi det må være henne.\n\n– Så skal du bli rik, sa bjørnen.\n\n– Vil du?\n\n– Nei.\n\nFaren spurte henne likevel.\n\nHun sa nei den første kvelden.\n\nHan spurte igjen dagen etter.\n\nTil slutt sa hun ja.\n\nSå satte hun seg på ryggen til bjørnen og de dro.\n\nDe kom til et berg som åpnet seg.\n\nInne i berget var rommene lyse.\n\nBordene dekket seg selv.\n\n– Slokk lyset, sa en stemme.\n\nSå slokte hun det.\n\nDa la det seg en mann ved siden av henne.\n\nHun så ham aldri.\n\nHan var borte før det ble lyst.\n\n– Hvem er du? spurte hun i mørket.\n\nHun fikk aldri svar.\n\nTil slutt ble hun stille om dagene.\n\n– Du lengter hjem, sa bjørnen.\n\n– Ja.\n\n– Da kan du reise.\n\n– Takk.\n\n– Men hør på meg først.\n\n– Ja.\n\n– Snakk aldri med moren din alene.\n\n– Der er hun, ropte de hjemme.\n\nMoren fikk henne inn på et rom likevel.\n\n– Ser du ham aldri?\n\n– Nei.\n\n– Da må du vite hvem det er.\n\nHun ga datteren en lysestump.\n\n– Tenn den når han sover.\n\nDatteren tok den med seg tilbake.\n\nOm natten lå hun våken.\n\nHun ventet til han sov.\n\nSå tente hun lyset og holdt det over ham.\n\nDet var en prins.\n\nHan var den vakreste hun hadde sett.\n\nHun bøyde seg ned for å kysse ham.\n\nDa falt tre dråper talg på skjorta.\n\nPrinsen våknet.\n\n– Hva har du gjort?\n\n– Jeg ville bare se deg.\n\n– Ett år til, så hadde jeg vært fri.\n\nHan satte seg opp på sengekanten.\n\n– Nå må jeg reise til stemoren min.\n\n– Hvor bor hun?\n\n– Østenfor sol og vestenfor måne.\n\n– Jeg kommer etter deg.\n\n– Dit finner ingen veien.\n\nNeste morgen lå hun på bakken i en skog.\n\n– Er du der? ropte hun.\n\nBerget var borte.\n\nHun gikk østover.\n\nHun gikk til skoene ble tynne.\n\n– Vet du veien? spurte hun alle hun møtte.\n\nTil slutt kom hun til en gammel kone.\n\nKona satt og lekte med et gulleple.\n\n– Vet du veien til slottet østenfor sol og vestenfor måne?\n\n– Nei, sa kona. – Men spør naboen.\n\nNaboen satt med et gullhespetre.\n\nHun visste ingenting.\n\nDen tredje satt med en gullrokk.\n\nHun visste heller ikke.\n\n– Men spør vindene, sa hun.\n\nJenta gikk til vindene.\n\nHun spurte dem etter tur.\n\nNordavinden satt igjen til sist.\n\n– Jeg var der én gang, sa den. – Jeg blåste et blad dit.\n\n– Kan du bære meg?\n\n– Jeg blir ikke god igjen på mange dager.\n\n– Men kan du?\n\n– Jeg kan, sa nordavinden.\n\nDe fløy så lavt at hælene tok i bølgene.\n\nDe kom fram på det siste den hadde igjen.\n\nUtenfor slottet satte hun seg ned.\n\nGulleplet lå i fanget.\n\nDa kom det en prinsesse ut.\n\nNesa hennes var tre alen lang.\n\n– Hva vil du ha for det eplet?\n\n– Det er ikke til salgs.\n\n– Alt er til salgs.\n\n– Jeg vil sitte hos prinsen i natt.\n\n– Ja, sa prinsessen.\n\n– Med én gang?\n\n– Med én gang.\n\nMen om kvelden ga hun prinsen noe å drikke.\n\nHan sov hele natten.\n\nHun fikk ham ikke våken.\n\nNeste dag satt hun der med gullhespetreet.\n\n– Og dette?\n\n– Samme pris.\n\nPrisen ble den samme, og natten ble den samme.\n\nDen tredje dagen satt hun der med gullrokken.\n\nDenne gangen hadde noen sagt fra til prinsen.\n\nHan lot være å drikke det han fikk.\n\nDa hun kom inn den tredje natten, satt han våken.\n\n– Du kom hit, sa han.\n\n– Ja.\n\n– Hele veien.\n\n– Ja.\n\n– Hør her, sa han.\n\nDe satt oppe til det ble lyst og la en plan.\n\nOm morgenen ville prinsen se hva bruden dugde til.\n\n– Jeg gifter meg med den som kan vaske skjorta mi ren.\n\nHan la fram skjorta med de tre talgflekkene.\n\nHun med den lange nesa tok den først.\n\n– Den blir mørkere, sa noen.\n\nJo mer hun vasket, jo verre ble det.\n\nMoren tok over.\n\nSkjorta ble nesten svart.\n\nTil slutt sto det en fattig jente i døra.\n\n– La henne prøve, sa prinsen.\n\nHun dyppet skjorta i vannet én gang.\n\nDa var den hvit som nyfallen snø.\n\nDe reiste samme dag.\n\nAlle som ville vekk, ble med.\n\nOm kvelden satt de to på trappa hjemme.\n\n– Jeg skulle aldri tent det lyset, sa hun.\n\n– Nei.\n\n– Hele året ble borte for oss.\n\nPrinsen ble sittende en stund.\n\n– Det handler ikke om at du tente lyset.\n\n– Hva handler det om da?\n\n– Om hvor langt du gikk for å gjøre det om igjen.\n\nHun svarte ikke på det.\n\nSkjorta hang til tørk utenfor.\n\nDe tre flekkene fantes ikke mer noe sted.",
+      "language_code": "nb-NO",
+      "shelf": "folkeeventyr",
+      "tradition": "norwegian",
+      "source_type": "authentic_adaptation",
+      "source_material": "Norske Folkeeventyr, Asbjørnsen og Moe",
+      "source_notes": "Det viktigste var ikke at hun tente lyset, men hvor langt hun gikk for å gjøre det om igjen.",
+      "parent_notes": {
+        "kilden": "Asbjørnsen og Moe samlet Norske Folkeeventyr mellom 1841 og 1852. De skrev ikke eventyrene selv — de reiste rundt og skrev ned det folk fortalte, og fant en norsk skriftform å gjøre det i. Teksten deres er derfor både kilde og kunstverk på én gang. Dette er den norske versjonen av et eventyr som er over tusen år gammelt. Den eldste nedskrevne varianten er Amor og Psyke, som ligger på hylla for antikken her på siden.",
+        "tro_mot_originalen": [
+          "En hvitbjørn ber om den yngste datteren og lover faren rikdom.",
+          "Om natten legger det seg en mann ved siden av henne i mørket, og hun ser ham aldri.",
+          "Moren gir henne en lysestump mot bjørnens uttrykkelige råd.",
+          "Tre dråper talg faller på skjorta hans, og han våkner.",
+          "Han må reise til slottet østenfor sol og vestenfor måne.",
+          "Tre gamle koner har gulleple, gullhespetre og gullrokk, og ingen av dem vet veien.",
+          "Nordavinden bærer henne dit, og de flyr så lavt at hælene tar i bølgene.",
+          "Hun bytter de tre gullsakene mot tre netter, og han sover gjennom de to første.",
+          "Prøven til slutt er å vaske de tre flekkene ut av skjorta, og bare hun greier det."
+        ],
+        "endret": [
+          "Kilden har flere reisetrinn og flere hester. Det er strammet inn.",
+          "De kristne fangene som varsler prinsen, er blitt til «noen».",
+          "Trollene på slottet får en hard slutt i kilden. Her står det bare at alle som ville vekk, ble med."
+        ],
+        "diktet_til": [
+          "De fleste replikkene.",
+          "Samtalen på trappa til slutt, og dermed moralen."
+        ],
+        "om_innholdet": "Ei ung jente blir gitt bort til et dyr av faren sin, og det er en gammel måte å begynne et eventyr på. Hun sier nei først, og hun sier ja selv. Resten av eventyret er hennes: hun gjør en feil, og så går hun til verdens ende for å rette den opp. Det er den lengste fortellingen på siden.",
+        "videre_lesning": [
+          {
+            "tekst": "Østenfor sol og vestenfor måne",
+            "url": "https://snl.no/%C3%98stenfor_sol_og_vestenfor_m%C3%A5ne"
+          },
+          {
+            "tekst": "Originalteksten hos Asbjørnsen og Moe",
+            "url": "https://runeberg.org/folkeven/034.html"
+          },
+          {
+            "tekst": "Norske Folkeeventyr hos Bokselskap",
+            "url": "https://www.bokselskap.no/boker/folkeeventyr/"
+          }
+        ]
+      },
+      "reading_time_minutes": 8,
+      "characters": [
+        "jenta",
+        "hvitbjørnen",
+        "prinsen",
+        "moren",
+        "nordavinden",
+        "prinsessen med den lange nesa"
+      ],
+      "themes": [
+        "å rette opp",
+        "utholdenhet",
+        "tillit"
+      ],
+      "content_warnings": [
+        "ei jente blir gitt bort"
+      ],
+      "moral": "Det viktigste var ikke at hun tente lyset, men hvor langt hun gikk for å gjøre det om igjen.",
+      "adaptation_notes": "",
+      "status": "draft",
+      "sort_order": 8,
+      "created_by": "story-agent"
+    }
+  ]
+}

@@ -259,7 +259,12 @@ REKKEFOLGE = ['odin-og-vavtrudne', 'tor-og-alvis',
               # Antikken: ilden først, og krukken rett etter — den er Zevs' svar på den.
               'prometevs-og-ilden', 'pandora-og-krukken', 'persefone-og-kjernen',
               'arakne-og-veven', 'kong-midas', 'psyke-og-oppgavene',
-              'odyssevs-og-kyklopen', 'dedalus-og-ikaros']
+              'odyssevs-og-kyklopen', 'dedalus-og-ikaros',
+              # Folkeeventyr: de korteste og yngste først, Østenfor sol sist.
+              'bukkene-bruse', 'mannen-som-stelte-hjemme', 'gutten-og-nordavinden',
+              'askeladden-og-trollet', 'kvernen-pa-havsens-bunn',
+              'manndattera-og-kjerringdattera', 'askeladden-og-hjelperne',
+              'ostenfor-sol-og-vestenfor-mane']
 
 
 def last():
