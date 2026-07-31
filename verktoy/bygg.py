@@ -266,7 +266,10 @@ REKKEFOLGE = ['yme-og-de-tre-brodrene', 'nornene-ved-brunnen', 'muren-rundt-asga
               'bukkene-bruse', 'mannen-som-stelte-hjemme', 'gutten-og-nordavinden',
               'askeladden-og-trollet', 'kvernen-pa-havsens-bunn',
               'manndattera-og-kjerringdattera', 'askeladden-og-hjelperne',
-              'ostenfor-sol-og-vestenfor-mane']
+              'ostenfor-sol-og-vestenfor-mane',
+              # Hjemmelagede: været først, huset i treet sist — de fire henger sammen.
+              'vesla-og-vaeret', 'dagen-ingen-ble-ferdig', 'hun-som-telte-alle',
+              'huset-i-treet']
 
 
 def last():

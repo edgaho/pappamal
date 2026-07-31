@@ -161,6 +161,10 @@ Atene · Afrodite · Amor · Dionysos · Hefaistos · Prometevs · Epimetevs · 
 Odyssevs · Polyfemos · Dedalus · Ikaros · Midas · Arakne · Silenos · kyklopen ·
 Olymp · Styx · Sardes · Kolofon
 
+**Hjemmelagede** — Vesla · storebroren · pappa. Ingen andre navn, og aldri navn på virkelige
+barn. Vesla har det største humøret i kongeriket; storebroren og pappa vil bli ferdige med det de
+holder på med. De tre hører sammen på tvers av alle fortellingene på den hylla.
+
 **Folkeeventyr** — Askeladden · Bukken Bruse · Askepott · manndattera · kjerringdattera ·
 nordavinden · Steineteren · seters · risgjerde · skreppe · kjerne (om smør)
 
