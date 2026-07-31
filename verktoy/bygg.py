@@ -255,7 +255,11 @@ REKKEFOLGE = ['odin-og-vavtrudne', 'tor-og-alvis',
               'tyr-og-fenrir', 'idun-og-eplene', 'skade-og-de-vakreste-fottene',
               'tor-og-leirmannen', 'tor-og-taa-som-ble-en-stjerne',
               'loke-og-froyas-fjaerdrakt', 'tor-og-den-farlige-elva',
-              'tor-i-brudeklaer', 'tor-hos-utgard-loke', 'balder-og-misteltein']
+              'tor-i-brudeklaer', 'tor-hos-utgard-loke', 'balder-og-misteltein',
+              # Antikken: ilden først, og krukken rett etter — den er Zevs' svar på den.
+              'prometevs-og-ilden', 'pandora-og-krukken', 'persefone-og-kjernen',
+              'arakne-og-veven', 'kong-midas', 'psyke-og-oppgavene',
+              'odyssevs-og-kyklopen', 'dedalus-og-ikaros']
 
 
 def last():

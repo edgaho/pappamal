@@ -153,7 +153,10 @@ Gyllenbuste · Sleipne · Svadilfare · Skinfakse · Rimfakse · Ræsvelg · Fen
 Hymeskvadet · Grimnesmål · Trymskvadet · Skaldskaparmål · Gylvaginning · Haustlong ·
 Baldrs draumar
 
-**Antikken** — Odyssevs · Prometevs · Psyke · Amor · Ikaros · Persefone · kyklopen
+**Antikken** — Zevs · Poseidon · Hades · Demeter · Persefone · Hermes · Hekate · Helios ·
+Atene · Afrodite · Amor · Dionysos · Hefaistos · Prometevs · Epimetevs · Pandora · Psyke ·
+Odyssevs · Polyfemos · Dedalus · Ikaros · Midas · Arakne · Silenos · kyklopen ·
+Olymp · Styx · Sardes · Kolofon
 
 **Folkeeventyr** — Askeladden · Bukkene Bruse · Askepott
 
@@ -304,7 +307,9 @@ Geirrød, Grid, Gjalp, Greip, Rungne, Groa, Aurvandil, Tjatse, Trym, Skrymer, Ut
 Huge, Elle, Tjalve, Roskva, Bauge, Suttung, Gunnlød, Mokkurkalve, Magne, Brokk, Sindre, Ivalde.
 Ting og steder: Mjølner, Gungne, Draupne, Skidbladne, Gleipne, Læding, Drome, Gyllenbuste,
 Sleipne, Svadilfare, Skinfakse, Rimfakse, Ræsvelg, Fenrir, Yggdrasil, Åsgard, Jotunheim, Valhall.
-Antikken: Odyssevs, Prometevs, Psyke, Amor, Ikaros, Persefone. Folkeeventyr: Askeladden,
+Antikken: Zevs, Poseidon, Hades, Demeter, Persefone, Hermes, Hekate, Helios, Atene, Afrodite,
+Amor, Dionysos, Hefaistos, Prometevs, Epimetevs, Pandora, Psyke, Odyssevs, Polyfemos, Dedalus,
+Ikaros, Midas, Arakne, Silenos, kyklopen, Olymp, Styx. Folkeeventyr: Askeladden,
 Bukkene Bruse, Askepott. Originalformen bare i kildehenvisningen, aldri i fortellingen.
 
 FORBUDT

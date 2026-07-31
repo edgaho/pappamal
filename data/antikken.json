@@ -1,0 +1,564 @@
+{
+  "schema_version": "1.0",
+  "export_type": "stories",
+  "stories": [
+    {
+      "slug": "prometevs-og-ilden",
+      "title": "Prometevs og ilden han bar ned",
+      "subtitle": null,
+      "teaser": "Menneskene fryser i mørket, og én av gudene spør Zevs tre ganger om å få gi dem ild.",
+      "summary": "Prometevs stjeler ilden til menneskene i en hul stilk, og betaler for det resten av livet.",
+      "story_text": "For lenge siden hadde menneskene ingen ild.\n\nDe spiste kjøttet rått.\n\nDe satt i mørket når sola gikk ned.\n\nOm vinteren satt de tett sammen og ventet.\n\nGudene på Olymp hadde ild i alle rom.\n\nDer bodde det en som het Prometevs.\n\nHan var ikke den sterkeste av gudene.\n\nHan var ikke den mektigste heller.\n\nMen han var den eneste som satt og så ned på menneskene.\n\nEn dag gikk han til Zevs.\n\n– De fryser, sa han.\n\n– Hvem da?\n\n– De der nede.\n\nZevs så ikke opp.\n\n– De har det som de skal ha det.\n\nPrometevs kom igjen om høsten.\n\n– Nå regner det på dem.\n\n– Ja.\n\n– Gi dem litt ild.\n\n– Nei.\n\nPrometevs kom tredje gang, midt på vinteren.\n\n– To av dem frøs i hjel i natt.\n\nDa la Zevs fra seg det han holdt på med.\n\n– Hør her.\n\n– Ja.\n\n– Får de ild, vil de ha alt annet også.\n\n– Kanskje.\n\n– De skal ha det akkurat som de har det.\n\nPrometevs sa ikke mer.\n\nHan gikk ut og ble stående lenge i porten.\n\nBroren hans Epimetevs kom bort til ham.\n\n– Ikke gjør det du tenker på.\n\n– Jeg tenker ikke på noe.\n\n– Jo.\n\nOm natten gikk han til den store salen.\n\nHan hadde med seg en tørr fennikelstilk.\n\nStilken var hul inni.\n\nHan la én glo inn i stilken.\n\nSå gikk han ned med den under kappen.\n\nMenneskene lå i mørket da han kom.\n\n– Kom hit, sa han.\n\nDe kom bort en etter en.\n\nHan la gloen i noen tørre kvister.\n\nDe sto rundt og så på at det tok fyr.\n\n– Hva er det?\n\n– Det er ild.\n\n– Er den vår?\n\n– Ja.\n\n– Kan den slukne?\n\n– Bare hvis dere lar den, sa Prometevs.\n\nDe satt oppe hele natten og passet på den.\n\nNeste morgen så Zevs ned.\n\nDet steg røyk opp fra hver eneste dal.\n\nHan visste med én gang hvem det var.\n\nZevs bandt Prometevs til et fjell langt mot øst.\n\nDet som skjedde med ham der, varte i mange hundre år.\n\nHan ba aldri om å slippe.\n\nEn gang kom Epimetevs opp til fjellet.\n\n– Jeg sa jo det.\n\n– Ja.\n\n– Angrer du?\n\nPrometevs så utover mot havet.\n\nLangt der nede lå det små lys spredt utover hele landet.\n\n– Ser du dem?\n\n– Ja.\n\n– Det handler ikke om at jeg tok ilden.\n\n– Hva handler det om da?\n\n– At jeg visste hva det kom til å koste, og gjorde det likevel.\n\n– For noen du aldri kommer til å møte.\n\n– Ja.\n\nEpimetevs ble sittende hos ham til det ble mørkt.\n\nIlden brenner fortsatt der nede, og ingen av dem som sitter ved den, vet hvem som bar den ned.",
+      "language_code": "nb-NO",
+      "shelf": "antikken",
+      "tradition": "greek",
+      "source_type": "expanded_adaptation",
+      "source_material": "Hesiod, Theogonien og Erga",
+      "source_notes": "Fennikelstilken, tyveriet og straffen står hos Hesiod. De tre gangene han ber Zevs om lov, er lagt til i stedet for offerknepet i kilden.",
+      "parent_notes": {
+        "kilden": "Hesiod skrev Theogonien og Erga rundt år 700 før vår tidsregning, og er den eldste kilden vi har til hvordan grekerne fortalte dette. Begge diktene har historien om ilden, fortalt litt ulikt.",
+        "tro_mot_originalen": [
+          "Zevs holder ilden borte fra menneskene med vilje.",
+          "Prometevs bærer ilden ned i en tørr fennikelstilk, som er hul inni og holder på gløden.",
+          "Zevs oppdager det med én gang han ser røyken.",
+          "Prometevs blir bundet til et fjell langt mot øst.",
+          "Broren Epimetevs er den som ikke tenker seg om på forhånd — navnene deres betyr omtrent «han som tenker før» og «han som tenker etter»."
+        ],
+        "endret": [
+          "I kilden begynner striden med at Prometevs lurer Zevs i et offer, med to hauger der den fineste er tom. Her ber han om lov tre ganger i stedet.",
+          "Straffen. Hos Hesiod kommer det en ørn til fjellet hver dag. Det er utelatt, og står bare som at det varte lenge.",
+          "Herakles, som til slutt befrir ham, er ikke med."
+        ],
+        "diktet_til": [
+          "Alle replikkene mellom Prometevs og Zevs.",
+          "Scenen der menneskene får ilden og spør hva det er.",
+          "Besøket fra Epimetevs på fjellet, og dermed moralen."
+        ],
+        "om_innholdet": "Prometevs blir straffet hardt, og straffen tar ikke slutt i fortellingen. Det står i to setninger og beskrives ikke. Fortellingen henger sammen med Pandora og krukken, som er det Zevs gjør etterpå.",
+        "videre_lesning": [
+          {
+            "tekst": "Prometheus",
+            "url": "https://en.wikipedia.org/wiki/Prometheus"
+          },
+          {
+            "tekst": "Hesiod, Theogonien",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130"
+          },
+          {
+            "tekst": "Hesiod, Erga",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0132"
+          }
+        ]
+      },
+      "reading_time_minutes": 5,
+      "characters": [
+        "Prometevs",
+        "Zevs",
+        "Epimetevs"
+      ],
+      "themes": [
+        "å gi",
+        "pris",
+        "å stå for noe"
+      ],
+      "content_warnings": [
+        "straff omtales, ikke beskrevet"
+      ],
+      "moral": "Han visste hva det kom til å koste, og gjorde det likevel — for noen han aldri kom til å møte.",
+      "adaptation_notes": "Fennikelstilken, tyveriet og straffen står hos Hesiod. De tre gangene han ber Zevs om lov, er lagt til i stedet for offerknepet i kilden.",
+      "status": "draft",
+      "sort_order": 1,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "pandora-og-krukken",
+      "title": "Pandora og det som lå nederst",
+      "subtitle": null,
+      "teaser": "Zevs sender en gave ned til menneskene, og gaven har et lokk.",
+      "summary": "Pandora åpner krukken hun ikke skulle åpne, og oppdager at det ligger noe igjen på bunnen.",
+      "story_text": "Zevs satt lenge og så ned på lysene i dalene.\n\nHan sa ingenting på flere dager.\n\nSå kalte han til seg smeden sin.\n\n– Lag noe til meg.\n\n– Hva skal det være?\n\n– En kvinne.\n\nSmeden formet henne av leire og vann.\n\nGudene kom en etter en og ga henne noe.\n\nÉn ga henne stemme.\n\nÉn ga henne fingre som kunne veve.\n\nÉn ga henne lyst til å vite ting.\n\nTil slutt ga Zevs henne et navn.\n\n– Du heter Pandora.\n\nSå satte han en krukke ved siden av henne.\n\nKrukken var av leire og hadde et tungt lokk.\n\n– Denne følger med, sa han.\n\n– Hva er i den?\n\n– Det trenger du ikke vite.\n\nHan sendte henne ned til menneskene med krukken.\n\nNede i dalen bodde Epimetevs.\n\nBroren hans hadde sagt én ting til ham.\n\n– Ta aldri imot en gave fra Zevs.\n\nEpimetevs husket det godt.\n\nMen da Pandora sto i døra, glemte han det.\n\nDe bodde sammen, og det gikk godt.\n\nKrukken sto i kroken ved veggen.\n\nDen første kvelden gikk Pandora forbi den.\n\n– Hva står i den kroken?\n\n– En krukke, sa Epimetevs.\n\n– Hva er i den?\n\n– Det vet jeg ikke.\n\nDen neste kvelden gikk hun bort og la hånden på lokket.\n\nSå tok hun hånden til seg igjen.\n\nDen tredje kvelden ble hun stående lenge foran den.\n\n– Har du aldri lurt på det?\n\n– Jo.\n\n– Hvorfor åpner du den ikke, da?\n\n– Fordi den ikke er min, sa Epimetevs.\n\nOm natten lå Pandora våken.\n\nHun hørte noe inne i krukken.\n\nDet var ikke en lyd, mer som at noe flyttet på seg.\n\nHun sto opp uten å tenne lys.\n\nHun gikk bort til kroken.\n\n– Ingen kommer til å merke det, sa hun til seg selv.\n\nSå løftet hun lokket en tomme.\n\nDet holdt.\n\nDet kom noe ut som var grått og gikk fort.\n\nDet gikk rett ut gjennom veggen og videre ut i verden.\n\nSå kom det mer.\n\nSykdom gikk ut den natten.\n\nBekymring gikk ut.\n\nKrangel og løgn og misunnelse gikk ut.\n\nPandora fikk lokket på plass igjen, men da var krukken nesten tom.\n\nEpimetevs sto i døra og så på henne.\n\n– Hva har du gjort?\n\n– Jeg vet ikke.\n\n– Er den tom?\n\nDa hørte de noe banke innenfra.\n\nDet banket forsiktig, én gang og så en gang til.\n\n– Det er noe igjen, sa Pandora.\n\n– La det være.\n\n– Nei.\n\nHun løftet lokket helt av.\n\nDet som satt igjen nederst, var lite og lyst.\n\nDet fløy ikke ut med én gang.\n\nDet ble sittende på kanten og se seg om.\n\n– Hva er du? spurte hun.\n\n– Håpet.\n\n– Hvorfor lå du nederst?\n\n– Fordi jeg skulle ligge sist, sa det.\n\nSå fløy det ut etter de andre.\n\nOm morgenen satt Pandora og Epimetevs ute på trammen.\n\nVerden så helt lik ut som dagen før.\n\n– Alt det stygge er ute nå, sa hun.\n\n– Ja.\n\n– Og jeg slapp det ut.\n\n– Ja.\n\nEpimetevs satt en stund før han sa mer.\n\n– Det handler ikke om det som fløy ut.\n\n– Hva handler det om da?\n\n– Om det som lå nederst og kom sist.\n\nPandora satte den tomme krukken ut i gresset.\n\nDen står der ennå, og folk går forbi den hver dag uten å se den.",
+      "language_code": "nb-NO",
+      "shelf": "antikken",
+      "tradition": "greek",
+      "source_type": "authentic_adaptation",
+      "source_material": "Hesiod, Erga",
+      "source_notes": "Krukken, det som slipper ut og håpet som blir igjen under kanten står hos Hesiod. De tre kveldene og alle replikkene er lagt til.",
+      "parent_notes": {
+        "kilden": "Hesiod forteller i Erga hva Zevs gjør etter at Prometevs har stjålet ilden. Det er ikke en eske i kilden, men en stor leirkrukke. Esken kom inn på 1500-tallet, ved en oversetterfeil som ble stående.",
+        "tro_mot_originalen": [
+          "Zevs får smeden Hefaistos til å forme henne av leire og vann.",
+          "Gudene gir henne hver sin gave, og navnet betyr «den som har fått alt».",
+          "Prometevs har advart broren mot å ta imot noe fra Zevs.",
+          "Epimetevs tar imot henne likevel.",
+          "Alt det vonde slipper ut når lokket løftes.",
+          "Håpet blir igjen inne i krukken, under kanten."
+        ],
+        "endret": [
+          "Hos Hesiod er Pandora selv straffen, og han skriver stygt om henne. Her er hun et menneske som gjør noe hun ikke kan gjøre om.",
+          "De tre kveldene ved krukken finnes ikke i kilden. Der åpner hun den uten nøling.",
+          "Kilden sier ikke om håpet kom ut eller ble værende. Her flyr det ut. Det er en tolkning, og den er valgt med vilje."
+        ],
+        "diktet_til": [
+          "Alle replikkene.",
+          "At håpet svarer når hun spør hva det er.",
+          "Samtalen på trammen, og dermed moralen."
+        ],
+        "om_innholdet": "Ingen kommer til skade her, men Pandora gjør noe som ikke kan gjøres om, og hun får vite det med én gang. Fortellingen hører sammen med Prometevs og ilden — dette er svaret Zevs sender ned.",
+        "videre_lesning": [
+          {
+            "tekst": "Pandora",
+            "url": "https://en.wikipedia.org/wiki/Pandora"
+          },
+          {
+            "tekst": "Hesiod, Erga",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0132"
+          },
+          {
+            "tekst": "Pandora hos Theoi",
+            "url": "https://www.theoi.com/Heroine/Pandora.html"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "Pandora",
+        "Zevs",
+        "Epimetevs"
+      ],
+      "themes": [
+        "nysgjerrighet",
+        "håp",
+        "å ikke kunne gjøre om"
+      ],
+      "content_warnings": [],
+      "moral": "Det som fløy ut, betyr mindre enn det som lå nederst og kom sist.",
+      "adaptation_notes": "Krukken, det som slipper ut og håpet som blir igjen under kanten står hos Hesiod. De tre kveldene og alle replikkene er lagt til.",
+      "status": "draft",
+      "sort_order": 2,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "persefone-og-kjernen",
+      "title": "Persefone og kjernen hun spiste",
+      "subtitle": null,
+      "teaser": "En jente plukker en blomst hun ikke har sett før, og jorda åpner seg under henne.",
+      "summary": "Demeter leter i ni dager etter datteren sin, og finner ut at én granatepplekjerne holder henne nede en del av året.",
+      "story_text": "Demeter var gudinnen som fikk ting til å gro.\n\nDer hun gikk, sto kornet høyt.\n\nHun hadde en datter som het Persefone.\n\nEn vårdag gikk Persefone ut på en eng med noen venninner.\n\nDe plukket blomster i fanget.\n\n– Se hvor mange det er her.\n\n– Ikke gå fra oss.\n\nSå fikk hun øye på en blomst hun aldri hadde sett før.\n\nDen sto alene lenger ute på jordet.\n\n– Vent litt, ropte hun. – Jeg vil bare se på den.\n\nHun gikk bort og tok tak i stilken.\n\nDa åpnet jorda seg under henne.\n\nVenninnene hørte henne rope én gang.\n\nSå ble det stille på enga.\n\nDemeter lette i ni dager.\n\nHun gikk med en fakkel i hver hånd.\n\nHun sov ikke og spiste ikke.\n\n– Har dere sett henne?\n\nDen niende natten møtte hun Hekate på veien.\n\n– Har du sett henne?\n\n– Nei, sa Hekate. – Men jeg hørte henne.\n\n– Hva hørte du?\n\n– Jeg hørte henne rope. Jeg så ingen.\n\n– Hvem ser alt?\n\n– Sola ser alt.\n\nDemeter gikk opp til Helios, som kjører sola over himmelen.\n\n– Du så det.\n\n– Ja.\n\n– Hvem tok henne?\n\nHelios ble sittende litt før han svarte.\n\n– Hades, sa han. – Han som rår der nede.\n\n– Hvem lot ham gjøre det?\n\n– Zevs.\n\n– Er det sant?\n\n– Ja.\n\nDa satte Demeter seg ned på en stein.\n\nHun reiste seg ikke igjen på lenge.\n\nOg mens hun satt der, grodde det ingenting.\n\nKornet kom ikke opp.\n\nTrærne satte ikke frukt.\n\nFolk gikk ut på jordene sine og fant bare jord.\n\nTil slutt kom Zevs bort til henne.\n\n– Du må la det gro igjen.\n\n– Nei.\n\n– Folk sulter.\n\n– Da vet du hva du skal gjøre.\n\nZevs sendte Hermes ned til Hades.\n\nDer nede satt Persefone i en stor, stille sal.\n\n– Du skal hjem, sa Hermes.\n\nPersefone reiste seg med én gang.\n\nHades sa ingenting.\n\nHan rakte henne bare et granateple i døra.\n\n– Ta med deg litt mat på veien.\n\n– Takk, sa hun.\n\nPersefone tok én kjerne og spiste den.\n\nBare den ene.\n\nSå gikk hun opp med Hermes.\n\nDemeter sto og ventet i lyset.\n\n– Er du hel?\n\n– Ja.\n\nDe ble stående og holde rundt hverandre lenge.\n\nDa spurte Demeter det hun måtte spørre om.\n\n– Spiste du noe der nede?\n\nPersefone svarte ikke med én gang.\n\n– Én kjerne.\n\nDemeter slapp henne.\n\n– Hvorfor?\n\n– Fordi jeg var sulten.\n\n– Den som spiser hos de døde, hører til der, sa Hermes.\n\n– Hele tiden?\n\n– En del av året.\n\n– Kan ikke Zevs gjøre noe?\n\n– Ikke engang han.\n\nSå ble de enige om en tredjedel.\n\nFire måneder hos Hades.\n\nÅtte måneder oppe hos moren sin.\n\nDen første høsten Persefone gikk ned igjen, la Demeter fra seg alt hun hadde i hendene.\n\nBladene falt av trærne samme uke.\n\nOm vinteren gikk hun rundt uten å få noe til å gro.\n\nMen da våren kom, sto Persefone i døra igjen.\n\nOm kvelden satt de to sammen ute.\n\n– Jeg er borte hver eneste vinter, sa Persefone.\n\n– Ja.\n\n– Er du lei deg for det hele tiden?\n\nDemeter så bort på enga, der det grodde igjen.\n\n– Det handler ikke om at du er borte.\n\n– Hva handler det om da?\n\n– At du kommer tilbake hvert eneste år.\n\nPersefone la hodet på skulderen hennes.\n\nUte på jordene sto kornet så høyt at man ikke kunne se over det.",
+      "language_code": "nb-NO",
+      "shelf": "antikken",
+      "tradition": "greek",
+      "source_type": "authentic_adaptation",
+      "source_material": "Den homeriske Demeter-hymnen",
+      "source_notes": "De ni dagene med fakler, Hekate som hørte og Helios som så, den ene kjernen og tredjedelen av året står alle i hymnen.",
+      "parent_notes": {
+        "kilden": "Den homeriske hymnen til Demeter er fra rundt år 600 før vår tidsregning. Den er den eldste og fyldigste kilden vi har til denne fortellingen.",
+        "tro_mot_originalen": [
+          "Persefone plukker blomster med venninner da jorda åpner seg.",
+          "Demeter leter i ni dager med en fakkel i hver hånd, uten å spise eller sove.",
+          "Hekate hørte henne rope, men så ingen. Helios så alt og forteller hvem det var.",
+          "Zevs hadde gitt sitt ja til Hades på forhånd.",
+          "Demeter lar ingenting gro mens hun sørger.",
+          "Hermes blir sendt for å hente henne.",
+          "Hades gir henne én granatepplekjerne på veien ut.",
+          "Hun blir en tredjedel av året nede og to tredjedeler oppe."
+        ],
+        "endret": [
+          "Tallene. De fleste gjenfortellinger sier seks kjerner og et halvt år. Hymnen sier én kjerne og en tredjedel av året, og det er den som er fulgt her. Ovid, som er yngre, skriver sju kjerner.",
+          "Blomsten i hymnen er en narsiss som Zevs har latt vokse med vilje for å lokke henne. Her står det bare at hun ikke hadde sett den før.",
+          "Demofon, gutten Demeter passer mens hun leter, er utelatt."
+        ],
+        "diktet_til": [
+          "Alle replikkene.",
+          "Samtalen mellom Demeter og Persefone om kvelden, og dermed moralen.",
+          "At Demeter spør rett ut om hun har spist noe."
+        ],
+        "om_innholdet": "Persefone blir tatt med ned mot sin vilje, og faren hennes har sagt ja til det uten å spørre noen. Selve bortføringen er tre setninger lang. Fortellingen er god å ha når noen er borte en stund og kommer tilbake.",
+        "videre_lesning": [
+          {
+            "tekst": "Persephone",
+            "url": "https://en.wikipedia.org/wiki/Persephone"
+          },
+          {
+            "tekst": "Den homeriske Demeter-hymnen",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0138%3Ahymn%3D2"
+          },
+          {
+            "tekst": "Demeter hos Theoi",
+            "url": "https://www.theoi.com/Olympios/Demeter.html"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "Persefone",
+        "Demeter",
+        "Hades",
+        "Zevs",
+        "Hermes",
+        "Hekate",
+        "Helios"
+      ],
+      "themes": [
+        "savn",
+        "å komme tilbake",
+        "årstidene"
+      ],
+      "content_warnings": [
+        "bortføring, ikke beskrevet"
+      ],
+      "moral": "Det viktigste er ikke at hun er borte, men at hun kommer tilbake hvert eneste år.",
+      "adaptation_notes": "De ni dagene med fakler, Hekate som hørte og Helios som så, den ene kjernen og tredjedelen av året står alle i hymnen.",
+      "status": "draft",
+      "sort_order": 3,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "arakne-og-veven",
+      "title": "Arakne og veven som var feilfri",
+      "subtitle": null,
+      "teaser": "Ingen kunne veve som Arakne, og hun sa det høyt til feil person.",
+      "summary": "Arakne veven vinner konkurransen mot gudinnen Atene, og taper likevel alt.",
+      "story_text": "I byen Kolofon bodde det en jente som het Arakne.\n\nFaren hennes farget ull.\n\nDe hadde ingen penger.\n\nDe hadde ingen som kjente dem.\n\nMen Arakne kunne veve.\n\nFolk kom langveisfra for å se hendene hennes gå.\n\nNymfene forlot vinrankene og sto i døra.\n\n– Se på hendene.\n\n– Hvem har lært deg dette? spurte de.\n\n– Ingen.\n\n– Noen må ha lært deg det.\n\n– Vev noe til meg, sa en av dem.\n\n– Hva vil du ha?\n\n– Hva som helst.\n\n– Jeg har lært meg det selv, sa Arakne.\n\nDet var sant.\n\nDerfor sa hun det.\n\nOg hun sa det litt for høyt.\n\n– Atene har vel hjulpet deg, sa en gammel kone i døra.\n\n– Det var hun som fant opp veven.\n\n– Atene har aldri sittet ved veven min.\n\n– Vær forsiktig med hva du sier.\n\n– Jeg sier bare det som er sant.\n\nDen gamle konen kom tilbake dagen etter.\n\n– Ta det tilbake.\n\n– Nei.\n\n– Si at hun er bedre enn deg, så er det gjort.\n\n– Er hun det?\n\nDen gamle konen svarte ikke.\n\nHun kom tredje gang, om kvelden.\n\n– Dette er siste gang jeg spør deg.\n\nDa reiste Arakne seg fra veven.\n\n– Si til Atene at hun kan komme selv.\n\nDen gamle konen rettet seg opp i ryggen.\n\nKappen falt av henne der hun sto.\n\nDet var Atene.\n\nDet ble helt stille i rommet.\n\nArakne ble hvit i ansiktet.\n\n– Angrer du nå?\n\n– Nei.\n\nMen hun satte seg ned ved veven igjen.\n\n– Da vever vi, sa hun.\n\nDe satte opp hver sin vev.\n\nAtene vevde inn gudene på rad.\n\nI hjørnene vevde hun folk som hadde snakket for stort.\n\n– Ser du hjørnene? sa hun.\n\n– Ja.\n\n– Da vet du hva jeg mener.\n\nArakne vevde noe helt annet.\n\nHun vevde Zevs som forkledde seg for å lure en jente.\n\nHun vevde Poseidon som gjorde det samme.\n\nHun vevde hver gang gudene hadde vært stygge.\n\nRundt kanten la hun blomster og eføy.\n\n– Ferdig.\n\nTil slutt gikk Atene bort til veven hennes.\n\nHun så på den lenge.\n\n– Finner du en feil? spurte Arakne.\n\n– Nei.\n\n– Ikke én tråd?\n\n– Ikke én tråd.\n\n– Hva er det da?\n\n– Det er ikke veven, sa Atene. – Det er hva du har vevd inn i den.\n\n– Nei, sa Arakne.\n\nSå rev Atene den ned fra rammen.\n\nArakne satt igjen på krakken.\n\nHun sa ingenting og hun gråt ikke.\n\nAtene tok fram en flaske med urtesaft.\n\nHun helte den over hodet hennes.\n\nArakne ble mindre der hun satt.\n\nFingrene ble lange og tynne.\n\nDe la seg langs siden av henne.\n\nHodet ble lite.\n\nØynene ble mange.\n\nUt av henne kom det en tråd.\n\nDen var finere enn noe hun hadde spunnet før.\n\nHun klatret opp i hjørnet og vevde videre.\n\nAtene ble stående og se på henne.\n\n– Du vever fortsatt.\n\nEdderkoppen svarte ikke.\n\n– Du kommer til å veve i tusen år.\n\n– Hører du meg?\n\nIngen svar.\n\nAtene gikk bort til døra og stanset der.\n\n– Det handler ikke om hvem av oss som vevde best.\n\nHun så opp i hjørnet.\n\n– Det handler om hva du sa mens du gjorde det.\n\nSå gikk hun ut og lot døra stå åpen.\n\nI hjørnene i alle hus henger det fortsatt vev.\n\nFolk feier dem ned uten å se på dem først.",
+      "language_code": "nb-NO",
+      "shelf": "antikken",
+      "tradition": "greek",
+      "source_type": "authentic_adaptation",
+      "source_material": "Ovid, Metamorfosene",
+      "source_notes": "Konkurransen, hva de to vever, at Atene ikke finner en feil og forvandlingen til edderkopp står hos Ovid.",
+      "parent_notes": {
+        "kilden": "Ovid skrev Metamorfosene rundt år 8. Hele verket handler om folk som blir forvandlet til noe annet, og Arakne er en av de mest kjente.",
+        "tro_mot_originalen": [
+          "Arakne er datter av en ullfarger og har ingen fin familie.",
+          "Nymfene forlater vinrankene for å se henne veve.",
+          "Atene kommer forkledd som en gammel kone og advarer henne.",
+          "Arakne ber gudinnen komme selv.",
+          "Atene vever gudene og setter advarsler i hjørnene.",
+          "Arakne vever gudene som forkler seg for å lure mennesker, med blomster og eføy rundt kanten.",
+          "Atene finner ingen feil i arbeidet og river veven ned.",
+          "Hun heller urtesaft over henne, og Arakne blir en edderkopp som vever videre."
+        ],
+        "endret": [
+          "Hos Ovid slår Atene henne tre ganger, og Arakne henger seg selv før forvandlingen. Alt dette er utelatt.",
+          "Ovid ramser opp mange flere gudehistorier i begge vevene. Her er det bare to.",
+          "Sluttreplikkene fra Atene finnes ikke i kilden."
+        ],
+        "diktet_til": [
+          "Alle replikkene.",
+          "At den gamle konen kommer tre kvelder på rad.",
+          "At Atene sier moralen høyt før hun går."
+        ],
+        "om_innholdet": "Arakne har rett, og taper likevel. Det er ikke rettferdig, og fortellingen later ikke som om det er det. Straffen i originalen er stygg og er tatt helt bort. Om barnet synes det er urettferdig, er det det riktige svaret.",
+        "videre_lesning": [
+          {
+            "tekst": "Arachne",
+            "url": "https://en.wikipedia.org/wiki/Arachne"
+          },
+          {
+            "tekst": "Ovid, Metamorfosene 6",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D6%3Acard%3D1"
+          },
+          {
+            "tekst": "Metamorfosene hos Perseus",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "Arakne",
+        "Atene"
+      ],
+      "themes": [
+        "stolthet",
+        "hva man sier",
+        "å ha rett"
+      ],
+      "content_warnings": [
+        "forvandling",
+        "urettferdig straff"
+      ],
+      "moral": "Det handlet ikke om hvem som vevde best, men om hva hun sa mens hun gjorde det.",
+      "adaptation_notes": "Konkurransen, hva de to vever, at Atene ikke finner en feil og forvandlingen til edderkopp står hos Ovid.",
+      "status": "draft",
+      "sort_order": 4,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "kong-midas",
+      "title": "Kong Midas og det han ba om",
+      "subtitle": null,
+      "teaser": "Kongen får ett ønske, og han har tenkt på det i mange år.",
+      "summary": "Midas ønsker seg at alt han tar på skal bli til gull, og får nøyaktig det.",
+      "story_text": "Det var en gang en konge som het Midas.\n\nHan var ikke den mektigste kongen i landet.\n\nHan var ikke den klokeste heller.\n\nMen han hadde et rom under huset.\n\nDer sto kistene med gullet hans.\n\nHver kveld gikk han ned og telte.\n\nSå lukket han kistene og gikk opp igjen.\n\nEn morgen kom gartneren inn til kongen.\n\n– Det ligger en gammel mann i rosebedet.\n\n– Sover han?\n\n– Han har gått seg bort.\n\nMidas ga ham mat og seng i ti dager.\n\nSå fulgte han ham hjem.\n\nDen han hørte til, var guden Dionysos.\n\n– Du har passet på vennen min, sa Dionysos.\n\n– Ja.\n\n– Da skal du få ønske deg noe.\n\nMidas svarte med én gang.\n\n– Alt jeg tar på, skal bli til gull.\n\nDionysos så på ham en stund.\n\n– Er du sikker?\n\n– Ja.\n\n– Tenk deg om.\n\n– Jeg har tenkt meg om i mange år, sa Midas.\n\n– Da får du det, sa Dionysos.\n\nPå vei hjem brakk Midas en kvist.\n\nKvisten ble tung i hånden.\n\nDen glitret, med blader og alt.\n\nHan lo høyt der han sto.\n\nHan tok på en stein.\n\nSteinen ble gull.\n\nHan tok på porten sin.\n\nPorten ble gull.\n\n– Alt sammen, sa han.\n\nHan gikk gjennom huset og tok på alt han eide.\n\nSå satte han seg til bords.\n\n– Nå spiser vi, sa han.\n\nDe satte fram brød.\n\nMidas tok brødet.\n\nBrødet ble hardt og kaldt i hånden.\n\n– Hva er dette?\n\n– Hent noe annet.\n\nDe satte fram kjøtt.\n\nMidas tok kjøttet.\n\nKjøttet lå og skinte på fatet.\n\n– Ta det bort.\n\n– Hell i vin, sa han.\n\nDe helte vin i begeret hans.\n\nMidas løftet det til munnen.\n\nVinen ble til gull mellom leppene hans.\n\n– Nei.\n\nHan satte begeret fra seg veldig forsiktig.\n\nSå ble han sittende og se på bordet.\n\nAlt sammen skinte.\n\n– Ingenting av dette går an å spise.\n\nMidas satt der i to dager.\n\nHan rørte ikke ved noen ting.\n\n– Kongen spiser ikke, sa de i huset.\n\n– Nei.\n\nDen tredje dagen gikk han ut.\n\nHan fant Dionysos og satte seg i støvet.\n\n– Hvor lenge har du sittet slik?\n\n– I to dager.\n\n– Ta det tilbake.\n\n– Var det ikke det du ba om?\n\n– Jo.\n\n– Fikk du noe annet enn det du ba om?\n\n– Nei, sa Midas. – Jeg fikk nøyaktig det.\n\nDionysos ventet litt.\n\n– Gå til elva ved Sardes.\n\n– Og så?\n\n– Legg deg uti med hodet og alt.\n\nMidas gikk til elva og la seg uti.\n\nGullet gikk ut av hendene og ned i sanden.\n\nDa han sto opp, var hendene bare hender.\n\nHjemme brøt han en ny kvist av det samme treet.\n\nKvisten ble værende en kvist.\n\nHan satt lenge med den.\n\nOm kvelden kom gartneren forbi.\n\n– Er alt gullet borte nå?\n\n– Ja.\n\n– Angrer du på ønsket?\n\nMidas snudde kvisten mellom fingrene.\n\n– Det handler ikke om gullet.\n\n– Hva handler det om da?\n\n– Om at jeg fikk nøyaktig det jeg ba om.\n\n– Var det verdt det?\n\n– Nei.\n\nGartneren gikk videre og lot ham sitte.\n\nI elva ved Sardes ligger det fortsatt gull i sanden.\n\nFolk plukker det opp uten å vite hvor det kom fra.",
+      "language_code": "nb-NO",
+      "shelf": "antikken",
+      "tradition": "greek",
+      "source_type": "authentic_adaptation",
+      "source_material": "Ovid, Metamorfosene",
+      "source_notes": "Ønsket, brødet, kjøttet, vinen og elva ved Sardes står hos Ovid. Datteren som blir til gull finnes ikke der.",
+      "parent_notes": {
+        "kilden": "Ovid forteller om Midas i ellevte bok av Metamorfosene. Dionysos gir ham ønsket fordi Midas har tatt vare på den gamle Silenos, som hadde gått seg bort.",
+        "tro_mot_originalen": [
+          "Midas tar vare på en gammel mann som har gått seg bort, og følger ham hjem.",
+          "Dionysos gir ham ett fritt ønske som takk.",
+          "Kvisten, steinen og porten blir til gull.",
+          "Brødet, kjøttet og vinen blir til gull i munnen hans.",
+          "Han ber om å bli kvitt gaven.",
+          "Han vasker den av seg i elva ved byen Sardes, og gullet blir liggende i sanden."
+        ],
+        "endret": [
+          "Ovid nevner ikke hvor mange dager Midas sulter. Her er det to.",
+          "Den gamle mannen har navnet Silenos i kilden. Her står det bare at han hadde gått seg bort.",
+          "Gartneren finnes ikke hos Ovid."
+        ],
+        "diktet_til": [
+          "Alle replikkene.",
+          "Rommet under huset der han teller gullet.",
+          "Samtalen med gartneren om kvelden, og dermed moralen."
+        ],
+        "om_innholdet": "Den morsomste fortellingen på denne hylla, helt til den ikke er det lenger. Datteren som blir til gull finnes ikke i noen gammel kilde — den kom inn i 1852, hos den amerikanske forfatteren Nathaniel Hawthorne, og har fulgt fortellingen siden. Den er utelatt her, fordi Ovid klarer seg uten den.",
+        "videre_lesning": [
+          {
+            "tekst": "Midas",
+            "url": "https://en.wikipedia.org/wiki/Midas"
+          },
+          {
+            "tekst": "Ovid, Metamorfosene 11",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D11%3Acard%3D85"
+          },
+          {
+            "tekst": "Metamorfosene hos Perseus",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "Midas",
+        "Dionysos",
+        "gartneren"
+      ],
+      "themes": [
+        "grådighet",
+        "å ønske",
+        "å få det man ba om"
+      ],
+      "content_warnings": [],
+      "moral": "Han fikk ikke noe annet enn det han ba om.",
+      "adaptation_notes": "Ønsket, brødet, kjøttet, vinen og elva ved Sardes står hos Ovid. Datteren som blir til gull finnes ikke der.",
+      "status": "draft",
+      "sort_order": 5,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "psyke-og-oppgavene",
+      "title": "Psyke og de fire oppgavene",
+      "subtitle": null,
+      "teaser": "Afrodite gir henne fire umulige oppgaver, og noen andre løser hver eneste en.",
+      "summary": "Psyke klarer alt Afrodite ber om, og ikke én eneste ting alene.",
+      "story_text": "Psyke var en helt vanlig jente fra en helt vanlig by.\n\nHun var ikke en gudinne.\n\nHun var ikke datter av noen konge heller.\n\nMen Amor, som var sønn av Afrodite, ble glad i henne.\n\nDet likte Afrodite dårlig.\n\nEn dag sto Psyke utenfor døra hennes.\n\n– Jeg vil ha ham tilbake, sa hun.\n\n– Du?\n\n– Ja.\n\nAfrodite så på henne fra topp til tå.\n\n– Da må du gjøre litt arbeid for meg først.\n\n– Hva slags arbeid?\n\n– Bli med.\n\nHun førte Psyke inn i et rom med en haug på gulvet.\n\nI haugen lå det hvete og bygg og hirse og linser, alt sammen blandet.\n\n– Legg hvert slag for seg, sa Afrodite. – Innen det blir morgen.\n\nSå lukket hun døra.\n\nPsyke satte seg ned ved haugen.\n\nHun tok opp ett korn.\n\nSå la hun det fra seg igjen.\n\nHun ble sittende uten å gjøre noe.\n\nDa kom det en maur bortover gulvet.\n\n– Du greier det ikke alene, sa mauren.\n\n– Nei.\n\n– Vent litt.\n\nMauren gikk ut gjennom sprekken under døra.\n\nDa den kom tilbake, kom hele tua etter.\n\nDe arbeidet hele natten i lange rekker.\n\nOm morgenen lå kornet i fire pene hauger.\n\nAfrodite så på haugene og sa ingenting på lenge.\n\n– Da tar vi noe vanskeligere.\n\nHun tok Psyke med ut til en elv.\n\nPå den andre siden gikk det sauer med gull i ulla.\n\n– Hent ull til meg.\n\n– Fra dem?\n\n– Fra dem.\n\nSauene stanget hverandre og løp i flokk langs vannet.\n\nPsyke satte foten uti.\n\nDa hvisket et siv nede ved kanten.\n\n– Ikke gå ut nå.\n\n– Hvorfor ikke?\n\n– Vent til kvelden, sa sivet. – Da legger de seg til å sove.\n\n– Og så?\n\n– Da henger det ull igjen i alle buskene de har gått forbi.\n\nPsyke ventet til sola gikk ned.\n\nSå gikk hun langs buskene og plukket gull ut av greinene.\n\nHun kom tilbake med hendene fulle.\n\nAfrodite telte ulla to ganger.\n\n– Én ting til.\n\nHun pekte opp mot et fjell.\n\nØverst kom det en foss ut av bergveggen.\n\nVannet i den kom fra elva Styx, som renner nede hos de døde.\n\n– Hent en mugge av det vannet.\n\nPsyke gikk oppover til hun ikke kom lenger.\n\nFjellet var glatt og loddrett.\n\nHun ble stående med muggen i hånden.\n\nDa falt det en skygge over henne.\n\nEn ørn slo ned ved siden av henne.\n\n– Gi meg muggen, sa den.\n\n– Kan du fly opp dit?\n\n– Jeg kan fly hvor som helst.\n\nØrnen kom tilbake med muggen full.\n\nAfrodite tok imot den uten å se på henne.\n\n– Da er det en siste ting.\n\nHun ga Psyke en liten eske.\n\n– Gå ned til de døde og be om litt skjønnhet i denne.\n\n– Og så?\n\n– Kom tilbake med den. Ikke åpne den.\n\nPsyke gikk hele veien ned og hele veien opp igjen.\n\nEsken lå lett i hånden hennes.\n\nHun satte seg ned på en stein for å hvile.\n\nHun så på esken.\n\nHun hadde gjort alt de hadde bedt om, og ingen hadde sagt noe pent til henne.\n\n– Litt av det kan vel jeg få, sa hun.\n\nSå åpnet hun lokket.\n\nDet var ikke skjønnhet i esken.\n\nDet var søvn.\n\nPsyke la seg ned på steinen og sovnet med én gang.\n\nDer lå hun til Amor fant henne.\n\nHan tok søvnen med hendene og la den tilbake i esken.\n\nSå satte han seg ned og ventet til hun våknet.\n\n– Jeg åpnet den, sa hun.\n\n– Ja.\n\n– Jeg klarte de tre andre.\n\n– Nei.\n\nPsyke satte seg opp.\n\n– Hva mener du?\n\n– Maurene sorterte kornet, sa Amor. – Sivet fortalte deg om buskene. Ørnen fløy opp i fossen.\n\n– Så jeg klarte ingenting.\n\n– Det handler ikke om at du klarte oppgavene.\n\n– Hva handler det om da?\n\n– At du ikke klarte én eneste av dem alene, og at de kom likevel.\n\nPsyke ble sittende med den lukkede esken i fanget.\n\nNede i gresset gikk det en maur forbi, på vei et sted.",
+      "language_code": "nb-NO",
+      "shelf": "antikken",
+      "tradition": "greek",
+      "source_type": "authentic_adaptation",
+      "source_material": "Apuleius, Det gylne esel",
+      "source_notes": "Kornhaugen og maurene, sauene og sivet, fossen og ørnen, og esken som viser seg å være søvn står alle hos Apuleius.",
+      "parent_notes": {
+        "kilden": "Apuleius skrev Det gylne esel på latin rundt år 170. Fortellingen om Amor og Psyke står midt inni og fyller tre av bøkene. Den er den eldste nedskrevne varianten av det mønsteret Askepott og mange andre eventyr senere følger.",
+        "tro_mot_originalen": [
+          "Afrodite gir Psyke oppgavene fordi sønnen hennes har blitt glad i henne.",
+          "Kornhaugen er hvete, bygg, hirse og linser blandet sammen.",
+          "Maurene sorterer den i løpet av natten.",
+          "Et siv forteller henne at ulla henger igjen i buskene når sauene har lagt seg.",
+          "Vannet skal hentes fra elva Styx, og en ørn henter det for henne.",
+          "Hun får en eske hun ikke skal åpne, åpner den, og det er søvn i den.",
+          "Amor er den som vekker henne."
+        ],
+        "endret": [
+          "Hele begynnelsen er utelatt: at Psyke blir gift med noen hun ikke får se, og at søstrene hennes får henne til å tenne lampen. Her begynner det med at hun vil ha ham tilbake.",
+          "Hos Apuleius er det Jupiter som sender ørnen. Her kommer den av seg selv.",
+          "Guden heter Cupido i kilden. Her heter han Amor, slik han allerede står i navnelista på denne siden."
+        ],
+        "diktet_til": [
+          "Alle replikkene.",
+          "At Amor regner opp hvem som gjorde hva, og dermed moralen.",
+          "Mauren som går forbi i den siste linjen."
+        ],
+        "om_innholdet": "Psyke sovner så dypt at det ligner døden, og blir vekket. Ellers er dette den mest oppmuntrende fortellingen på hylla: hun får hjelp av en maur, et siv og en fugl, og ingen av dem skylder henne noe. Kornhaugen er den samme oppgaven Askepott får mange hundre år senere.",
+        "videre_lesning": [
+          {
+            "tekst": "Cupid and Psyche",
+            "url": "https://en.wikipedia.org/wiki/Cupid_and_Psyche"
+          },
+          {
+            "tekst": "Apuleius, Det gylne esel",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0074"
+          },
+          {
+            "tekst": "Amor og Psyke hos Theoi",
+            "url": "https://www.theoi.com/Georgikos/Psykhe.html"
+          }
+        ]
+      },
+      "reading_time_minutes": 7,
+      "characters": [
+        "Psyke",
+        "Afrodite",
+        "Amor"
+      ],
+      "themes": [
+        "hjelp",
+        "å ikke klare noe alene",
+        "utholdenhet"
+      ],
+      "content_warnings": [
+        "dyp søvn som ligner død"
+      ],
+      "moral": "Hun klarte ikke én eneste av oppgavene alene, og de ble løst likevel.",
+      "adaptation_notes": "Kornhaugen og maurene, sauene og sivet, fossen og ørnen, og esken som viser seg å være søvn står alle hos Apuleius.",
+      "status": "draft",
+      "sort_order": 6,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "odyssevs-og-kyklopen",
+      "title": "Odyssevs og kjempen med ett øye",
+      "subtitle": null,
+      "teaser": "En hule full av ost, en stein ingen kan flytte, og et navn som redder dem alle.",
+      "summary": "Odyssevs kommer seg ut av hulen med list, og ødelegger nesten alt ved å rope navnet sitt etterpå.",
+      "story_text": "Odyssevs hadde vært på sjøen i mange år og ville hjem.\n\nHan var ikke den sterkeste av mennene sine.\n\nHan var ikke den yngste heller.\n\nMen han var den som alltid fant på noe.\n\nEn dag kom de til en øy med geiter i fjellsiden.\n\nDer oppe lå det en hule.\n\n– Vi går inn og ser, sa Odyssevs.\n\nDe tok med seg tolv mann og en sekk vin.\n\n– Se, sa en av dem.\n\nInne i hulen sto det oster i lange rader.\n\nDet sto lam i innhegninger langs veggen.\n\n– Ta ostene og la oss dra, sa en av mennene.\n\n– Nei.\n\n– Hvorfor ikke?\n\n– Jeg vil se hvem som bor her.\n\nDet var det dummeste han sa den dagen.\n\nOm kvelden kom eieren hjem med flokken sin.\n\nHan var så stor at han måtte bøye seg under taket.\n\nHan hadde ett øye midt i pannen.\n\nHan het Polyfemos.\n\nHan rullet en stein foran åpningen.\n\n– Tjue mann kunne ikke flyttet den, hvisket en av dem.\n\n– Hvem er dere?\n\n– Vi er sjøfolk på vei hjem, sa Odyssevs. – Vi ber om husrom.\n\n– Hvem ber dere til?\n\n– Til Zevs. Han passer på dem som kommer langveisfra.\n\nPolyfemos lo.\n\n– Vi her bryr oss ikke om Zevs.\n\nHan tok to av mennene med seg innerst i hulen.\n\nDe kom ikke tilbake.\n\nIngen sa noe mer den natten.\n\nOm morgenen gikk kyklopen ut med flokken.\n\nHan rullet steinen på plass bak seg.\n\n– Vi løper når han åpner, sa en av mennene.\n\n– Da ruller han steinen tilbake og vi er like langt.\n\n– Hva gjør vi da?\n\nOdyssevs så bort på vinsekken.\n\nOm kvelden kom Polyfemos hjem igjen.\n\nDa gikk Odyssevs fram med en skål.\n\n– Smak på denne.\n\nKyklopen drakk den tom.\n\n– Mer.\n\nOdyssevs fylte skålen på nytt.\n\nKyklopen drakk den tom igjen.\n\n– Mer.\n\nOdyssevs fylte den for tredje gang.\n\n– Denne gangen blander jeg ikke i vann, sa han lavt.\n\nPolyfemos satte seg ned mot veggen.\n\n– Hva heter du?\n\n– Jeg heter Ingen.\n\n– Ingen?\n\n– Moren min kaller meg Ingen. Faren min også.\n\nKyklopen lo lavt og lenge.\n\n– Da skal jeg gi deg en gave, Ingen.\n\n– Hva slags gave?\n\n– Jeg skal spise deg helt til slutt.\n\nSå la han seg ned og sovnet.\n\nMennene la en olivenstang i ilden.\n\nDe snudde den til den glødet.\n\nDet de gjorde etterpå, gjorde de i mørket.\n\nDa det ble morgen, så Polyfemos ingenting.\n\nHan ropte så det ljomet i fjellet.\n\nDa kom de andre kyklopene og sto utenfor steinen.\n\n– Hvem gjør deg noe? ropte de.\n\n– Ingen!\n\n– Hva sa du?\n\n– Ingen gjør meg noe!\n\nDet ble stille utenfor.\n\n– Da er du syk, sa de. – Det kan vi ikke hjelpe deg med.\n\nSå gikk de hjem og la seg igjen.\n\nOm morgenen måtte kyklopen slippe ut flokken.\n\nHan satte seg i åpningen og kjente på ryggen til hver sau.\n\nMen Odyssevs hadde bundet sauene sammen tre og tre.\n\nMennene hang under den midterste.\n\nKyklopen kjente ull og bare ull.\n\nSlik gikk de rett forbi hånden hans og ned til skipet.\n\nDe rodde ut så fort de kunne.\n\nDa de var et stykke ute, reiste Odyssevs seg i båten.\n\n– Hør på meg!\n\nMennene grep tak i ham.\n\n– Sett deg ned.\n\n– Han skal få vite hvem det var.\n\n– Sett deg ned, sa de igjen.\n\nOdyssevs ropte navnet sitt over vannet så høyt han kunne.\n\nDa snudde kyklopen seg mot lyden.\n\nHan rev løs et fjellstykke og kastet det etter dem.\n\nSjøen reiste seg og skjøv skipet halvveis tilbake mot land.\n\nDe rodde til hendene deres ikke orket mer.\n\nOm kvelden satt Odyssevs alene i akterenden.\n\nEn av mennene satte seg ved siden av ham.\n\n– Vi kom oss ut.\n\n– Ja.\n\n– Hvorfor sitter du sånn, da?\n\nOdyssevs så på hendene sine.\n\n– Det handler ikke om at vi kom oss ut.\n\n– Hva handler det om da?\n\n– Om det jeg ikke greide å la være.\n\nMannen svarte ikke på det.\n\nVinden sto imot dem hele veien hjem, år etter år.",
+      "language_code": "nb-NO",
+      "shelf": "antikken",
+      "tradition": "greek",
+      "source_type": "authentic_adaptation",
+      "source_material": "Odysseen, niende sang",
+      "source_notes": "Vinen, navnet Ingen, sauene bundet tre og tre og ropet til slutt står alle i Odysseen.",
+      "parent_notes": {
+        "kilden": "Odysseen ble diktet rundt år 700 før vår tidsregning. Odyssevs forteller selv om kyklopen i niende sang, som gjest i et fremmed hus — han er altså sin egen kilde, og det er verdt å huske på.",
+        "tro_mot_originalen": [
+          "Odyssevs tar med seg tolv mann inn i hulen.",
+          "Han vil vente på den som bor der, mot mennenes råd.",
+          "Polyfemos ruller en stein foran åpningen som ingen kan flytte.",
+          "Han sier rett ut at de ikke bryr seg om Zevs.",
+          "Vinen er sterk nok til å blandes med tjue deler vann.",
+          "Odyssevs sier at han heter Ingen.",
+          "Kyklopen lover at Ingen skal bli spist til slutt, som en gave.",
+          "Naboene går hjem igjen når han roper at Ingen gjør ham noe.",
+          "Mennene kommer ut bundet under sauer, tre og tre.",
+          "Odyssevs roper navnet sitt fra båten, og kyklopen kaster et fjellstykke."
+        ],
+        "endret": [
+          "Volden. I kilden spiser kyklopen seks av mennene, og blindingen er beskrevet i detalj. Her står det bare at to ikke kom tilbake, og at det som ble gjort, ble gjort i mørket.",
+          "Bønnen til Poseidon på slutten er utelatt, men motvinden er beholdt.",
+          "Odysseen er et dikt på vers. Dette er prosa."
+        ],
+        "diktet_til": [
+          "De fleste replikkene mellom mennene.",
+          "Samtalen i akterenden om kvelden, og dermed moralen."
+        ],
+        "om_innholdet": "To av mennene blir borte inne i hulen, og det står i to setninger uten forklaring. Kyklopen blir blindet, og det skjer utenfor bildet. Fortellingen er mest av alt spennende, og slutten er den mest brukbare delen: han vinner, og ødelegger det ved å måtte få æren.",
+        "videre_lesning": [
+          {
+            "tekst": "Polyphemus",
+            "url": "https://en.wikipedia.org/wiki/Polyphemus"
+          },
+          {
+            "tekst": "Odysseen, niende sang",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0136%3Abook%3D9"
+          },
+          {
+            "tekst": "Odysseen hos Theoi",
+            "url": "https://www.theoi.com/Text/HomerOdyssey9.html"
+          }
+        ]
+      },
+      "reading_time_minutes": 7,
+      "characters": [
+        "Odyssevs",
+        "Polyfemos",
+        "Zevs"
+      ],
+      "themes": [
+        "list",
+        "å holde munn",
+        "hovmod"
+      ],
+      "content_warnings": [
+        "menn blir borte i hulen, ikke beskrevet",
+        "kyklopen blir blindet, ikke beskrevet"
+      ],
+      "moral": "De kom seg ut. Det han ikke greide, var å la være å rope navnet sitt.",
+      "adaptation_notes": "Vinen, navnet Ingen, sauene bundet tre og tre og ropet til slutt står alle i Odysseen.",
+      "status": "draft",
+      "sort_order": 7,
+      "created_by": "story-agent"
+    },
+    {
+      "slug": "dedalus-og-ikaros",
+      "title": "Dedalus og gutten som fløy for høyt",
+      "subtitle": null,
+      "teaser": "Faren lager vinger av fjær og voks, og sier tre ting før de letter.",
+      "summary": "Dedalus advarer sønnen tre ganger, og innser etterpå at advarsler ikke var nok.",
+      "story_text": "Dedalus var mannen som kunne lage hva som helst.\n\nHan var ikke sterk.\n\nHan var ikke ung lenger heller.\n\nMen han fant alltid en vei ut av et rom.\n\nNå satt han på en øy han ikke fikk lov til å forlate.\n\nSønnen hans Ikaros satt der sammen med ham.\n\nDe hadde vært der i mange år.\n\n– Kan vi ikke ta en båt? spurte Ikaros.\n\n– Kongen har alle båtene.\n\n– Kan vi gå?\n\n– Vi bor på en øy.\n\nDedalus satt lenge og så opp.\n\nDet gikk fugler over dem hele dagen.\n\n– Han eier ikke lufta, sa han.\n\nDe begynte å samle fjær nede i fjæra.\n\n– Flere?\n\n– Flere.\n\nIkaros løp etter dem når vinden tok dem.\n\nDedalus la fjærene i rekker fra kort til lang.\n\nDe største bandt han sammen med tråd.\n\nDe minste festet han med voks.\n\nTil slutt bøyde han hele raden i en myk bue.\n\n– Hvor lang tid tar det?\n\n– En sommer.\n\nEn morgen sto de klare i strandkanten.\n\nDedalus spente vingene på gutten.\n\nHendene hans ristet mens han gjorde det.\n\n– Er du klar?\n\n– Ja.\n\n– Hør på meg nå.\n\n– Ja.\n\n– Ikke fly for lavt.\n\n– Hvorfor ikke?\n\n– Sjøen kaster opp vann. Vingene blir tunge av det.\n\n– Ja.\n\n– Og ikke fly for høyt.\n\n– Hvorfor ikke det?\n\n– Sola smelter voksen, sa Dedalus. – Da har du ingenting igjen å fly med.\n\nIkaros nikket.\n\n– Hold deg midt imellom.\n\n– Ja.\n\n– Og hold deg bak meg hele veien.\n\n– Ja, sa Ikaros.\n\nSå løftet de fra land.\n\nDet gikk bedre enn Dedalus hadde turt å håpe.\n\nUnder dem lå havet blått og rolig.\n\nFolk på bakken la fra seg det de hadde i hendene og så opp.\n\nEn fisker glemte snøret sitt.\n\nEn gjeter ble stående midt i flokken.\n\n– Det er guder, sa de.\n\nIkaros lo hele veien.\n\n– Ser du meg, far?\n\nHan prøvde å gå litt opp for å se hvordan det føltes.\n\nDet føltes godt.\n\n– Enda litt.\n\nSå gikk han litt høyere.\n\nFaren fløy foran og så ikke bakover.\n\nIkaros gikk høyere igjen.\n\nNå var øyene under ham små som steiner.\n\nHan slo med vingene og steg og steg.\n\nDet ble varmt i ryggen hans.\n\nSå kjente han at noe løsnet.\n\nHan slo hardere.\n\nDa var det ingenting under vingene lenger.\n\nHan ropte på faren sin én gang.\n\nDedalus hørte det og snudde seg.\n\nBak ham lå det bare fjær på vannet.\n\nHan fløy lavt over sjøen resten av dagen.\n\nHan ropte navnet til gutten om og om igjen.\n\nTil slutt landet han på en liten øy.\n\nDer satt han til det ble mørkt.\n\nOm kvelden kom det en gammel mann forbi.\n\n– Har du mistet noen?\n\n– Ja.\n\n– Var det du som lagde vingene?\n\n– Ja.\n\n– Hva het han?\n\n– Ikaros.\n\nDen gamle mannen satte seg ned ved siden av ham.\n\n– Han fløy for høyt, sa han. – Sånt skjer.\n\nDedalus ristet på hodet.\n\n– Det handler ikke om at han fløy for høyt.\n\n– Hva handler det om da?\n\n– At jeg ga ham vinger og trodde det holdt å advare ham.\n\nDen gamle mannen sa ikke mer.\n\nHavet der ute heter fortsatt det samme som gutten, og folk sier navnet uten å tenke på det.",
+      "language_code": "nb-NO",
+      "shelf": "antikken",
+      "tradition": "greek",
+      "source_type": "authentic_adaptation",
+      "source_material": "Ovid, Metamorfosene",
+      "source_notes": "Vingene av fjær, tråd og voks, de tre advarslene, fallet og navnet på havet står hos Ovid.",
+      "parent_notes": {
+        "kilden": "Ovid forteller om Dedalus og Ikaros i åttende bok av Metamorfosene. Dedalus er mannen som bygde labyrinten på Kreta, og som kongen ikke ville la reise hjem.",
+        "tro_mot_originalen": [
+          "Vingene er laget av fjær lagt i rekker fra kort til lang.",
+          "De største er bundet med tråd, de minste festet med voks, og hele raden er bøyd som en fuglevinge.",
+          "Advarselen er å holde midtveien: for lavt blir vingene tunge av sjøen, for høyt smelter sola voksen.",
+          "Folk på bakken slutter med det de holder på med og tror det er guder som flyr.",
+          "Ikaros stiger for høyt, voksen løsner, og han faller i havet.",
+          "Faren roper navnet hans, og havet heter fortsatt det samme som gutten."
+        ],
+        "endret": [
+          "Hos Ovid finner Dedalus fjærene i vannet og begraver sønnen. Her ender det på en øy før det.",
+          "Ovid har med en rapphøne som ser på og ler. Den hører til en annen historie og er tatt ut.",
+          "Labyrinten og Minotauren er ikke nevnt."
+        ],
+        "diktet_til": [
+          "De fleste replikkene, blant annet «Han eier ikke lufta».",
+          "Den gamle mannen på øya om kvelden, og dermed moralen."
+        ],
+        "om_innholdet": "Et barn dør, og det er den andre fortellingen på denne siden der det skjer. Selve fallet er fire korte avsnitt og beskrives ikke. Fortellingen er fortalt fra farens side, ikke fra guttens, og moralen legger ansvaret hos den voksne. Den bør leses av noen som har tid til å bli sittende etterpå.",
+        "videre_lesning": [
+          {
+            "tekst": "Icarus",
+            "url": "https://en.wikipedia.org/wiki/Icarus"
+          },
+          {
+            "tekst": "Ovid, Metamorfosene 8",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D8%3Acard%3D183"
+          },
+          {
+            "tekst": "Metamorfosene hos Perseus",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028"
+          }
+        ]
+      },
+      "reading_time_minutes": 6,
+      "characters": [
+        "Dedalus",
+        "Ikaros"
+      ],
+      "themes": [
+        "å advare",
+        "ansvar",
+        "sorg"
+      ],
+      "content_warnings": [
+        "et barn omkommer"
+      ],
+      "moral": "Han ga gutten vinger og trodde det holdt å advare ham.",
+      "adaptation_notes": "Vingene av fjær, tråd og voks, de tre advarslene, fallet og navnet på havet står hos Ovid.",
+      "status": "draft",
+      "sort_order": 8,
+      "created_by": "story-agent"
+    }
+  ]
+}
