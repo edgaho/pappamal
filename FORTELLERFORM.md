@@ -165,6 +165,10 @@ Olymp · Styx · Sardes · Kolofon
 barn. Vesla har det største humøret i kongeriket; storebroren og pappa vil bli ferdige med det de
 holder på med. De tre hører sammen på tvers av alle fortellingene på den hylla.
 
+Stedet er fast og skal ikke finnes på nytt: en leilighet i sjette etasje, én etasje og ingen
+trapper inne. Veranda ut mot himmelen. Storebroren og Vesla deler rom. I stua står bøkene,
+brettspillene, kunstmateriellet og pappas skrivebord. Dyr kommer til verandaen, ikke til et tun.
+
 **Folkeeventyr** — Askeladden · Bukken Bruse · Askepott · manndattera · kjerringdattera ·
 nordavinden · Steineteren · seters · risgjerde · skreppe · kjerne (om smør)
 
