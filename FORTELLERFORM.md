@@ -165,9 +165,19 @@ Olymp · Styx · Sardes · Kolofon
 barn. Vesla har det største humøret i kongeriket; storebroren og pappa vil bli ferdige med det de
 holder på med. De tre hører sammen på tvers av alle fortellingene på den hylla.
 
-Stedet er fast og skal ikke finnes på nytt: en leilighet i sjette etasje, én etasje og ingen
-trapper inne. Veranda ut mot himmelen. Storebroren og Vesla deler rom. I stua står bøkene,
-brettspillene, kunstmateriellet og pappas skrivebord. Dyr kommer til verandaen, ikke til et tun — fugler om vinteren og sommerfugler om sommeren.
+Stedet er fast, og **ingenting i det skal finnes på** — spør før du skriver inn en gjenstand.
+Leilighet i sjette etasje, én etasje, ingen trapper inne, heis og oppgang. Veranda med glass-
+rekkverk. Storebroren og Vesla deler rom. I stua står bøkene, brettspillene, kunstmateriellet og
+pappas skrivebord.
+
+På verandaen: grå sofa, to hvite solstoler med fotkrakker, gassgrill, to hvite lys-kuler, en
+Coca-Cola-stol fra Onkel Tore. **Sjur** er fuglen som sitter på rekkverket. Sommerfugler kommer
+bare forbi — de setter seg på stuevinduene og på glassrekkverket, og de blir ikke lokket av noe.
+I gangen: en flettet kurv med votter og luer, og et skoskap med porselensskåler.
+
+De to har bygd bok-benken, sy-bordet, skrivebordet på barnerommet, lego-hylla, og reparert senga.
+Pappa har malt ett bilde av hver av barna, svart bakgrunn, hennes med gult hår og propell på
+toppen. Det finnes en bildevegg med feriebilder.
 
 **Folkeeventyr** — Askeladden · Bukken Bruse · Askepott · manndattera · kjerringdattera ·
 nordavinden · Steineteren · seters · risgjerde · skreppe · kjerne (om smør)
