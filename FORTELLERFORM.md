@@ -171,7 +171,7 @@ rekkverk. Storebroren og Vesla deler rom. I stua står bøkene, brettspillene, k
 pappas skrivebord.
 
 På verandaen: grå sofa, to hvite solstoler med fotkrakker, gassgrill, to hvite lys-kuler, en
-Coca-Cola-stol fra Onkel Tore. **Sjur** er fuglen som sitter på rekkverket. Sommerfugler kommer
+Coca-Cola-stol fra Onkel Tore. Av og til setter det seg **ei skjære** på rekkverket. Den har ikke navn, og den er ikke der hver dag. Sommerfugler kommer
 bare forbi — de setter seg på stuevinduene og på glassrekkverket, og de blir ikke lokket av noe.
 I gangen: en flettet kurv med votter og luer, og et skoskap med porselensskåler.
 
